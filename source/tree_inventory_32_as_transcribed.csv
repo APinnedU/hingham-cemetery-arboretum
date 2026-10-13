@@ -1,0 +1,33 @@
+tree_number,section,scientific_name_working,common_name_working,notes,cultivar_or_variety,latitude,longitude,geolocation_status,taxonomy_status,source,review_notes
+01,B,Acer palmatum,Japanese Maple,Left of Ames Chapel,Bloodgood (first image); later inventory says Japanese maple only,,,NOT GEOLOCATED,WORKING ID,Inventory images supplied in conversation,
+02,A,Quercus laevis,Turkey Oak,#1 of 2 in cemetery,,,,NOT GEOLOCATED,REVIEW,Inventory images supplied in conversation,"Original reads Quercia/Quercus laevis Turkey Oak. Q. laevis is commonly called turkey oak, but verify specimen."
+03,A,Acer sp.,Maple,,,,,NOT GEOLOCATED,WORKING ID,Inventory images supplied in conversation,
+04,A,Larix laricina,American Larch (Tamarack),11 in Section A,,,,NOT GEOLOCATED,REVIEW,Inventory images supplied in conversation,"Larix laricina inferred from common name, not recorded in original."
+05,A,Quercus rubra,Northern Red Oak,,,,,NOT GEOLOCATED,WORKING ID,Inventory images supplied in conversation,
+06,A,Picea abies,Weeping Norway Spruce,,Pendula,,,NOT GEOLOCATED,REVIEW,Inventory images supplied in conversation,"Original spelling Picea abides, corrected provisionally to Picea abies."
+07,D,Acer saccharum,Sugar Maple,3 in Section D,,,,NOT GEOLOCATED,WORKING ID,Inventory images supplied in conversation,
+08,D,Acer sp.,Maple,,,,,NOT GEOLOCATED,WORKING ID,Inventory images supplied in conversation,
+09,D,Catalpa bignonioides,Southern Catalpa,,,,,NOT GEOLOCATED,WORKING ID,Inventory images supplied in conversation,
+10,D,Thuja plicata,Western Red Cedar,,,,,NOT GEOLOCATED,WORKING ID,Inventory images supplied in conversation,
+11,D,Quercus laevis,Turkey Oak,#2 of 2 in cemetery,,,,NOT GEOLOCATED,WORKING ID,Inventory images supplied in conversation,
+12,D,Ulmus sp.,Elm,,,,,NOT GEOLOCATED,WORKING ID,Inventory images supplied in conversation,
+13,V,Cornus florida,Flowering Dogwood,,Appalachian Spring,,,NOT GEOLOCATED,WORKING ID,Inventory images supplied in conversation,
+14,V,Cornus kousa,Kousa Dogwood,2 in Section V,National,,,NOT GEOLOCATED,WORKING ID,Inventory images supplied in conversation,
+15,V,Ulmus sp.,Elm,Jay Sadler’s tree,,,,NOT GEOLOCATED,WORKING ID,Inventory images supplied in conversation,
+16,V,Fagus sylvatica,European Beech,,,,,NOT GEOLOCATED,WORKING ID,Inventory images supplied in conversation,
+17,V,Acer saccharum,Sugar Maple,,Green Mountain,,,NOT GEOLOCATED,WORKING ID,Inventory images supplied in conversation,
+18,V,Ilex sp.,Holly,,,,,NOT GEOLOCATED,WORKING ID,Inventory images supplied in conversation,
+19,V or E,Acer palmatum,Coral Bark Maple,,Sangu Kaku (as transcribed),,,NOT GEOLOCATED,REVIEW,Inventory images supplied in conversation,"Section V or E uncertain. Cultivar usually written Sango-kaku, source says Sangu Kaku."
+20,E,Ginkgo biloba,Ginkgo,,,,,NOT GEOLOCATED,WORKING ID,Inventory images supplied in conversation,
+21,E,Abies balsamea,Balsam Fir,,,,,NOT GEOLOCATED,WORKING ID,Inventory images supplied in conversation,
+22,E,Pinus ponderosa,Ponderosa Pine,,,,,NOT GEOLOCATED,REVIEW,Inventory images supplied in conversation,Ponderosa pine appears in second image; verify identification.
+23,E,Nothofagus menziesii,Silver Beech,,,,,NOT GEOLOCATED,REVIEW,Inventory images supplied in conversation,Nothofagus menziesii taxonomy may now be Lophozonia menziesii; verify.
+24,C,Nothofagus menziesii,Silver Beech,,,,,NOT GEOLOCATED,REVIEW,Inventory images supplied in conversation,Nothofagus menziesii taxonomy may now be Lophozonia menziesii; verify.
+25,C,Liriodendron tulipifera,Tulip Tree,,,,,NOT GEOLOCATED,WORKING ID,Inventory images supplied in conversation,
+26,C,Zelkova serrata,Japanese Zelkova,,,,,NOT GEOLOCATED,WORKING ID,Inventory images supplied in conversation,
+27,B,Acer palmatum,Japanese Maple,Different variety than #01,,,,NOT GEOLOCATED,WORKING ID,Inventory images supplied in conversation,
+28,D,Tilia sp.,Linden,,,,,NOT GEOLOCATED,WORKING ID,Inventory images supplied in conversation,
+29,D,Acer platanoides,Norway Maple,"2 (+ others, Sect A)",,,,NOT GEOLOCATED,WORKING ID,Inventory images supplied in conversation,
+30,B,Fagus sylvatica ‘Pendula’,Weeping Green Beech,2 (Cinda Day’s tree),Pendula,,,NOT GEOLOCATED,WORKING ID,Inventory images supplied in conversation,
+31,A,Cercis canadensis,Eastern Redbud / Judas Tree,1 (Sue Bush’s tree),,,,NOT GEOLOCATED,REVIEW,Inventory images supplied in conversation,Source note Sue Bush tree; cultivar unspecified.
+32,A,Cercis canadensis ‘Appalachian Red’,Eastern Redbud,Gift of Derby Academy,Appalachian Red,,,NOT GEOLOCATED,REVIEW,Inventory images supplied in conversation,Cultivar Appalachian Red from source; verify.

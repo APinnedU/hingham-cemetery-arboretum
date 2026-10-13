@@ -1,0 +1,276 @@
+{
+ "type": "FeatureCollection",
+ "name": "Landmarks",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "chapel",
+    "name": "Ames Chapel (1886)",
+    "source": "Official map walking key"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8872143,
+     42.2425497
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "1",
+    "name": "Thomas Barnes gravestone (oldest original)",
+    "source": "Official map walking key"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8873511,
+     42.2424024
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "2",
+    "name": "Early settlers\u2019 gravestones / first fortification",
+    "source": "Official map walking key"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8877389,
+     42.2424473
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "3",
+    "name": "Settlers\u2019 Monument (1839)",
+    "source": "Official map walking key"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8875297,
+     42.242438
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "4",
+    "name": "Ministers\u2019 Tomb",
+    "source": "Official map walking key"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8869849,
+     42.2422055
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "5",
+    "name": "Sarah Derby, founder of Derby Academy",
+    "source": "Official map walking key"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8870646,
+     42.2422573
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "6",
+    "name": "Benjamin Lincoln, Revolutionary War general",
+    "source": "Official map walking key"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8865413,
+     42.2419999
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "7",
+    "name": "Original 19th-century cast-iron gates",
+    "source": "Official map walking key"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8868234,
+     42.2418441
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "8",
+    "name": "Adam Wallace Thaxter, cemetery founder",
+    "source": "Official map walking key"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8865337,
+     42.2423484
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "9",
+    "name": "Mary Revere Lincoln",
+    "source": "Official map walking key"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8846677,
+     42.2417838
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "10",
+    "name": "Gov. John A. Andrew",
+    "source": "Official map walking key"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8847355,
+     42.2421443
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "11",
+    "name": "Gov. John Davis Long",
+    "source": "Official map walking key"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8847111,
+     42.2422693
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "12",
+    "name": "Soldiers\u2019 and Sailors\u2019 Monument (1870)",
+    "source": "Official map walking key"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8850873,
+     42.2421224
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "13",
+    "name": "Peter Ourish, youngest Civil War volunteer",
+    "source": "Official map walking key"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8853821,
+     42.2421488
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "14",
+    "name": "Monument to six British seamen (Kadosh wreck)",
+    "source": "Official map walking key"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8844964,
+     42.2427233
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "17",
+    "name": "Angel of Grief (1891)",
+    "source": "Official map walking key"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.885294,
+     42.241628
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "18",
+    "name": "Veterans\u2019 Burial Ground (1994)",
+    "source": "Official map walking key"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8850383,
+     42.2421821
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "memorial_garden",
+    "name": "Memorial Garden",
+    "source": "Official map walking key"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8848072,
+     42.2413093
+    ]
+   }
+  }
+ ]
+}

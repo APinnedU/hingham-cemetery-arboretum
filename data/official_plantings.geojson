@@ -1,0 +1,306 @@
+{
+ "type": "FeatureCollection",
+ "name": "Official map noteworthy plantings",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "map_letter": "A",
+    "icon_id": "A",
+    "common_name": "Turkey Oak",
+    "scientific_name_as_printed": "Quercus cerris",
+    "where": "A/B boundary, north of chapel path",
+    "source": "Lettered tree icon on official Hingham Cemetery map (hinghamcemetery.org PDF)",
+    "position_method": "Icon centre digitized from map, thin-plate spline on 7 control points",
+    "accuracy_m": 20
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8874481,
+     42.2425405
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "map_letter": "L",
+    "icon_id": "L",
+    "common_name": "Japanese Maple",
+    "scientific_name_as_printed": "Acer palmatum",
+    "where": "beside the chapel",
+    "source": "Lettered tree icon on official Hingham Cemetery map (hinghamcemetery.org PDF)",
+    "position_method": "Icon centre digitized from map, thin-plate spline on 7 control points",
+    "accuracy_m": 20
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8873548,
+     42.2425527
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "map_letter": "I",
+    "icon_id": "I",
+    "common_name": "Larch",
+    "scientific_name_as_printed": "Larix decidua",
+    "where": "Section A",
+    "source": "Lettered tree icon on official Hingham Cemetery map (hinghamcemetery.org PDF)",
+    "position_method": "Icon centre digitized from map, thin-plate spline on 7 control points",
+    "accuracy_m": 20
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8868554,
+     42.2423611
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "map_letter": "D",
+    "icon_id": "D",
+    "common_name": "European Beech",
+    "scientific_name_as_printed": "Fagus sylvatica",
+    "where": "Section A, south of chapel",
+    "source": "Lettered tree icon on official Hingham Cemetery map (hinghamcemetery.org PDF)",
+    "position_method": "Icon centre digitized from map, thin-plate spline on 7 control points",
+    "accuracy_m": 20
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8867446,
+     42.2423743
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "map_letter": "J",
+    "icon_id": "J",
+    "common_name": "Swiss Stone Pine",
+    "scientific_name_as_printed": "Pinus cembra",
+    "where": "Section A, west edge near Main Street",
+    "source": "Lettered tree icon on official Hingham Cemetery map (hinghamcemetery.org PDF)",
+    "position_method": "Icon centre digitized from map, thin-plate spline on 7 control points",
+    "accuracy_m": 20
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8863346,
+     42.241904
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "map_letter": "E",
+    "icon_id": "E",
+    "common_name": "Fernleaf Beech",
+    "scientific_name_as_printed": "Fagus sylvatica \u2018Asplenifolia\u2019",
+    "where": "Section B/C, South Street side",
+    "source": "Lettered tree icon on official Hingham Cemetery map (hinghamcemetery.org PDF)",
+    "position_method": "Icon centre digitized from map, thin-plate spline on 7 control points",
+    "accuracy_m": 20
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8862926,
+     42.2424888
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "map_letter": "K",
+    "icon_id": "K",
+    "common_name": "Tulip Tree",
+    "scientific_name_as_printed": "Liriodendron tulipifera",
+    "where": "Section C",
+    "source": "Lettered tree icon on official Hingham Cemetery map (hinghamcemetery.org PDF)",
+    "position_method": "Icon centre digitized from map, thin-plate spline on 7 control points",
+    "accuracy_m": 20
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8857561,
+     42.242373
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "map_letter": "M",
+    "icon_id": "M",
+    "common_name": "Sugar Maple",
+    "scientific_name_as_printed": "Acer saccharum",
+    "where": "Section D",
+    "source": "Lettered tree icon on official Hingham Cemetery map (hinghamcemetery.org PDF)",
+    "position_method": "Icon centre digitized from map, thin-plate spline on 7 control points",
+    "accuracy_m": 20
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8855956,
+     42.2416928
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "map_letter": "A",
+    "icon_id": "A2",
+    "common_name": "Turkey Oak (second icon)",
+    "scientific_name_as_printed": "Quercus cerris",
+    "where": "Section D/V boundary",
+    "source": "Lettered tree icon on official Hingham Cemetery map (hinghamcemetery.org PDF)",
+    "position_method": "Icon centre digitized from map, thin-plate spline on 7 control points",
+    "accuracy_m": 20
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8853807,
+     42.2419751
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "map_letter": "N",
+    "icon_id": "N",
+    "common_name": "Pendant Silver Linden",
+    "scientific_name_as_printed": "Tilia tomentosa \u2018Petiolaris\u2019",
+    "where": "Section D/V boundary",
+    "source": "Lettered tree icon on official Hingham Cemetery map (hinghamcemetery.org PDF)",
+    "position_method": "Icon centre digitized from map, thin-plate spline on 7 control points",
+    "accuracy_m": 20
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8852625,
+     42.2418993
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "map_letter": "C",
+    "icon_id": "C",
+    "common_name": "Weeping Beech",
+    "scientific_name_as_printed": "Fagus sylvatica \u2018Pendula\u2019",
+    "where": "Section D/G boundary",
+    "source": "Lettered tree icon on official Hingham Cemetery map (hinghamcemetery.org PDF)",
+    "position_method": "Icon centre digitized from map, thin-plate spline on 7 control points",
+    "accuracy_m": 20
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8848556,
+     42.2418453
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "map_letter": "B",
+    "icon_id": "B",
+    "common_name": "American Beech",
+    "scientific_name_as_printed": "Fagus grandifolia",
+    "where": "Section G/E boundary near marker 9",
+    "source": "Lettered tree icon on official Hingham Cemetery map (hinghamcemetery.org PDF)",
+    "position_method": "Icon centre digitized from map, thin-plate spline on 7 control points",
+    "accuracy_m": 20
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8847356,
+     42.2418882
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "map_letter": "H",
+    "icon_id": "H",
+    "common_name": "Hedge Maple",
+    "scientific_name_as_printed": "Acer campestre",
+    "where": "Water Street edge, Section H",
+    "source": "Lettered tree icon on official Hingham Cemetery map (hinghamcemetery.org PDF)",
+    "position_method": "Icon centre digitized from map, thin-plate spline on 7 control points",
+    "accuracy_m": 20
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.883795,
+     42.2429995
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "map_letter": "F",
+    "icon_id": "F",
+    "common_name": "Silver Maple",
+    "scientific_name_as_printed": "Acer saccharinum",
+    "where": "Water Street edge, Section H",
+    "source": "Lettered tree icon on official Hingham Cemetery map (hinghamcemetery.org PDF)",
+    "position_method": "Icon centre digitized from map, thin-plate spline on 7 control points",
+    "accuracy_m": 20
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8838031,
+     42.2431561
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "map_letter": "G",
+    "icon_id": "G",
+    "common_name": "Red Maple",
+    "scientific_name_as_printed": "Acer rubrum",
+    "where": "Water Street edge, Section H",
+    "source": "Lettered tree icon on official Hingham Cemetery map (hinghamcemetery.org PDF)",
+    "position_method": "Icon centre digitized from map, thin-plate spline on 7 control points",
+    "accuracy_m": 20
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8838216,
+     42.2434135
+    ]
+   }
+  }
+ ]
+}

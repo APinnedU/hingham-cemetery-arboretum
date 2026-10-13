@@ -1,0 +1,421 @@
+{
+ "type": "FeatureCollection",
+ "name": "Hingham Cemetery sections (schematic)",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "section": "A",
+    "name": "Section A",
+    "label_lonlat": [
+     -70.8869973,
+     42.2423517
+    ],
+    "source": "Traced from official Hingham Cemetery map (hinghamcemetery.org, 2019 PDF); schematic, not survey"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -70.8883474,
+       42.2424691
+      ],
+      [
+       -70.8877427,
+       42.2425496
+      ],
+      [
+       -70.8868481,
+       42.2424335
+      ],
+      [
+       -70.8864912,
+       42.2423043
+      ],
+      [
+       -70.886255,
+       42.2421602
+      ],
+      [
+       -70.8861901,
+       42.2419324
+      ],
+      [
+       -70.8862611,
+       42.2417851
+      ],
+      [
+       -70.8867365,
+       42.2418839
+      ],
+      [
+       -70.8873396,
+       42.2422345
+      ],
+      [
+       -70.8883474,
+       42.2424691
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "section": "B",
+    "name": "Section B",
+    "label_lonlat": [
+     -70.8868267,
+     42.2425134
+    ],
+    "source": "Traced from official Hingham Cemetery map (hinghamcemetery.org, 2019 PDF); schematic, not survey"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -70.8877427,
+       42.2425496
+      ],
+      [
+       -70.8871794,
+       42.2426674
+      ],
+      [
+       -70.8864327,
+       42.2425967
+      ],
+      [
+       -70.8863035,
+       42.2425172
+      ],
+      [
+       -70.8863642,
+       42.2424263
+      ],
+      [
+       -70.8868481,
+       42.2424335
+      ],
+      [
+       -70.8877427,
+       42.2425496
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "section": "C",
+    "name": "Section C",
+    "label_lonlat": [
+     -70.8859774,
+     42.242249
+    ],
+    "source": "Traced from official Hingham Cemetery map (hinghamcemetery.org, 2019 PDF); schematic, not survey"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -70.8862413,
+       42.2421885
+      ],
+      [
+       -70.8862955,
+       42.2424353
+      ],
+      [
+       -70.8862178,
+       42.2425509
+      ],
+      [
+       -70.8858302,
+       42.2425354
+      ],
+      [
+       -70.8855579,
+       42.2423859
+      ],
+      [
+       -70.8855387,
+       42.2421148
+      ],
+      [
+       -70.8857958,
+       42.2420881
+      ],
+      [
+       -70.8862413,
+       42.2421885
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "section": "D",
+    "name": "Section D",
+    "label_lonlat": [
+     -70.8854149,
+     42.2417565
+    ],
+    "source": "Traced from official Hingham Cemetery map (hinghamcemetery.org, 2019 PDF); schematic, not survey"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -70.8861063,
+       42.2416537
+      ],
+      [
+       -70.8860625,
+       42.2420964
+      ],
+      [
+       -70.8857056,
+       42.2420689
+      ],
+      [
+       -70.8852041,
+       42.2418934
+      ],
+      [
+       -70.8847992,
+       42.2417549
+      ],
+      [
+       -70.8849131,
+       42.2413656
+      ],
+      [
+       -70.8861063,
+       42.2416537
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "section": "V",
+    "name": "Veterans\u2019 Area (Section V)",
+    "label_lonlat": [
+     -70.8849676,
+     42.2421061
+    ],
+    "source": "Traced from official Hingham Cemetery map (hinghamcemetery.org, 2019 PDF); schematic, not survey"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -70.8850844,
+       42.2419603
+      ],
+      [
+       -70.8852507,
+       42.2421585
+      ],
+      [
+       -70.8851117,
+       42.2422725
+      ],
+      [
+       -70.8848502,
+       42.2422695
+      ],
+      [
+       -70.8847352,
+       42.2421364
+      ],
+      [
+       -70.8848024,
+       42.2419733
+      ],
+      [
+       -70.8850844,
+       42.2419603
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "section": "E",
+    "name": "Section E",
+    "label_lonlat": [
+     -70.8848776,
+     42.2424779
+    ],
+    "source": "Traced from official Hingham Cemetery map (hinghamcemetery.org, 2019 PDF); schematic, not survey"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -70.8852333,
+       42.2422802
+      ],
+      [
+       -70.8851844,
+       42.2425846
+      ],
+      [
+       -70.8846572,
+       42.2428666
+      ],
+      [
+       -70.8845106,
+       42.2421471
+      ],
+      [
+       -70.8847022,
+       42.2421374
+      ],
+      [
+       -70.8848542,
+       42.2422976
+      ],
+      [
+       -70.8852333,
+       42.2422802
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "section": "F",
+    "name": "Section F",
+    "label_lonlat": [
+     -70.8842214,
+     42.2423482
+    ],
+    "source": "Traced from official Hingham Cemetery map (hinghamcemetery.org, 2019 PDF); schematic, not survey"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -70.8845106,
+       42.2421471
+      ],
+      [
+       -70.8844368,
+       42.2428611
+      ],
+      [
+       -70.8840912,
+       42.2428765
+      ],
+      [
+       -70.8840567,
+       42.2421863
+      ],
+      [
+       -70.8845106,
+       42.2421471
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "section": "G",
+    "name": "Section G",
+    "label_lonlat": [
+     -70.884386,
+     42.2416507
+    ],
+    "source": "Traced from official Hingham Cemetery map (hinghamcemetery.org, 2019 PDF); schematic, not survey"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -70.8848826,
+       42.2413597
+      ],
+      [
+       -70.8846372,
+       42.24214
+      ],
+      [
+       -70.8840567,
+       42.2421863
+      ],
+      [
+       -70.8843175,
+       42.2410585
+      ],
+      [
+       -70.8848826,
+       42.2413597
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "section": "H",
+    "name": "Section H",
+    "label_lonlat": [
+     -70.8841213,
+     42.2430987
+    ],
+    "source": "Traced from official Hingham Cemetery map (hinghamcemetery.org, 2019 PDF); schematic, not survey"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -70.8844368,
+       42.2428611
+      ],
+      [
+       -70.8844638,
+       42.2432861
+      ],
+      [
+       -70.8837916,
+       42.2434824
+      ],
+      [
+       -70.8837598,
+       42.2429536
+      ],
+      [
+       -70.8844368,
+       42.2428611
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}
