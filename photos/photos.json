@@ -1,0 +1,2230 @@
+[
+ {
+  "file": "FullSizeRender.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24255833333333,
+  "lon": -70.88817,
+  "section": "",
+  "near": [
+   {
+    "number": "02",
+    "name": "Turkey oak",
+    "m": 60
+   },
+   {
+    "number": "01",
+    "name": "Bloodgood Japanese maple",
+    "m": 67
+   },
+   {
+    "number": "04",
+    "name": "Larch (tamarack or European larch)",
+    "m": 111
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_0028.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24198,
+  "lon": -70.88549166666667,
+  "section": "D",
+  "near": [
+   {
+    "number": "11",
+    "name": "Turkey oak",
+    "m": 9
+   },
+   {
+    "number": "28",
+    "name": "Linden (not yet identified)",
+    "m": 21
+   },
+   {
+    "number": "07",
+    "name": "Sugar maple",
+    "m": 33
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_0300.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24227166666667,
+  "lon": -70.88684666666667,
+  "section": "A",
+  "near": [
+   {
+    "number": "04",
+    "name": "Larch (tamarack or European larch)",
+    "m": 10
+   },
+   {
+    "number": "35",
+    "name": "European beech",
+    "m": 14
+   },
+   {
+    "number": "24",
+    "name": "Fernleaf beech",
+    "m": 52
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_0580.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.242175,
+  "lon": -70.885505,
+  "section": "",
+  "near": [
+   {
+    "number": "11",
+    "name": "Turkey oak",
+    "m": 24
+   },
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 30
+   },
+   {
+    "number": "28",
+    "name": "Linden (not yet identified)",
+    "m": 37
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_0895.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24213333333334,
+  "lon": -70.88546166666667,
+  "section": "",
+  "near": [
+   {
+    "number": "11",
+    "name": "Turkey oak",
+    "m": 19
+   },
+   {
+    "number": "28",
+    "name": "Linden (not yet identified)",
+    "m": 31
+   },
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 36
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_0944.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24216333333333,
+  "lon": -70.88548333333334,
+  "section": "",
+  "near": [
+   {
+    "number": "11",
+    "name": "Turkey oak",
+    "m": 23
+   },
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 32
+   },
+   {
+    "number": "28",
+    "name": "Linden (not yet identified)",
+    "m": 35
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_1562.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.242345,
+  "lon": -70.88526166666666,
+  "section": "",
+  "near": [
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 41
+   },
+   {
+    "number": "11",
+    "name": "Turkey oak",
+    "m": 42
+   },
+   {
+    "number": "28",
+    "name": "Linden (not yet identified)",
+    "m": 50
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_1638.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24204166666667,
+  "lon": -70.88608666666667,
+  "section": "",
+  "near": [
+   {
+    "number": "39",
+    "name": "Swiss stone pine",
+    "m": 26
+   },
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 46
+   },
+   {
+    "number": "24",
+    "name": "Fernleaf beech",
+    "m": 53
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_1892.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24255,
+  "lon": -70.888175,
+  "section": "",
+  "near": [
+   {
+    "number": "02",
+    "name": "Turkey oak",
+    "m": 60
+   },
+   {
+    "number": "01",
+    "name": "Bloodgood Japanese maple",
+    "m": 68
+   },
+   {
+    "number": "04",
+    "name": "Larch (tamarack or European larch)",
+    "m": 111
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_1918.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24277166666667,
+  "lon": -70.8853,
+  "section": "",
+  "near": [
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 58
+   },
+   {
+    "number": "24",
+    "name": "Fernleaf beech",
+    "m": 88
+   },
+   {
+    "number": "11",
+    "name": "Turkey oak",
+    "m": 89
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_1933.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24254166666667,
+  "lon": -70.88604666666667,
+  "section": "C",
+  "near": [
+   {
+    "number": "24",
+    "name": "Fernleaf beech",
+    "m": 21
+   },
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 30
+   },
+   {
+    "number": "35",
+    "name": "European beech",
+    "m": 60
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_2019.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24257,
+  "lon": -70.88712166666667,
+  "section": "B",
+  "near": [
+   {
+    "number": "01",
+    "name": "Bloodgood Japanese maple",
+    "m": 19
+   },
+   {
+    "number": "02",
+    "name": "Turkey oak",
+    "m": 27
+   },
+   {
+    "number": "04",
+    "name": "Larch (tamarack or European larch)",
+    "m": 32
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_2105.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24211333333334,
+  "lon": -70.88597166666666,
+  "section": "",
+  "near": [
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 34
+   },
+   {
+    "number": "39",
+    "name": "Swiss stone pine",
+    "m": 38
+   },
+   {
+    "number": "24",
+    "name": "Fernleaf beech",
+    "m": 49
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_2131.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24231333333334,
+  "lon": -70.886855,
+  "section": "A",
+  "near": [
+   {
+    "number": "04",
+    "name": "Larch (tamarack or European larch)",
+    "m": 5
+   },
+   {
+    "number": "35",
+    "name": "European beech",
+    "m": 11
+   },
+   {
+    "number": "01",
+    "name": "Bloodgood Japanese maple",
+    "m": 49
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_2185.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24255833333333,
+  "lon": -70.88817,
+  "section": "",
+  "near": [
+   {
+    "number": "02",
+    "name": "Turkey oak",
+    "m": 60
+   },
+   {
+    "number": "01",
+    "name": "Bloodgood Japanese maple",
+    "m": 67
+   },
+   {
+    "number": "04",
+    "name": "Larch (tamarack or European larch)",
+    "m": 111
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_2497.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24210833333333,
+  "lon": -70.88578833333334,
+  "section": "C",
+  "near": [
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 30
+   },
+   {
+    "number": "11",
+    "name": "Turkey oak",
+    "m": 37
+   },
+   {
+    "number": "07",
+    "name": "Sugar maple",
+    "m": 49
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_2547.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.2427,
+  "lon": -70.88617833333333,
+  "section": "",
+  "near": [
+   {
+    "number": "24",
+    "name": "Fernleaf beech",
+    "m": 25
+   },
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 50
+   },
+   {
+    "number": "35",
+    "name": "European beech",
+    "m": 59
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_2599.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24252,
+  "lon": -70.88604666666667,
+  "section": "C",
+  "near": [
+   {
+    "number": "24",
+    "name": "Fernleaf beech",
+    "m": 21
+   },
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 29
+   },
+   {
+    "number": "35",
+    "name": "European beech",
+    "m": 60
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_2919.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24248,
+  "lon": -70.88711666666667,
+  "section": "B",
+  "near": [
+   {
+    "number": "01",
+    "name": "Bloodgood Japanese maple",
+    "m": 21
+   },
+   {
+    "number": "04",
+    "name": "Larch (tamarack or European larch)",
+    "m": 25
+   },
+   {
+    "number": "02",
+    "name": "Turkey oak",
+    "m": 28
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_2936.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.242775,
+  "lon": -70.88623833333334,
+  "section": "",
+  "near": [
+   {
+    "number": "24",
+    "name": "Fernleaf beech",
+    "m": 32
+   },
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 60
+   },
+   {
+    "number": "35",
+    "name": "European beech",
+    "m": 61
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_3077.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24253833333334,
+  "lon": -70.88713,
+  "section": "B",
+  "near": [
+   {
+    "number": "01",
+    "name": "Bloodgood Japanese maple",
+    "m": 19
+   },
+   {
+    "number": "02",
+    "name": "Turkey oak",
+    "m": 26
+   },
+   {
+    "number": "04",
+    "name": "Larch (tamarack or European larch)",
+    "m": 30
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_3103.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24145833333333,
+  "lon": -70.88666666666667,
+  "section": "",
+  "near": [
+   {
+    "number": "39",
+    "name": "Swiss stone pine",
+    "m": 57
+   },
+   {
+    "number": "07",
+    "name": "Sugar maple",
+    "m": 92
+   },
+   {
+    "number": "04",
+    "name": "Larch (tamarack or European larch)",
+    "m": 102
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_3164.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.242355,
+  "lon": -70.88728333333333,
+  "section": "A",
+  "near": [
+   {
+    "number": "01",
+    "name": "Bloodgood Japanese maple",
+    "m": 23
+   },
+   {
+    "number": "02",
+    "name": "Turkey oak",
+    "m": 25
+   },
+   {
+    "number": "04",
+    "name": "Larch (tamarack or European larch)",
+    "m": 35
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_3220.jpg",
+  "taken": "2025-11-02",
+  "lat": null,
+  "lon": null,
+  "section": "",
+  "near": [],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_3236.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24264166666666,
+  "lon": -70.88485833333333,
+  "section": "E",
+  "near": [
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 80
+   },
+   {
+    "number": "33",
+    "name": "American beech",
+    "m": 84
+   },
+   {
+    "number": "11",
+    "name": "Turkey oak",
+    "m": 86
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_3536.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24275833333333,
+  "lon": -70.8853,
+  "section": "",
+  "near": [
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 57
+   },
+   {
+    "number": "24",
+    "name": "Fernleaf beech",
+    "m": 87
+   },
+   {
+    "number": "11",
+    "name": "Turkey oak",
+    "m": 87
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_3553.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24331666666667,
+  "lon": -70.88587166666667,
+  "section": "",
+  "near": [
+   {
+    "number": "24",
+    "name": "Fernleaf beech",
+    "m": 98
+   },
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 105
+   },
+   {
+    "number": "35",
+    "name": "European beech",
+    "m": 127
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_3626.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24206666666667,
+  "lon": -70.88549666666667,
+  "section": "",
+  "near": [
+   {
+    "number": "11",
+    "name": "Turkey oak",
+    "m": 14
+   },
+   {
+    "number": "28",
+    "name": "Linden (not yet identified)",
+    "m": 27
+   },
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 40
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_3684.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24243833333333,
+  "lon": -70.88704666666666,
+  "section": "A",
+  "near": [
+   {
+    "number": "04",
+    "name": "Larch (tamarack or European larch)",
+    "m": 18
+   },
+   {
+    "number": "35",
+    "name": "European beech",
+    "m": 26
+   },
+   {
+    "number": "01",
+    "name": "Bloodgood Japanese maple",
+    "m": 28
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_3731.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24312166666667,
+  "lon": -70.88633666666666,
+  "section": "",
+  "near": [
+   {
+    "number": "24",
+    "name": "Fernleaf beech",
+    "m": 71
+   },
+   {
+    "number": "35",
+    "name": "European beech",
+    "m": 90
+   },
+   {
+    "number": "04",
+    "name": "Larch (tamarack or European larch)",
+    "m": 95
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_3795.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24211333333334,
+  "lon": -70.88546166666667,
+  "section": "",
+  "near": [
+   {
+    "number": "11",
+    "name": "Turkey oak",
+    "m": 17
+   },
+   {
+    "number": "28",
+    "name": "Linden (not yet identified)",
+    "m": 29
+   },
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 38
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_4065.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.242295,
+  "lon": -70.88597166666666,
+  "section": "C",
+  "near": [
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 20
+   },
+   {
+    "number": "24",
+    "name": "Fernleaf beech",
+    "m": 34
+   },
+   {
+    "number": "39",
+    "name": "Swiss stone pine",
+    "m": 53
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_4106.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24333666666666,
+  "lon": -70.885955,
+  "section": "",
+  "near": [
+   {
+    "number": "24",
+    "name": "Fernleaf beech",
+    "m": 98
+   },
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 109
+   },
+   {
+    "number": "35",
+    "name": "European beech",
+    "m": 125
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_4382.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24205,
+  "lon": -70.88548333333334,
+  "section": "",
+  "near": [
+   {
+    "number": "11",
+    "name": "Turkey oak",
+    "m": 12
+   },
+   {
+    "number": "28",
+    "name": "Linden (not yet identified)",
+    "m": 25
+   },
+   {
+    "number": "07",
+    "name": "Sugar maple",
+    "m": 41
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_4435.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24192,
+  "lon": -70.88751166666667,
+  "section": "",
+  "near": [
+   {
+    "number": "02",
+    "name": "Turkey oak",
+    "m": 69
+   },
+   {
+    "number": "01",
+    "name": "Bloodgood Japanese maple",
+    "m": 72
+   },
+   {
+    "number": "04",
+    "name": "Larch (tamarack or European larch)",
+    "m": 73
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_4599.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24167,
+  "lon": -70.88614666666666,
+  "section": "",
+  "near": [
+   {
+    "number": "39",
+    "name": "Swiss stone pine",
+    "m": 30
+   },
+   {
+    "number": "07",
+    "name": "Sugar maple",
+    "m": 45
+   },
+   {
+    "number": "11",
+    "name": "Turkey oak",
+    "m": 72
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_4610.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.241845,
+  "lon": -70.88668,
+  "section": "",
+  "near": [
+   {
+    "number": "39",
+    "name": "Swiss stone pine",
+    "m": 29
+   },
+   {
+    "number": "35",
+    "name": "European beech",
+    "m": 59
+   },
+   {
+    "number": "04",
+    "name": "Larch (tamarack or European larch)",
+    "m": 59
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_4616.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24165333333333,
+  "lon": -70.88618333333334,
+  "section": "",
+  "near": [
+   {
+    "number": "39",
+    "name": "Swiss stone pine",
+    "m": 31
+   },
+   {
+    "number": "07",
+    "name": "Sugar maple",
+    "m": 49
+   },
+   {
+    "number": "11",
+    "name": "Turkey oak",
+    "m": 75
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_4736.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24240833333333,
+  "lon": -70.88549666666667,
+  "section": "",
+  "near": [
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 22
+   },
+   {
+    "number": "11",
+    "name": "Turkey oak",
+    "m": 49
+   },
+   {
+    "number": "28",
+    "name": "Linden (not yet identified)",
+    "m": 60
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_4794.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24255833333333,
+  "lon": -70.88655,
+  "section": "B",
+  "near": [
+   {
+    "number": "24",
+    "name": "Fernleaf beech",
+    "m": 23
+   },
+   {
+    "number": "35",
+    "name": "European beech",
+    "m": 26
+   },
+   {
+    "number": "04",
+    "name": "Larch (tamarack or European larch)",
+    "m": 33
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_4953.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24254666666667,
+  "lon": -70.886055,
+  "section": "",
+  "near": [
+   {
+    "number": "24",
+    "name": "Fernleaf beech",
+    "m": 21
+   },
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 31
+   },
+   {
+    "number": "35",
+    "name": "European beech",
+    "m": 60
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_5263.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.241955,
+  "lon": -70.88749666666666,
+  "section": "",
+  "near": [
+   {
+    "number": "02",
+    "name": "Turkey oak",
+    "m": 65
+   },
+   {
+    "number": "01",
+    "name": "Bloodgood Japanese maple",
+    "m": 68
+   },
+   {
+    "number": "04",
+    "name": "Larch (tamarack or European larch)",
+    "m": 70
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_5749.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24203,
+  "lon": -70.88732166666667,
+  "section": "",
+  "near": [
+   {
+    "number": "04",
+    "name": "Larch (tamarack or European larch)",
+    "m": 53
+   },
+   {
+    "number": "02",
+    "name": "Turkey oak",
+    "m": 58
+   },
+   {
+    "number": "01",
+    "name": "Bloodgood Japanese maple",
+    "m": 58
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_5888.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.242275,
+  "lon": -70.88514666666667,
+  "section": "",
+  "near": [
+   {
+    "number": "11",
+    "name": "Turkey oak",
+    "m": 39
+   },
+   {
+    "number": "28",
+    "name": "Linden (not yet identified)",
+    "m": 43
+   },
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 51
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_6025.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24245,
+  "lon": -70.88551333333334,
+  "section": "",
+  "near": [
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 22
+   },
+   {
+    "number": "11",
+    "name": "Turkey oak",
+    "m": 54
+   },
+   {
+    "number": "24",
+    "name": "Fernleaf beech",
+    "m": 64
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_6101.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24255333333333,
+  "lon": -70.88655833333334,
+  "section": "B",
+  "near": [
+   {
+    "number": "24",
+    "name": "Fernleaf beech",
+    "m": 23
+   },
+   {
+    "number": "35",
+    "name": "European beech",
+    "m": 25
+   },
+   {
+    "number": "04",
+    "name": "Larch (tamarack or European larch)",
+    "m": 33
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_6115.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24226666666667,
+  "lon": -70.88684166666667,
+  "section": "A",
+  "near": [
+   {
+    "number": "04",
+    "name": "Larch (tamarack or European larch)",
+    "m": 11
+   },
+   {
+    "number": "35",
+    "name": "European beech",
+    "m": 14
+   },
+   {
+    "number": "24",
+    "name": "Fernleaf beech",
+    "m": 52
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_6192.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24213,
+  "lon": -70.88607,
+  "section": "",
+  "near": [
+   {
+    "number": "39",
+    "name": "Swiss stone pine",
+    "m": 33
+   },
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 37
+   },
+   {
+    "number": "24",
+    "name": "Fernleaf beech",
+    "m": 44
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_6240.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24243833333333,
+  "lon": -70.88704666666666,
+  "section": "A",
+  "near": [
+   {
+    "number": "04",
+    "name": "Larch (tamarack or European larch)",
+    "m": 18
+   },
+   {
+    "number": "35",
+    "name": "European beech",
+    "m": 26
+   },
+   {
+    "number": "01",
+    "name": "Bloodgood Japanese maple",
+    "m": 28
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_6433.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24213833333334,
+  "lon": -70.88607,
+  "section": "",
+  "near": [
+   {
+    "number": "39",
+    "name": "Swiss stone pine",
+    "m": 34
+   },
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 37
+   },
+   {
+    "number": "24",
+    "name": "Fernleaf beech",
+    "m": 43
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_7084.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24213833333334,
+  "lon": -70.88607,
+  "section": "",
+  "near": [
+   {
+    "number": "39",
+    "name": "Swiss stone pine",
+    "m": 34
+   },
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 37
+   },
+   {
+    "number": "24",
+    "name": "Fernleaf beech",
+    "m": 43
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_7130.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24204166666667,
+  "lon": -70.886095,
+  "section": "",
+  "near": [
+   {
+    "number": "39",
+    "name": "Swiss stone pine",
+    "m": 25
+   },
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 46
+   },
+   {
+    "number": "24",
+    "name": "Fernleaf beech",
+    "m": 52
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_7229.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24206666666667,
+  "lon": -70.88584166666666,
+  "section": "D",
+  "near": [
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 35
+   },
+   {
+    "number": "11",
+    "name": "Turkey oak",
+    "m": 39
+   },
+   {
+    "number": "39",
+    "name": "Swiss stone pine",
+    "m": 44
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_7541.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24216333333333,
+  "lon": -70.88513,
+  "section": "Veterans\u2019 Area (V)",
+  "near": [
+   {
+    "number": "11",
+    "name": "Turkey oak",
+    "m": 29
+   },
+   {
+    "number": "28",
+    "name": "Linden (not yet identified)",
+    "m": 31
+   },
+   {
+    "number": "34",
+    "name": "Weeping beech",
+    "m": 42
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_7561.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.243405,
+  "lon": -70.88600833333334,
+  "section": "",
+  "near": [
+   {
+    "number": "24",
+    "name": "Fernleaf beech",
+    "m": 105
+   },
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 117
+   },
+   {
+    "number": "35",
+    "name": "European beech",
+    "m": 130
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_7600.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24257,
+  "lon": -70.88712166666667,
+  "section": "B",
+  "near": [
+   {
+    "number": "01",
+    "name": "Bloodgood Japanese maple",
+    "m": 19
+   },
+   {
+    "number": "02",
+    "name": "Turkey oak",
+    "m": 27
+   },
+   {
+    "number": "04",
+    "name": "Larch (tamarack or European larch)",
+    "m": 32
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_7700.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24221333333333,
+  "lon": -70.88516166666666,
+  "section": "Veterans\u2019 Area (V)",
+  "near": [
+   {
+    "number": "11",
+    "name": "Turkey oak",
+    "m": 32
+   },
+   {
+    "number": "28",
+    "name": "Linden (not yet identified)",
+    "m": 36
+   },
+   {
+    "number": "34",
+    "name": "Weeping beech",
+    "m": 48
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_7928.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24353333333333,
+  "lon": -70.88594666666667,
+  "section": "",
+  "near": [
+   {
+    "number": "24",
+    "name": "Fernleaf beech",
+    "m": 120
+   },
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 130
+   },
+   {
+    "number": "35",
+    "name": "European beech",
+    "m": 145
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_8013.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24331666666667,
+  "lon": -70.88587166666667,
+  "section": "",
+  "near": [
+   {
+    "number": "24",
+    "name": "Fernleaf beech",
+    "m": 98
+   },
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 105
+   },
+   {
+    "number": "35",
+    "name": "European beech",
+    "m": 127
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_8067.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24205,
+  "lon": -70.88585,
+  "section": "D",
+  "near": [
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 37
+   },
+   {
+    "number": "11",
+    "name": "Turkey oak",
+    "m": 40
+   },
+   {
+    "number": "39",
+    "name": "Swiss stone pine",
+    "m": 43
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_8166.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24205833333333,
+  "lon": -70.886125,
+  "section": "",
+  "near": [
+   {
+    "number": "39",
+    "name": "Swiss stone pine",
+    "m": 24
+   },
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 46
+   },
+   {
+    "number": "24",
+    "name": "Fernleaf beech",
+    "m": 50
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_9425.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24233333333333,
+  "lon": -70.88513833333333,
+  "section": "E",
+  "near": [
+   {
+    "number": "11",
+    "name": "Turkey oak",
+    "m": 45
+   },
+   {
+    "number": "28",
+    "name": "Linden (not yet identified)",
+    "m": 49
+   },
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 51
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_9584.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.241445,
+  "lon": -70.88665,
+  "section": "",
+  "near": [
+   {
+    "number": "39",
+    "name": "Swiss stone pine",
+    "m": 57
+   },
+   {
+    "number": "07",
+    "name": "Sugar maple",
+    "m": 91
+   },
+   {
+    "number": "04",
+    "name": "Larch (tamarack or European larch)",
+    "m": 103
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_9603.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24258,
+  "lon": -70.885855,
+  "section": "",
+  "near": [
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 24
+   },
+   {
+    "number": "24",
+    "name": "Fernleaf beech",
+    "m": 37
+   },
+   {
+    "number": "35",
+    "name": "European beech",
+    "m": 77
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_9674.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24297166666667,
+  "lon": -70.88488833333334,
+  "section": "",
+  "near": [
+   {
+    "number": "38",
+    "name": "Hedge maple",
+    "m": 90
+   },
+   {
+    "number": "36",
+    "name": "Silver maple",
+    "m": 92
+   },
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 98
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_9752.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24225333333333,
+  "lon": -70.88597166666666,
+  "section": "C",
+  "near": [
+   {
+    "number": "25",
+    "name": "Tulip tree",
+    "m": 22
+   },
+   {
+    "number": "24",
+    "name": "Fernleaf beech",
+    "m": 37
+   },
+   {
+    "number": "39",
+    "name": "Swiss stone pine",
+    "m": 49
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_9841.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24248,
+  "lon": -70.88707,
+  "section": "B",
+  "near": [
+   {
+    "number": "04",
+    "name": "Larch (tamarack or European larch)",
+    "m": 22
+   },
+   {
+    "number": "01",
+    "name": "Bloodgood Japanese maple",
+    "m": 25
+   },
+   {
+    "number": "35",
+    "name": "European beech",
+    "m": 29
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ },
+ {
+  "file": "IMG_9856.jpg",
+  "taken": "2025-11-02",
+  "lat": 42.24228333333333,
+  "lon": -70.88681666666666,
+  "section": "A",
+  "near": [
+   {
+    "number": "04",
+    "name": "Larch (tamarack or European larch)",
+    "m": 9
+   },
+   {
+    "number": "35",
+    "name": "European beech",
+    "m": 12
+   },
+   {
+    "number": "24",
+    "name": "Fernleaf beech",
+    "m": 49
+   }
+  ],
+  "frame": "",
+  "species_common": "",
+  "species_sci": "",
+  "confidence": "",
+  "feature": "",
+  "text_seen": "",
+  "match_number": "",
+  "match_reason": "",
+  "condition": ""
+ }
+]

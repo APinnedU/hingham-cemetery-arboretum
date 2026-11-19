@@ -62,7 +62,8 @@
     "Named cultivar",
     "On official map"
    ],
-   "taxon_key": "Acer palmatum 'Bloodgood'"
+   "taxon_key": "Acer palmatum 'Bloodgood'",
+   "maintenance": ""
   },
   {
    "id": "02",
@@ -106,7 +107,8 @@
     "Winter interest",
     "On official map"
    ],
-   "taxon_key": "Quercus cerris"
+   "taxon_key": "Quercus cerris",
+   "maintenance": ""
   },
   {
    "id": "03",
@@ -147,7 +149,8 @@
     "Fall color",
     "Needs field ID"
    ],
-   "taxon_key": null
+   "taxon_key": null,
+   "maintenance": ""
   },
   {
    "id": "04",
@@ -190,7 +193,8 @@
     "On official map",
     "Group of 11"
    ],
-   "taxon_key": "Larix (one taxon, species pending)"
+   "taxon_key": "Larix (one taxon, species pending)",
+   "maintenance": ""
   },
   {
    "id": "05",
@@ -227,7 +231,8 @@
     "Deciduous",
     "Fall color"
    ],
-   "taxon_key": "Quercus rubra"
+   "taxon_key": "Quercus rubra",
+   "maintenance": ""
   },
   {
    "id": "06",
@@ -267,7 +272,8 @@
     "Winter interest",
     "Named cultivar"
    ],
-   "taxon_key": "Picea abies 'Pendula'"
+   "taxon_key": "Picea abies 'Pendula'",
+   "maintenance": ""
   },
   {
    "id": "07",
@@ -309,7 +315,8 @@
     "On official map",
     "Group of 3"
    ],
-   "taxon_key": "Acer saccharum"
+   "taxon_key": "Acer saccharum",
+   "maintenance": ""
   },
   {
    "id": "08",
@@ -350,7 +357,8 @@
     "Fall color",
     "Needs field ID"
    ],
-   "taxon_key": null
+   "taxon_key": null,
+   "maintenance": ""
   },
   {
    "id": "09",
@@ -390,7 +398,8 @@
     "Spring or summer bloom",
     "Winter interest"
    ],
-   "taxon_key": "Catalpa bignonioides"
+   "taxon_key": "Catalpa bignonioides",
+   "maintenance": ""
   },
   {
    "id": "10",
@@ -431,7 +440,8 @@
     "Named cultivar",
     "Needs field ID"
    ],
-   "taxon_key": "Callitropsis nootkatensis 'Pendula'"
+   "taxon_key": "Callitropsis nootkatensis 'Pendula'",
+   "maintenance": ""
   },
   {
    "id": "11",
@@ -472,7 +482,8 @@
     "Fall color",
     "On official map"
    ],
-   "taxon_key": "Quercus cerris"
+   "taxon_key": "Quercus cerris",
+   "maintenance": ""
   },
   {
    "id": "12",
@@ -513,7 +524,8 @@
     "Winter interest",
     "Needs field ID"
    ],
-   "taxon_key": null
+   "taxon_key": null,
+   "maintenance": ""
   },
   {
    "id": "13",
@@ -554,7 +566,8 @@
     "Fall color",
     "Named cultivar"
    ],
-   "taxon_key": "Cornus florida 'Appalachian Spring'"
+   "taxon_key": "Cornus florida 'Appalachian Spring'",
+   "maintenance": ""
   },
   {
    "id": "14",
@@ -596,7 +609,8 @@
     "Named cultivar",
     "Group of 2"
    ],
-   "taxon_key": "Cornus kousa 'National'"
+   "taxon_key": "Cornus kousa 'National'",
+   "maintenance": ""
   },
   {
    "id": "15",
@@ -639,7 +653,8 @@
     "Named cultivar",
     "Memorial or gift tree"
    ],
-   "taxon_key": "Ulmus americana 'American Liberty'"
+   "taxon_key": "Ulmus americana 'American Liberty'",
+   "maintenance": ""
   },
   {
    "id": "16",
@@ -680,7 +695,8 @@
     "Fall color",
     "Winter interest"
    ],
-   "taxon_key": "Fagus sylvatica"
+   "taxon_key": "Fagus sylvatica",
+   "maintenance": ""
   },
   {
    "id": "17",
@@ -718,7 +734,8 @@
     "Fall color",
     "Named cultivar"
    ],
-   "taxon_key": "Acer saccharum 'Green Mountain'"
+   "taxon_key": "Acer saccharum 'Green Mountain'",
+   "maintenance": ""
   },
   {
    "id": "18",
@@ -758,7 +775,8 @@
     "Winter interest",
     "Needs field ID"
    ],
-   "taxon_key": null
+   "taxon_key": null,
+   "maintenance": ""
   },
   {
    "id": "19",
@@ -800,7 +818,8 @@
     "Winter interest",
     "Named cultivar"
    ],
-   "taxon_key": "Acer palmatum 'Sango-kaku'"
+   "taxon_key": "Acer palmatum 'Sango-kaku'",
+   "maintenance": ""
   },
   {
    "id": "20",
@@ -839,7 +858,8 @@
     "Deciduous",
     "Fall color"
    ],
-   "taxon_key": "Ginkgo biloba"
+   "taxon_key": "Ginkgo biloba",
+   "maintenance": ""
   },
   {
    "id": "21",
@@ -878,7 +898,8 @@
     "Evergreen conifer",
     "Winter interest"
    ],
-   "taxon_key": "Abies balsamea"
+   "taxon_key": "Abies balsamea",
+   "maintenance": ""
   },
   {
    "id": "22",
@@ -918,7 +939,8 @@
     "Evergreen conifer",
     "Needs field ID"
    ],
-   "taxon_key": null
+   "taxon_key": null,
+   "maintenance": ""
   },
   {
    "id": "23",
@@ -961,7 +983,8 @@
     "Named cultivar",
     "Needs field ID"
    ],
-   "taxon_key": "Fagus sylvatica 'Asplenifolia'"
+   "taxon_key": "Fagus sylvatica 'Asplenifolia'",
+   "maintenance": ""
   },
   {
    "id": "24",
@@ -1005,7 +1028,8 @@
     "On official map",
     "Needs field ID"
    ],
-   "taxon_key": "Fagus sylvatica 'Asplenifolia'"
+   "taxon_key": "Fagus sylvatica 'Asplenifolia'",
+   "maintenance": ""
   },
   {
    "id": "25",
@@ -1048,7 +1072,8 @@
     "Fall color",
     "On official map"
    ],
-   "taxon_key": "Liriodendron tulipifera"
+   "taxon_key": "Liriodendron tulipifera",
+   "maintenance": ""
   },
   {
    "id": "26",
@@ -1086,7 +1111,8 @@
     "Fall color",
     "Winter interest"
    ],
-   "taxon_key": "Zelkova serrata"
+   "taxon_key": "Zelkova serrata",
+   "maintenance": ""
   },
   {
    "id": "27",
@@ -1125,7 +1151,8 @@
     "Deciduous",
     "Fall color"
    ],
-   "taxon_key": "Acer palmatum (unnamed cultivar)"
+   "taxon_key": "Acer palmatum (unnamed cultivar)",
+   "maintenance": ""
   },
   {
    "id": "28",
@@ -1168,7 +1195,8 @@
     "On official map",
     "Needs field ID"
    ],
-   "taxon_key": null
+   "taxon_key": null,
+   "maintenance": ""
   },
   {
    "id": "29",
@@ -1210,7 +1238,8 @@
     "Invasive species",
     "Group of 2"
    ],
-   "taxon_key": "Acer platanoides"
+   "taxon_key": "Acer platanoides",
+   "maintenance": ""
   },
   {
    "id": "30",
@@ -1254,7 +1283,8 @@
     "Memorial or gift tree",
     "Group of 2"
    ],
-   "taxon_key": "Fagus sylvatica 'Pendula'"
+   "taxon_key": "Fagus sylvatica 'Pendula'",
+   "maintenance": ""
   },
   {
    "id": "31",
@@ -1295,7 +1325,8 @@
     "Fall color",
     "Memorial or gift tree"
    ],
-   "taxon_key": "Cercis canadensis"
+   "taxon_key": "Cercis canadensis",
+   "maintenance": ""
   },
   {
    "id": "32",
@@ -1336,7 +1367,8 @@
     "Named cultivar",
     "Memorial or gift tree"
    ],
-   "taxon_key": "Cercis canadensis 'Appalachian Red'"
+   "taxon_key": "Cercis canadensis 'Appalachian Red'",
+   "maintenance": ""
   },
   {
    "id": "map-B",
@@ -1379,7 +1411,8 @@
     "On official map"
    ],
    "taxon_key": "Fagus grandifolia",
-   "map_letter": "B"
+   "map_letter": "B",
+   "maintenance": ""
   },
   {
    "id": "map-C",
@@ -1422,7 +1455,8 @@
     "On official map"
    ],
    "taxon_key": "Fagus sylvatica 'Pendula'",
-   "map_letter": "C"
+   "map_letter": "C",
+   "maintenance": ""
   },
   {
    "id": "map-D",
@@ -1463,7 +1497,8 @@
     "On official map"
    ],
    "taxon_key": "Fagus sylvatica",
-   "map_letter": "D"
+   "map_letter": "D",
+   "maintenance": ""
   },
   {
    "id": "map-F",
@@ -1506,7 +1541,8 @@
     "On official map"
    ],
    "taxon_key": "Acer saccharinum",
-   "map_letter": "F"
+   "map_letter": "F",
+   "maintenance": ""
   },
   {
    "id": "map-G",
@@ -1547,7 +1583,8 @@
     "On official map"
    ],
    "taxon_key": "Acer rubrum",
-   "map_letter": "G"
+   "map_letter": "G",
+   "maintenance": ""
   },
   {
    "id": "map-H",
@@ -1588,7 +1625,8 @@
     "On official map"
    ],
    "taxon_key": "Acer campestre",
-   "map_letter": "H"
+   "map_letter": "H",
+   "maintenance": ""
   },
   {
    "id": "map-J",
@@ -1628,7 +1666,8 @@
     "On official map"
    ],
    "taxon_key": "Pinus cembra",
-   "map_letter": "J"
+   "map_letter": "J",
+   "maintenance": ""
   }
  ]
 }
