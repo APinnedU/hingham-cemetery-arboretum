@@ -42,7 +42,8 @@
    "taxon_confidence_reason": "Species certain; cultivar name present on the first list only. Verify summer leaf color.",
    "flags": [
     "Cultivar dropped on later list",
-    "Distinct from row 27"
+    "Distinct from row 27",
+    "Photo GPS check: the GPS of 2 photos from the Nov 2 2025 walk (IMG_7600, IMG_9841); phone GPS, about 10 m lands 22 m from this pin"
    ],
    "rename_from": "",
    "individuals": 1,
@@ -63,7 +64,12 @@
     "On official map"
    ],
    "taxon_key": "Acer palmatum 'Bloodgood'",
-   "maintenance": ""
+   "maintenance": "",
+   "photo_gps": {
+    "lat": 42.242525,
+    "lon": -70.8870958,
+    "distance_m": 22
+   }
   },
   {
    "id": "02",
@@ -87,7 +93,8 @@
    "flags": [
     "Rename from Q. laevis to Q. cerris pending field check",
     "Same taxon as row 11 and map icon A",
-    "Spelling: Quercia > Quercus"
+    "Spelling: Quercia > Quercus",
+    "Photo GPS check: the GPS of 1 photo from the Nov 2 2025 walk (IMG_3164); phone GPS, about 10 m lands 25 m from this pin"
    ],
    "rename_from": "Quercus laevis",
    "individuals": 1,
@@ -108,7 +115,12 @@
     "On official map"
    ],
    "taxon_key": "Quercus cerris",
-   "maintenance": ""
+   "maintenance": "",
+   "photo_gps": {
+    "lat": 42.242355,
+    "lon": -70.8872833,
+    "distance_m": 25
+   }
   },
   {
    "id": "03",
@@ -173,7 +185,8 @@
    "taxon_confidence_reason": "Genus certain; species disputed between the inventory (laricina) and the official map (decidua). European larch is the expected 19th-century planting.",
    "flags": [
     "Species unresolved: inventory vs official map",
-    "Same taxon as map icon I"
+    "Same taxon as map icon I",
+    "Photo GPS check: the GPS of 1 photo from the Nov 2 2025 walk (IMG_5749); phone GPS, about 10 m lands 53 m from this pin; drag the pin to the photo spot if the photo is right"
    ],
    "rename_from": "",
    "individuals": 11,
@@ -194,7 +207,12 @@
     "Group of 11"
    ],
    "taxon_key": "Larix (one taxon, species pending)",
-   "maintenance": ""
+   "maintenance": "",
+   "photo_gps": {
+    "lat": 42.24203,
+    "lon": -70.8873217,
+    "distance_m": 53
+   }
   },
   {
    "id": "05",
@@ -220,11 +238,11 @@
    "individuals": 1,
    "memorial": "",
    "source": "Hingham Cemetery Tree Inventory, incomplete working copy Oct/Nov 2025 (B. Nicosia); two source sheets",
-   "lat": null,
-   "lon": null,
-   "location_status": "section_only",
-   "location_method": "",
-   "location_accuracy_m": null,
+   "lat": 42.241845,
+   "lon": -70.88668,
+   "location_status": "photo_gps",
+   "location_method": "Placed from the GPS of 1 photo from the Nov 2 2025 walk (IMG_4610); phone GPS, about 10 m",
+   "location_accuracy_m": 10,
    "suggested_icon": "",
    "tags": [
     "Massachusetts native",
@@ -260,11 +278,11 @@
    "individuals": 1,
    "memorial": "",
    "source": "Hingham Cemetery Tree Inventory, incomplete working copy Oct/Nov 2025 (B. Nicosia); two source sheets",
-   "lat": null,
-   "lon": null,
-   "location_status": "section_only",
-   "location_method": "",
-   "location_accuracy_m": null,
+   "lat": 42.2414517,
+   "lon": -70.8866583,
+   "location_status": "photo_gps",
+   "location_method": "Placed from the GPS of 2 photos from the Nov 2 2025 walk (IMG_3103, IMG_9584); phone GPS, about 10 m",
+   "location_accuracy_m": 10,
    "suggested_icon": "",
    "tags": [
     "Non-native",
@@ -295,7 +313,8 @@
    "taxon_confidence": "A",
    "taxon_confidence_reason": "Common native; three trees noted.",
    "flags": [
-    "Same taxon as map icon M"
+    "Same taxon as map icon M",
+    "Photo GPS check: the GPS of 3 photos from the Nov 2 2025 walk (IMG_3795, IMG_4599, IMG_4616); phone GPS, about 10 m lands 31 m from this pin"
    ],
    "rename_from": "",
    "individuals": 3,
@@ -316,7 +335,12 @@
     "Group of 3"
    ],
    "taxon_key": "Acer saccharum",
-   "maintenance": ""
+   "maintenance": "",
+   "photo_gps": {
+    "lat": 42.2418122,
+    "lon": -70.8859306,
+    "distance_m": 31
+   }
   },
   {
    "id": "08",
@@ -386,11 +410,11 @@
    "individuals": 1,
    "memorial": "",
    "source": "Hingham Cemetery Tree Inventory, incomplete working copy Oct/Nov 2025 (B. Nicosia); two source sheets",
-   "lat": null,
-   "lon": null,
-   "location_status": "section_only",
-   "location_method": "",
-   "location_accuracy_m": null,
+   "lat": 42.2420472,
+   "lon": -70.8861022,
+   "location_status": "photo_gps",
+   "location_method": "Placed from the GPS of 3 photos from the Nov 2 2025 walk (IMG_1638, IMG_7130, IMG_8166); phone GPS, about 10 m",
+   "location_accuracy_m": 10,
    "suggested_icon": "",
    "tags": [
     "Eastern U.S. native",
@@ -427,11 +451,11 @@
    "individuals": 1,
    "memorial": "",
    "source": "Hingham Cemetery Tree Inventory, incomplete working copy Oct/Nov 2025 (B. Nicosia); two source sheets",
-   "lat": null,
-   "lon": null,
-   "location_status": "section_only",
-   "location_method": "",
-   "location_accuracy_m": null,
+   "lat": 42.24213,
+   "lon": -70.8860454,
+   "location_status": "photo_gps",
+   "location_method": "Placed from the GPS of 4 photos from the Nov 2 2025 walk (IMG_2105, IMG_6192, IMG_6433, IMG_7084); phone GPS, about 10 m",
+   "location_accuracy_m": 10,
    "suggested_icon": "",
    "tags": [
     "Non-native",
@@ -463,7 +487,8 @@
    "taxon_confidence": "B",
    "taxon_confidence_reason": "Same reasoning as tree 02; second specimen of one taxon.",
    "flags": [
-    "Same taxon as row 02 and map icon A"
+    "Same taxon as row 02 and map icon A",
+    "Photo GPS check: the GPS of 5 photos from the Nov 2 2025 walk (IMG_0580, IMG_0895, IMG_0944, IMG_7229, IMG_8067); phone GPS, about 10 m lands 26 m from this pin"
    ],
    "rename_from": "Quercus laevis",
    "individuals": 1,
@@ -483,7 +508,12 @@
     "On official map"
    ],
    "taxon_key": "Quercus cerris",
-   "maintenance": ""
+   "maintenance": "",
+   "photo_gps": {
+    "lat": 42.2421177,
+    "lon": -70.8856283,
+    "distance_m": 26
+   }
   },
   {
    "id": "12",
@@ -553,11 +583,11 @@
    "individuals": 1,
    "memorial": "",
    "source": "Hingham Cemetery Tree Inventory, incomplete working copy Oct/Nov 2025 (B. Nicosia); two source sheets",
-   "lat": null,
-   "lon": null,
-   "location_status": "section_only",
-   "location_method": "",
-   "location_accuracy_m": null,
+   "lat": 42.2424292,
+   "lon": -70.885505,
+   "location_status": "photo_gps",
+   "location_method": "Placed from the GPS of 2 photos from the Nov 2 2025 walk (IMG_4736, IMG_6025); phone GPS, about 10 m",
+   "location_accuracy_m": 10,
    "suggested_icon": "",
    "tags": [
     "Massachusetts native",
@@ -639,11 +669,11 @@
    "individuals": 1,
    "memorial": "Planted in memory of Jay Sadler",
    "source": "Hingham Cemetery Tree Inventory, incomplete working copy Oct/Nov 2025 (B. Nicosia); two source sheets",
-   "lat": null,
-   "lon": null,
-   "location_status": "section_only",
-   "location_method": "",
-   "location_accuracy_m": null,
+   "lat": 42.2422172,
+   "lon": -70.8851461,
+   "location_status": "photo_gps",
+   "location_method": "Placed from the GPS of 3 photos from the Nov 2 2025 walk (IMG_5888, IMG_7541, IMG_7700); phone GPS, about 10 m",
+   "location_accuracy_m": 10,
    "suggested_icon": "",
    "tags": [
     "Massachusetts native",
@@ -683,11 +713,11 @@
    "individuals": 1,
    "memorial": "",
    "source": "Hingham Cemetery Tree Inventory, incomplete working copy Oct/Nov 2025 (B. Nicosia); two source sheets",
-   "lat": null,
-   "lon": null,
-   "location_status": "section_only",
-   "location_method": "",
-   "location_accuracy_m": null,
+   "lat": 42.2433167,
+   "lon": -70.8858717,
+   "location_status": "photo_gps",
+   "location_method": "Placed from the GPS of 2 photos from the Nov 2 2025 walk (IMG_3553, IMG_8013); phone GPS, about 10 m",
+   "location_accuracy_m": 10,
    "suggested_icon": "",
    "tags": [
     "Non-native",
@@ -763,11 +793,11 @@
    "individuals": 1,
    "memorial": "",
    "source": "Hingham Cemetery Tree Inventory, incomplete working copy Oct/Nov 2025 (B. Nicosia); two source sheets",
-   "lat": null,
-   "lon": null,
-   "location_status": "section_only",
-   "location_method": "",
-   "location_accuracy_m": null,
+   "lat": 42.2423392,
+   "lon": -70.8852,
+   "location_status": "photo_gps",
+   "location_method": "Placed from the GPS of 2 photos from the Nov 2 2025 walk (IMG_1562, IMG_9425); phone GPS, about 10 m",
+   "location_accuracy_m": 10,
    "suggested_icon": "",
    "tags": [
     "Origin unknown",
@@ -847,11 +877,11 @@
    "individuals": 1,
    "memorial": "",
    "source": "Hingham Cemetery Tree Inventory, incomplete working copy Oct/Nov 2025 (B. Nicosia); two source sheets",
-   "lat": null,
-   "lon": null,
-   "location_status": "section_only",
-   "location_method": "",
-   "location_accuracy_m": null,
+   "lat": 42.2428067,
+   "lon": -70.8848733,
+   "location_status": "photo_gps",
+   "location_method": "Placed from the GPS of 2 photos from the Nov 2 2025 walk (IMG_3236, IMG_9674); phone GPS, about 10 m",
+   "location_accuracy_m": 10,
    "suggested_icon": "",
    "tags": [
     "Non-native",
@@ -887,11 +917,11 @@
    "individuals": 1,
    "memorial": "",
    "source": "Hingham Cemetery Tree Inventory, incomplete working copy Oct/Nov 2025 (B. Nicosia); two source sheets",
-   "lat": null,
-   "lon": null,
-   "location_status": "section_only",
-   "location_method": "",
-   "location_accuracy_m": null,
+   "lat": 42.2433708,
+   "lon": -70.8859817,
+   "location_status": "photo_gps",
+   "location_method": "Placed from the GPS of 2 photos from the Nov 2 2025 walk (IMG_4106, IMG_7561); phone GPS, about 10 m",
+   "location_accuracy_m": 10,
    "suggested_icon": "",
    "tags": [
     "Massachusetts native",
@@ -928,11 +958,11 @@
    "individuals": 1,
    "memorial": "",
    "source": "Hingham Cemetery Tree Inventory, incomplete working copy Oct/Nov 2025 (B. Nicosia); two source sheets",
-   "lat": null,
-   "lon": null,
-   "location_status": "section_only",
-   "location_method": "",
-   "location_accuracy_m": null,
+   "lat": 42.242765,
+   "lon": -70.8853,
+   "location_status": "photo_gps",
+   "location_method": "Placed from the GPS of 2 photos from the Nov 2 2025 walk (IMG_1918, IMG_3536); phone GPS, about 10 m",
+   "location_accuracy_m": 10,
    "suggested_icon": "",
    "tags": [
     "Origin unknown",
@@ -1007,7 +1037,8 @@
    "taxon_confidence_reason": "Same reasoning as tree 23; could alternatively be a second plain Fagus sylvatica.",
    "flags": [
     "Same taxon as row 23",
-    "Probably the official map's icon E"
+    "Probably the official map's icon E",
+    "Photo GPS check: the GPS of 1 photo from the Nov 2 2025 walk (IMG_9603); phone GPS, about 10 m lands 37 m from this pin"
    ],
    "rename_from": "Nothofagus menziesii",
    "individuals": 1,
@@ -1029,7 +1060,12 @@
     "Needs field ID"
    ],
    "taxon_key": "Fagus sylvatica 'Asplenifolia'",
-   "maintenance": ""
+   "maintenance": "",
+   "photo_gps": {
+    "lat": 42.24258,
+    "lon": -70.885855,
+    "distance_m": 37
+   }
   },
   {
    "id": "25",
@@ -1052,7 +1088,8 @@
    "taxon_confidence_reason": "Unmistakable; spelling corrected from 'Lireodendron'.",
    "flags": [
     "Spelling: Lireodendron > Liriodendron",
-    "Same taxon as map icon K"
+    "Same taxon as map icon K",
+    "Photo GPS check: the GPS of 3 photos from the Nov 2 2025 walk (IMG_1933, IMG_2599, IMG_4953); phone GPS, about 10 m lands 30 m from this pin"
    ],
    "rename_from": "",
    "individuals": 1,
@@ -1073,7 +1110,12 @@
     "On official map"
    ],
    "taxon_key": "Liriodendron tulipifera",
-   "maintenance": ""
+   "maintenance": "",
+   "photo_gps": {
+    "lat": 42.2425361,
+    "lon": -70.8860494,
+    "distance_m": 30
+   }
   },
   {
    "id": "26",
@@ -1099,11 +1141,11 @@
    "individuals": 1,
    "memorial": "",
    "source": "Hingham Cemetery Tree Inventory, incomplete working copy Oct/Nov 2025 (B. Nicosia); two source sheets",
-   "lat": null,
-   "lon": null,
-   "location_status": "section_only",
-   "location_method": "",
-   "location_accuracy_m": null,
+   "lat": 42.242775,
+   "lon": -70.8862383,
+   "location_status": "photo_gps",
+   "location_method": "Placed from the GPS of 1 photo from the Nov 2 2025 walk (IMG_2936); phone GPS, about 10 m",
+   "location_accuracy_m": 10,
    "suggested_icon": "",
    "tags": [
     "Non-native",
@@ -1140,11 +1182,11 @@
    "individuals": 1,
    "memorial": "",
    "source": "Hingham Cemetery Tree Inventory, incomplete working copy Oct/Nov 2025 (B. Nicosia); two source sheets",
-   "lat": null,
-   "lon": null,
-   "location_status": "section_only",
-   "location_method": "",
-   "location_accuracy_m": null,
+   "lat": 42.2425294,
+   "lon": -70.8871228,
+   "location_status": "photo_gps",
+   "location_method": "Placed from the GPS of 3 photos from the Nov 2 2025 walk (IMG_2019, IMG_2919, IMG_3077); phone GPS, about 10 m",
+   "location_accuracy_m": 10,
    "suggested_icon": "",
    "tags": [
     "Non-native",
@@ -1175,7 +1217,8 @@
    "taxon_confidence_reason": "Genus only. Likely the official map's Tilia tomentosa 'Petiolaris'.",
    "flags": [
     "Genus-only row, excluded from the taxa count",
-    "Probably the official map's icon N"
+    "Probably the official map's icon N",
+    "Photo GPS check: the GPS of 2 photos from the Nov 2 2025 walk (IMG_0028, IMG_4382); phone GPS, about 10 m lands 23 m from this pin"
    ],
    "rename_from": "",
    "individuals": 1,
@@ -1196,7 +1239,12 @@
     "Needs field ID"
    ],
    "taxon_key": null,
-   "maintenance": ""
+   "maintenance": "",
+   "photo_gps": {
+    "lat": 42.242015,
+    "lon": -70.8854875,
+    "distance_m": 23
+   }
   },
   {
    "id": "29",
@@ -1225,11 +1273,11 @@
    "individuals": 2,
    "memorial": "",
    "source": "Hingham Cemetery Tree Inventory, incomplete working copy Oct/Nov 2025 (B. Nicosia); two source sheets",
-   "lat": null,
-   "lon": null,
-   "location_status": "section_only",
-   "location_method": "",
-   "location_accuracy_m": null,
+   "lat": 42.2419375,
+   "lon": -70.8875042,
+   "location_status": "photo_gps",
+   "location_method": "Placed from the GPS of 2 photos from the Nov 2 2025 walk (IMG_4435, IMG_5263); phone GPS, about 10 m",
+   "location_accuracy_m": 10,
    "suggested_icon": "",
    "tags": [
     "Non-native",
@@ -1268,11 +1316,11 @@
    "individuals": 2,
    "memorial": "Planted in memory of Cinda Day (two trees)",
    "source": "Hingham Cemetery Tree Inventory, incomplete working copy Oct/Nov 2025 (B. Nicosia); two source sheets",
-   "lat": null,
-   "lon": null,
-   "location_status": "section_only",
-   "location_method": "",
-   "location_accuracy_m": null,
+   "lat": 42.2425556,
+   "lon": -70.8881717,
+   "location_status": "photo_gps",
+   "location_method": "Placed from the GPS of 3 photos from the Nov 2 2025 walk (FullSizeRender, IMG_1892, IMG_2185); phone GPS, about 10 m",
+   "location_accuracy_m": 10,
    "suggested_icon": "",
    "tags": [
     "Non-native",
@@ -1312,11 +1360,11 @@
    "individuals": 1,
    "memorial": "Planted in memory of Sue Bush",
    "source": "Hingham Cemetery Tree Inventory, incomplete working copy Oct/Nov 2025 (B. Nicosia); two source sheets",
-   "lat": null,
-   "lon": null,
-   "location_status": "section_only",
-   "location_method": "",
-   "location_accuracy_m": null,
+   "lat": 42.2422925,
+   "lon": -70.8868508,
+   "location_status": "photo_gps",
+   "location_method": "Placed from the GPS of 2 photos from the Nov 2 2025 walk (IMG_0300, IMG_2131); phone GPS, about 10 m",
+   "location_accuracy_m": 10,
    "suggested_icon": "",
    "tags": [
     "Eastern U.S. native",
@@ -1354,11 +1402,11 @@
    "individuals": 1,
    "memorial": "Gift of Derby Academy",
    "source": "Hingham Cemetery Tree Inventory, incomplete working copy Oct/Nov 2025 (B. Nicosia); two source sheets",
-   "lat": null,
-   "lon": null,
-   "location_status": "section_only",
-   "location_method": "",
-   "location_accuracy_m": null,
+   "lat": 42.242275,
+   "lon": -70.8868292,
+   "location_status": "photo_gps",
+   "location_method": "Placed from the GPS of 2 photos from the Nov 2 2025 walk (IMG_6115, IMG_9856); phone GPS, about 10 m",
+   "location_accuracy_m": 10,
    "suggested_icon": "",
    "tags": [
     "Eastern U.S. native",
@@ -1478,7 +1526,8 @@
    "taxon_confidence": "B",
    "taxon_confidence_reason": "Same taxon as tree 16 (Section V); this is a different location, so likely a second specimen.",
    "flags": [
-    "Same taxon as row 16; confirm the tree still stands"
+    "Same taxon as row 16; confirm the tree still stands",
+    "Photo GPS check: the GPS of 2 photos from the Nov 2 2025 walk (IMG_4794, IMG_6101); phone GPS, about 10 m lands 26 m from this pin"
    ],
    "rename_from": "",
    "individuals": 1,
@@ -1498,7 +1547,12 @@
    ],
    "taxon_key": "Fagus sylvatica",
    "map_letter": "D",
-   "maintenance": ""
+   "maintenance": "",
+   "photo_gps": {
+    "lat": 42.2425558,
+    "lon": -70.8865542,
+    "distance_m": 26
+   }
   },
   {
    "id": "map-F",
@@ -1648,7 +1702,8 @@
    "taxon_confidence": "B",
    "taxon_confidence_reason": "Official map only; plausible candidate for tree 22 if that pine is 5-needled.",
    "flags": [
-    "Not in the 32-row inventory; may be row 22"
+    "Not in the 32-row inventory; may be row 22",
+    "Photo GPS check: the GPS of 1 photo from the Nov 2 2025 walk (IMG_3684); phone GPS, about 10 m lands 84 m from this pin; drag the pin to the photo spot if the photo is right"
    ],
    "rename_from": "",
    "individuals": 1,
@@ -1667,7 +1722,173 @@
    ],
    "taxon_key": "Pinus cembra",
    "map_letter": "J",
-   "maintenance": ""
+   "maintenance": "",
+   "photo_gps": {
+    "lat": 42.2424383,
+    "lon": -70.8870467,
+    "distance_m": 84
+   }
+  },
+  {
+   "id": "p40",
+   "number": "40",
+   "kind": "photo_proposed",
+   "section": "A",
+   "section_note": "",
+   "scientific_name": "Pinus strobus",
+   "common_name": "Eastern white pine",
+   "family": "Pinaceae",
+   "origin_tag": "Native",
+   "growth_type": "evergreen conifer",
+   "individuals": 1,
+   "memorial": "",
+   "location_status": "photo_gps",
+   "lat": 42.2424383,
+   "lon": -70.8870467,
+   "taxon_confidence": "C",
+   "taxon_confidence_reason": "Read from the Nov 2 2025 photos only; not in the inventory or on the official map. Confirm on the walk, then keep or drop the number.",
+   "as_written": "",
+   "notes_as_written": "",
+   "tags": [
+    "Proposed from photo",
+    "Needs field check"
+   ],
+   "flags": [
+    "Proposed new specimen from the Nov 2 2025 photos; not in the inventory. Confirm, name and number it on the walk."
+   ],
+   "source": "Proposed Nov 18 2026 from the Nov 2 2025 photo walk",
+   "story": "",
+   "id_tip": "",
+   "season": "",
+   "origin": "",
+   "rename_from": "",
+   "suggested_icon": "",
+   "suggestion_strength": "",
+   "taxon_key": "Pinus strobus",
+   "maintenance": "",
+   "location_accuracy_m": 10,
+   "location_method": "Placed from the GPS of 1 photo from the Nov 2 2025 walk (IMG_6240); phone GPS, about 10 m"
+  },
+  {
+   "id": "p41",
+   "number": "41",
+   "kind": "photo_proposed",
+   "section": "C",
+   "section_note": "",
+   "scientific_name": "Quercus rubra",
+   "common_name": "Northern red oak (second tree)",
+   "family": "Fagaceae",
+   "origin_tag": "Native",
+   "growth_type": "deciduous broadleaf",
+   "individuals": 1,
+   "memorial": "",
+   "location_status": "photo_gps",
+   "lat": 42.2422189,
+   "lon": -70.8859106,
+   "taxon_confidence": "C",
+   "taxon_confidence_reason": "Read from the Nov 2 2025 photos only; not in the inventory or on the official map. Confirm on the walk, then keep or drop the number.",
+   "as_written": "",
+   "notes_as_written": "",
+   "tags": [
+    "Proposed from photo",
+    "Needs field check"
+   ],
+   "flags": [
+    "Proposed new specimen from the Nov 2 2025 photos; not in the inventory. Confirm, name and number it on the walk."
+   ],
+   "source": "Proposed Nov 18 2026 from the Nov 2 2025 photo walk",
+   "story": "",
+   "id_tip": "",
+   "season": "",
+   "origin": "",
+   "rename_from": "",
+   "suggested_icon": "",
+   "suggestion_strength": "",
+   "taxon_key": "Quercus rubra",
+   "maintenance": "",
+   "location_accuracy_m": 10,
+   "location_method": "Placed from the GPS of 3 photos from the Nov 2 2025 walk (IMG_2497, IMG_4065, IMG_9752); phone GPS, about 10 m"
+  },
+  {
+   "id": "p42",
+   "number": "42",
+   "kind": "photo_proposed",
+   "section": "",
+   "section_note": "section not recorded; placed from the photo GPS",
+   "scientific_name": "Pinus sp.",
+   "common_name": "Pine, north area (red or Austrian)",
+   "family": "Pinaceae",
+   "origin_tag": "Not specified",
+   "growth_type": "evergreen conifer",
+   "individuals": 1,
+   "memorial": "",
+   "location_status": "photo_gps",
+   "lat": 42.2435333,
+   "lon": -70.8859467,
+   "taxon_confidence": "C",
+   "taxon_confidence_reason": "Read from the Nov 2 2025 photos only; not in the inventory or on the official map. Confirm on the walk, then keep or drop the number.",
+   "as_written": "",
+   "notes_as_written": "",
+   "tags": [
+    "Proposed from photo",
+    "Needs field check"
+   ],
+   "flags": [
+    "Proposed new specimen from the Nov 2 2025 photos; not in the inventory. Confirm, name and number it on the walk."
+   ],
+   "source": "Proposed Nov 18 2026 from the Nov 2 2025 photo walk",
+   "story": "",
+   "id_tip": "",
+   "season": "",
+   "origin": "",
+   "rename_from": "",
+   "suggested_icon": "",
+   "suggestion_strength": "",
+   "taxon_key": "Pinus sp.",
+   "maintenance": "",
+   "location_accuracy_m": 10,
+   "location_method": "Placed from the GPS of 1 photo from the Nov 2 2025 walk (IMG_7928); phone GPS, about 10 m"
+  },
+  {
+   "id": "p43",
+   "number": "43",
+   "kind": "photo_proposed",
+   "section": "",
+   "section_note": "section not recorded; placed from the photo GPS",
+   "scientific_name": "Acer palmatum",
+   "common_name": "Japanese maple, upright red, by the Howard stone",
+   "family": "Sapindaceae",
+   "origin_tag": "Non-native",
+   "growth_type": "deciduous broadleaf",
+   "individuals": 1,
+   "memorial": "",
+   "location_status": "photo_gps",
+   "lat": 42.2427,
+   "lon": -70.8861783,
+   "taxon_confidence": "C",
+   "taxon_confidence_reason": "Read from the Nov 2 2025 photos only; not in the inventory or on the official map. Confirm on the walk, then keep or drop the number.",
+   "as_written": "",
+   "notes_as_written": "",
+   "tags": [
+    "Proposed from photo",
+    "Needs field check"
+   ],
+   "flags": [
+    "Proposed new specimen from the Nov 2 2025 photos; not in the inventory. Confirm, name and number it on the walk."
+   ],
+   "source": "Proposed Nov 18 2026 from the Nov 2 2025 photo walk",
+   "story": "",
+   "id_tip": "",
+   "season": "",
+   "origin": "",
+   "rename_from": "",
+   "suggested_icon": "",
+   "suggestion_strength": "",
+   "taxon_key": "Acer palmatum",
+   "maintenance": "",
+   "location_accuracy_m": 10,
+   "location_method": "Placed from the GPS of 1 photo from the Nov 2 2025 walk (IMG_2547); phone GPS, about 10 m"
   }
- ]
+ ],
+ "records": 43
 }

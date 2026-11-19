@@ -1,0 +1,13 @@
+{
+ "IMG_4435.jpg": {"match_number": "29", "confidence": "medium", "match_reason": "Provisional: 29 Norway maple is the only Norway maple on record; tar spot confirms the species. The photo sits on a knoll 65 m from the nearest pin, so the section needs a check."},
+ "IMG_5263.jpg": {"match_number": "29", "confidence": "medium", "match_reason": "Provisional: same tree as IMG_4435 (14 s apart). Only Norway maple on record."},
+ "IMG_7561.jpg": {"match_number": "21", "confidence": "medium", "match_reason": "Same north-area fir as IMG_4106 (the YU stone photo), already read as 21 Balsam fir, the only fir on record."},
+ "IMG_8013.jpg": {"match_number": "16", "confidence": "low", "match_reason": "Provisional: European beech leaves in the north area; 16 European beech is the only European beech without a pin (35 is pinned 90 m away). Needs a field check."},
+ "IMG_3553.jpg": {"match_number": "16", "confidence": "low", "match_reason": "Provisional: same spot as IMG_8013 (identical GPS); the multi-stem beech those leaves came from."},
+ "IMG_6240.jpg": {"match_number": "40", "confidence": "medium", "match_reason": "Proposed new specimen 40: eastern white pine in Section A; no pine on the Section A roster."},
+ "IMG_9752.jpg": {"match_number": "41", "confidence": "medium", "match_reason": "Proposed new specimen 41: northern red oak in Section C; no oak on the Section C roster."},
+ "IMG_4065.jpg": {"match_number": "41", "confidence": "medium", "match_reason": "Proposed new specimen 41: red oak leaf 20 m from pin 25, same tree as IMG_9752."},
+ "IMG_2497.jpg": {"match_number": "41", "confidence": "low", "match_reason": "Proposed new specimen 41: lobed oak leaves 16 m from IMG_9752; likely the same red oak."},
+ "IMG_7928.jpg": {"match_number": "42", "confidence": "low", "match_reason": "Proposed new specimen 42: large leaning pine in the north area, no pin within 120 m; red or Austrian pine. If 22 (recorded as ponderosa) turns out to be this tree, merge them."},
+ "IMG_2547.jpg": {"match_number": "43", "confidence": "low", "match_reason": "Proposed new specimen 43: upright Japanese maple with dark red leaves by the HOWARD stone, 25 m from pin 24; no unplaced Japanese maple fits (27 is by the chapel, 19 is coral bark)."}
+}

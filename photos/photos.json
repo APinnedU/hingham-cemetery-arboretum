@@ -523,8 +523,8 @@
   "confidence": "low",
   "feature": "deeply lobed glossy green leaves",
   "text_seen": "",
-  "match_number": "",
-  "match_reason": "Section C, 30 m from pin 25; no oak in the Section C roster; nearest oak pin is 11 Turkey oak at 37 m. Possible new specimen",
+  "match_number": "41",
+  "match_reason": "Proposed new specimen 41: lobed oak leaves 16 m from IMG_9752; likely the same red oak.",
   "condition": "cannot tell"
  },
  {
@@ -556,8 +556,8 @@
   "confidence": "low",
   "feature": "upright small tree, dark red fine leaves, by the HOWARD stone",
   "text_seen": "HOWARD",
-  "match_number": "",
-  "match_reason": "25 m from pin 24 (Section C); candidates 27 Japanese maple (Section B) or 19 Coral bark (V or E). Needs a field check",
+  "match_number": "43",
+  "match_reason": "Proposed new specimen 43: upright Japanese maple with dark red leaves by the HOWARD stone, 25 m from pin 24; no unplaced Japanese maple fits (27 is by the chapel, 19 is coral bark).",
   "condition": "good"
  },
  {
@@ -870,8 +870,8 @@
   "confidence": "low",
   "feature": "smooth gray multi-stem, ovate leaves turning orange",
   "text_seen": "",
-  "match_number": "",
-  "match_reason": "98 m from pin 24, no section; candidates 16 European beech (V), 35 European beech (pinned), or a fernleaf beech if the leaves are cut. Needs a field check",
+  "match_number": "16",
+  "match_reason": "Provisional: same spot as IMG_8013 (identical GPS); the multi-stem beech those leaves came from.",
   "condition": "good"
  },
  {
@@ -1035,8 +1035,8 @@
   "confidence": "medium",
   "feature": "brown leaf with pointed bristle-tipped lobes",
   "text_seen": "",
-  "match_number": "",
-  "match_reason": "Section C, 20 m from pin 25; the only red oak on record is 05 (Section A). Possible new specimen or a mis-sectioned 05",
+  "match_number": "41",
+  "match_reason": "Proposed new specimen 41: red oak leaf 20 m from pin 25, same tree as IMG_9752.",
   "condition": "cannot tell"
  },
  {
@@ -1134,8 +1134,8 @@
   "confidence": "medium",
   "feature": "leaf shape (broad 5-lobed leaves; IMG_5263 taken 14 s later at the same spot shows Norway maple leaves with tar spot)",
   "text_seen": "",
-  "match_number": "",
-  "match_reason": "no match. Photo has no section and the nearest pins (02, 01, 04) are 65 to 73 m away. Only Norway maple in the inventory is 29 (Section D, section_only); 03 (Acer sp., Section A, section_only) is the other unidentified maple. If this knoll is in Section D this is probably 29; otherwise a new specimen worth adding.",
+  "match_number": "29",
+  "match_reason": "Provisional: 29 Norway maple is the only Norway maple on record; tar spot confirms the species. The photo sits on a knoll 65 m from the nearest pin, so the section needs a check.",
   "condition": "good: full crown, no visible dieback"
  },
  {
@@ -1362,11 +1362,11 @@
   "frame": "leaves: canopy of broad 5-lobed maple leaves with black tar-spot blotches",
   "species_common": "Norway maple",
   "species_sci": "Acer platanoides",
-  "confidence": "high",
+  "confidence": "medium",
   "feature": "leaf shape (broad, sharply pointed lobes) with tar spot (Rhytisma), which is typical of Norway maple",
   "text_seen": "",
-  "match_number": "",
-  "match_reason": "no match. Same tree as IMG_4435 (same spot, 14 s apart). No section recorded and nearest pins are 65 m or more. Inventory Norway maple 29 is Section D (section_only); 03 is an unidentified maple in Section A. Worth confirming which section this knoll is in before adding as new",
+  "match_number": "29",
+  "match_reason": "Provisional: same tree as IMG_4435 (14 s apart). Only Norway maple on record.",
   "condition": "fair: tar spot on many leaves (cosmetic, not serious)"
  },
  {
@@ -1596,8 +1596,8 @@
   "confidence": "medium",
   "feature": "needles (long soft 5-needle bundles, open layered crown)",
   "text_seen": "",
-  "match_number": "",
-  "match_reason": "no match. Section A photo and no pine on the Section A roster; 39 Swiss stone pine is about 90 m away and has a denser, narrower crown with shorter needles. Looks like a new specimen worth adding",
+  "match_number": "40",
+  "match_reason": "Proposed new specimen 40: eastern white pine in Section A; no pine on the Section A roster.",
   "condition": "good: full crown, some inner needle yellowing (normal autumn needle drop)"
  },
  {
@@ -1794,8 +1794,8 @@
   "confidence": "medium",
   "feature": "needles (flat, blunt, flexible, spreading in two ranks with pale undersides)",
   "text_seen": "",
-  "match_number": "",
-  "match_reason": "no match. Photo is in the north part of the grounds with no pin within 100 m and no section. 21 Balsam fir (Section E, section_only) is the only fir in the inventory and the Section E photo (IMG_9425) is about 100 m south, so 21 is possible but unconfirmed. Otherwise a new specimen worth adding",
+  "match_number": "21",
+  "match_reason": "Same north-area fir as IMG_4106 (the YU stone photo), already read as 21 Balsam fir, the only fir on record.",
   "condition": "good: dense healthy needles"
  },
  {
@@ -1893,8 +1893,8 @@
   "confidence": "low",
   "feature": "bark (reddish flaking plates) and form (open umbrella crown, long needles in dense tufts)",
   "text_seen": "",
-  "match_number": "",
-  "match_reason": "no match. North part of the grounds, no section, nearest pin 120 m. 22 Pine (recorded as ponderosa, Section E, section_only) is a possible identity since a misrecorded ponderosa is often a red or Austrian pine, but Section E's photo is about 130 m south. Needs a needle count and cone check; if not 22, a new specimen worth adding",
+  "match_number": "42",
+  "match_reason": "Proposed new specimen 42: large leaning pine in the north area, no pin within 120 m; red or Austrian pine. If 22 (recorded as ponderosa) turns out to be this tree, merge them.",
   "condition": "fair: mature with a pronounced lean, some dead lower limbs"
  },
  {
@@ -1923,11 +1923,11 @@
   "frame": "leaves: glossy oval leaves with entire wavy margins and a few turning orange-brown; smooth grey branches",
   "species_common": "European beech",
   "species_sci": "Fagus sylvatica",
-  "confidence": "high",
+  "confidence": "low",
   "feature": "leaf shape (entire wavy margin, glossy, few vein pairs; rules out American beech, which is toothed)",
   "text_seen": "",
-  "match_number": "",
-  "match_reason": "no match. North part of the grounds, no section, nearest pin 98 m (24). 16 European beech (Section V, section_only) is possible but the V photos are about 100 m south; 35 is 127 m away. Likely an unlisted beech worth adding",
+  "match_number": "16",
+  "match_reason": "Provisional: European beech leaves in the north area; 16 European beech is the only European beech without a pin (35 is pinned 90 m away). Needs a field check.",
   "condition": "good: healthy foliage, early fall tint only"
  },
  {
@@ -2157,8 +2157,8 @@
   "confidence": "medium",
   "feature": "leaf shape (bristle-tipped lobes) with russet fall color; bark with long flat ridges",
   "text_seen": "",
-  "match_number": "",
-  "match_reason": "no match. Section C photo and the C roster (24, 25, 26) has no oak; the nearby Turkey oak 11 (IMG_8067) was still green the same day, so this russet tree is a different specimen. Worth adding as a new specimen (and there is a second oak trunk beside it)",
+  "match_number": "41",
+  "match_reason": "Proposed new specimen 41: northern red oak in Section C; no oak on the Section C roster.",
   "condition": "good: full crown, normal fall color"
  },
  {
