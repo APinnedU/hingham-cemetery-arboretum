@@ -22,15 +22,15 @@
     "m": 111
    }
   ],
-  "frame": "",
-  "species_common": "",
-  "species_sci": "",
-  "confidence": "",
-  "feature": "",
-  "text_seen": "",
-  "match_number": "",
-  "match_reason": "",
-  "condition": ""
+  "frame": "plaque",
+  "species_common": "Weeping European beech",
+  "species_sci": "Fagus sylvatica 'Pendula'",
+  "confidence": "high",
+  "feature": "engraved plaque",
+  "text_seen": "Fagus sylvatica 'Pendula' Weeping Green Beech. In honor of Cinda Day's 27+ years of service to the Hingham Cemetery. Planted 2017",
+  "match_number": "30",
+  "match_reason": "Plaque at the weeping beech; the GPS sits near the chapel (Section B), which matches tree 30 Weeping European beech. Tree 34 (map-only weeping beech) may be the same tree: Needs a field check.",
+  "condition": "cannot tell"
  },
  {
   "file": "IMG_0028.jpg",
@@ -55,15 +55,15 @@
     "m": 33
    }
   ],
-  "frame": "",
-  "species_common": "",
-  "species_sci": "",
-  "confidence": "",
-  "feature": "",
+  "frame": "leaves and bark",
+  "species_common": "Linden",
+  "species_sci": "Tilia sp.",
+  "confidence": "high",
+  "feature": "heart-shaped serrated leaves, yellow",
   "text_seen": "",
-  "match_number": "",
-  "match_reason": "",
-  "condition": ""
+  "match_number": "28",
+  "match_reason": "Section D, 21 m from pin 28 Linden; linden leaves",
+  "condition": "good"
  },
  {
   "file": "IMG_0300.jpg",
@@ -88,15 +88,15 @@
     "m": 52
    }
   ],
-  "frame": "",
-  "species_common": "",
-  "species_sci": "",
-  "confidence": "",
-  "feature": "",
-  "text_seen": "",
-  "match_number": "",
-  "match_reason": "",
-  "condition": ""
+  "frame": "whole tree, young, bare, label at base",
+  "species_common": "Eastern redbud (young)",
+  "species_sci": "Cercis canadensis",
+  "confidence": "medium",
+  "feature": "young bare tree with a ground plaque; the plaque photo IMG_2131 is 5 m away",
+  "text_seen": "label at base, unreadable",
+  "match_number": "31",
+  "match_reason": "Section A, 10 m from pin 04; the redbud plaque (IMG_2131) is at the same spot",
+  "condition": "fair, young"
  },
  {
   "file": "IMG_0580.jpg",
@@ -121,15 +121,15 @@
     "m": 37
    }
   ],
-  "frame": "",
-  "species_common": "",
-  "species_sci": "",
-  "confidence": "",
-  "feature": "",
+  "frame": "whole tree",
+  "species_common": "Turkey oak",
+  "species_sci": "Quercus cerris",
+  "confidence": "medium",
+  "feature": "large oak form, marcescent brown lobed leaves",
   "text_seen": "",
-  "match_number": "",
-  "match_reason": "",
-  "condition": ""
+  "match_number": "11",
+  "match_reason": "24 m from pin 11 Turkey oak (Section D)",
+  "condition": "good, mature"
  },
  {
   "file": "IMG_0895.jpg",
@@ -154,15 +154,15 @@
     "m": 36
    }
   ],
-  "frame": "",
-  "species_common": "",
-  "species_sci": "",
-  "confidence": "",
-  "feature": "",
+  "frame": "bark",
+  "species_common": "Turkey oak",
+  "species_sci": "Quercus cerris",
+  "confidence": "low",
+  "feature": "deeply furrowed oak bark, Norway spruce behind",
   "text_seen": "",
-  "match_number": "",
-  "match_reason": "",
-  "condition": ""
+  "match_number": "11",
+  "match_reason": "19 m from pin 11; companion bark shot of IMG_0580",
+  "condition": "cannot tell"
  },
  {
   "file": "IMG_0944.jpg",
@@ -187,15 +187,15 @@
     "m": 35
    }
   ],
-  "frame": "",
-  "species_common": "",
-  "species_sci": "",
-  "confidence": "",
-  "feature": "",
+  "frame": "leaves",
+  "species_common": "Turkey oak",
+  "species_sci": "Quercus cerris",
+  "confidence": "medium",
+  "feature": "brown marcescent lobed leaves on bare twigs",
   "text_seen": "",
-  "match_number": "",
-  "match_reason": "",
-  "condition": ""
+  "match_number": "11",
+  "match_reason": "23 m from pin 11",
+  "condition": "cannot tell"
  },
  {
   "file": "IMG_1562.jpg",
@@ -220,15 +220,15 @@
     "m": 50
    }
   ],
-  "frame": "",
-  "species_common": "",
-  "species_sci": "",
-  "confidence": "",
-  "feature": "",
+  "frame": "whole tree",
+  "species_common": "Holly",
+  "species_sci": "Ilex sp.",
+  "confidence": "high",
+  "feature": "evergreen, spiny leaves, red berries",
   "text_seen": "",
-  "match_number": "",
-  "match_reason": "",
-  "condition": ""
+  "match_number": "18",
+  "match_reason": "The only holly on record is 18 Holly (not yet identified), Section V; the GPS is 41 m from pin 25 (Section C), so the section needs a check",
+  "condition": "good"
  },
  {
   "file": "IMG_1638.jpg",
@@ -253,15 +253,15 @@
     "m": 53
    }
   ],
-  "frame": "",
-  "species_common": "",
-  "species_sci": "",
-  "confidence": "",
-  "feature": "",
+  "frame": "leaves and seed pod",
+  "species_common": "Southern catalpa",
+  "species_sci": "Catalpa bignonioides",
+  "confidence": "high",
+  "feature": "large heart leaves and a long bean pod",
   "text_seen": "",
-  "match_number": "",
-  "match_reason": "",
-  "condition": ""
+  "match_number": "09",
+  "match_reason": "09 Southern catalpa is the only catalpa on record (Section D)",
+  "condition": "good"
  },
  {
   "file": "IMG_1892.jpg",
@@ -286,15 +286,15 @@
     "m": 111
    }
   ],
-  "frame": "",
-  "species_common": "",
-  "species_sci": "",
-  "confidence": "",
-  "feature": "",
-  "text_seen": "",
-  "match_number": "",
-  "match_reason": "",
-  "condition": ""
+  "frame": "whole tree",
+  "species_common": "Weeping European beech",
+  "species_sci": "Fagus sylvatica 'Pendula'",
+  "confidence": "high",
+  "feature": "pendulous green beech, red maple behind",
+  "text_seen": "small sign at the right edge, cut off",
+  "match_number": "30",
+  "match_reason": "Same spot as the plaque (FullSizeRender.jpg)",
+  "condition": "good"
  },
  {
   "file": "IMG_1918.jpg",
@@ -319,15 +319,15 @@
     "m": 89
    }
   ],
-  "frame": "",
-  "species_common": "",
-  "species_sci": "",
-  "confidence": "",
-  "feature": "",
+  "frame": "branches",
+  "species_common": "Pine",
+  "species_sci": "Pinus sp.",
+  "confidence": "low",
+  "feature": "long needles in bundles, small cones",
   "text_seen": "",
-  "match_number": "",
-  "match_reason": "",
-  "condition": ""
+  "match_number": "22",
+  "match_reason": "Nearest pine on record is 22 Pine (recorded as ponderosa, Section E); 39 Swiss stone pine has five soft needles, not these",
+  "condition": "cannot tell"
  },
  {
   "file": "IMG_1933.jpg",
@@ -352,15 +352,15 @@
     "m": 60
    }
   ],
-  "frame": "",
-  "species_common": "",
-  "species_sci": "",
-  "confidence": "",
-  "feature": "",
+  "frame": "leaves and bark",
+  "species_common": "Tulip tree",
+  "species_sci": "Liriodendron tulipifera",
+  "confidence": "high",
+  "feature": "notched four-lobed yellow leaves on furrowed bark",
   "text_seen": "",
-  "match_number": "",
-  "match_reason": "",
-  "condition": ""
+  "match_number": "25",
+  "match_reason": "Section C, 30 m from pin 25 Tulip tree",
+  "condition": "good"
  },
  {
   "file": "IMG_2019.jpg",
@@ -385,15 +385,15 @@
     "m": 32
    }
   ],
-  "frame": "",
-  "species_common": "",
-  "species_sci": "",
-  "confidence": "",
-  "feature": "",
+  "frame": "leaves",
+  "species_common": "Japanese maple",
+  "species_sci": "Acer palmatum",
+  "confidence": "medium",
+  "feature": "palmate red leaves beside the chapel",
   "text_seen": "",
-  "match_number": "",
-  "match_reason": "",
-  "condition": ""
+  "match_number": "27",
+  "match_reason": "Section B, 19 m from pin 01; two Japanese maples stand by the chapel (01 Bloodgood, deep purple-red, and 27); this one is bright red, so 27 is the better fit. Needs a field check",
+  "condition": "good"
  },
  {
   "file": "IMG_2105.jpg",
@@ -418,15 +418,15 @@
     "m": 49
    }
   ],
-  "frame": "",
-  "species_common": "",
-  "species_sci": "",
-  "confidence": "",
-  "feature": "",
+  "frame": "foliage",
+  "species_common": "Weeping Alaska cedar",
+  "species_sci": "Callitropsis nootkatensis 'Pendula'",
+  "confidence": "high",
+  "feature": "flat pendulous scale foliage",
   "text_seen": "",
-  "match_number": "",
-  "match_reason": "",
-  "condition": ""
+  "match_number": "10",
+  "match_reason": "10 Weeping Alaska cedar (Section D) is the only one on record",
+  "condition": "good"
  },
  {
   "file": "IMG_2131.jpg",
@@ -451,15 +451,15 @@
     "m": 49
    }
   ],
-  "frame": "",
-  "species_common": "",
-  "species_sci": "",
-  "confidence": "",
-  "feature": "",
-  "text_seen": "",
-  "match_number": "",
-  "match_reason": "",
-  "condition": ""
+  "frame": "plaque",
+  "species_common": "Eastern redbud",
+  "species_sci": "Cercis canadensis",
+  "confidence": "high",
+  "feature": "engraved plaque",
+  "text_seen": "Cercis canadensis Eastern Redbud/Judas Tree. In honor of Sue Bush's 10 years of service to the Hingham Cemetery. Planted 20..",
+  "match_number": "31",
+  "match_reason": "Section A, 5 m from pin 04; 31 Eastern redbud is in the Section A roster (32 is the Appalachian Red cultivar)",
+  "condition": "cannot tell"
  },
  {
   "file": "IMG_2185.jpg",
@@ -484,15 +484,15 @@
     "m": 111
    }
   ],
-  "frame": "",
-  "species_common": "",
-  "species_sci": "",
-  "confidence": "",
-  "feature": "",
+  "frame": "whole tree",
+  "species_common": "Weeping European beech",
+  "species_sci": "Fagus sylvatica 'Pendula'",
+  "confidence": "high",
+  "feature": "weeping form against the sky",
   "text_seen": "",
-  "match_number": "",
-  "match_reason": "",
-  "condition": ""
+  "match_number": "30",
+  "match_reason": "Same spot as the plaque",
+  "condition": "good"
  },
  {
   "file": "IMG_2497.jpg",
@@ -517,15 +517,15 @@
     "m": 49
    }
   ],
-  "frame": "",
-  "species_common": "",
-  "species_sci": "",
-  "confidence": "",
-  "feature": "",
+  "frame": "leaves",
+  "species_common": "Oak",
+  "species_sci": "Quercus sp.",
+  "confidence": "low",
+  "feature": "deeply lobed glossy green leaves",
   "text_seen": "",
   "match_number": "",
-  "match_reason": "",
-  "condition": ""
+  "match_reason": "Section C, 30 m from pin 25; no oak in the Section C roster; nearest oak pin is 11 Turkey oak at 37 m. Possible new specimen",
+  "condition": "cannot tell"
  },
  {
   "file": "IMG_2547.jpg",
@@ -550,15 +550,15 @@
     "m": 59
    }
   ],
-  "frame": "",
-  "species_common": "",
-  "species_sci": "",
-  "confidence": "",
-  "feature": "",
-  "text_seen": "",
+  "frame": "whole tree",
+  "species_common": "Japanese maple (upright, red)",
+  "species_sci": "Acer palmatum",
+  "confidence": "low",
+  "feature": "upright small tree, dark red fine leaves, by the HOWARD stone",
+  "text_seen": "HOWARD",
   "match_number": "",
-  "match_reason": "",
-  "condition": ""
+  "match_reason": "25 m from pin 24 (Section C); candidates 27 Japanese maple (Section B) or 19 Coral bark (V or E). Needs a field check",
+  "condition": "good"
  },
  {
   "file": "IMG_2599.jpg",
@@ -583,15 +583,15 @@
     "m": 60
    }
   ],
-  "frame": "",
-  "species_common": "",
-  "species_sci": "",
-  "confidence": "",
-  "feature": "",
+  "frame": "whole tree",
+  "species_common": "Tulip tree",
+  "species_sci": "Liriodendron tulipifera",
+  "confidence": "high",
+  "feature": "tall straight trunk, yellow tulip-shaped leaves",
   "text_seen": "",
-  "match_number": "",
-  "match_reason": "",
-  "condition": ""
+  "match_number": "25",
+  "match_reason": "Section C, 29 m from pin 25",
+  "condition": "good, mature"
  },
  {
   "file": "IMG_2919.jpg",
@@ -616,15 +616,15 @@
     "m": 28
    }
   ],
-  "frame": "",
-  "species_common": "",
-  "species_sci": "",
-  "confidence": "",
-  "feature": "",
+  "frame": "whole tree",
+  "species_common": "Japanese maple",
+  "species_sci": "Acer palmatum",
+  "confidence": "medium",
+  "feature": "orange-red palmate leaves, by a building",
   "text_seen": "",
-  "match_number": "",
-  "match_reason": "",
-  "condition": ""
+  "match_number": "27",
+  "match_reason": "Section B, 21 m from pin 01; bright orange-red, not the deep purple of Bloodgood, so 27",
+  "condition": "good"
  },
  {
   "file": "IMG_2936.jpg",
@@ -649,15 +649,15 @@
     "m": 61
    }
   ],
-  "frame": "",
-  "species_common": "",
-  "species_sci": "",
-  "confidence": "",
-  "feature": "",
+  "frame": "leaves",
+  "species_common": "Japanese zelkova",
+  "species_sci": "Zelkova serrata",
+  "confidence": "high",
+  "feature": "serrated lanceolate leaves, red fall color",
   "text_seen": "",
-  "match_number": "",
-  "match_reason": "",
-  "condition": ""
+  "match_number": "26",
+  "match_reason": "26 Japanese zelkova (Section C) is the only zelkova on record; 32 m from pin 24",
+  "condition": "good"
  },
  {
   "file": "IMG_3077.jpg",
@@ -682,15 +682,15 @@
     "m": 30
    }
   ],
-  "frame": "",
-  "species_common": "",
-  "species_sci": "",
-  "confidence": "",
-  "feature": "",
+  "frame": "leaves",
+  "species_common": "Japanese maple",
+  "species_sci": "Acer palmatum",
+  "confidence": "medium",
+  "feature": "red palmate canopy",
   "text_seen": "",
-  "match_number": "",
-  "match_reason": "",
-  "condition": ""
+  "match_number": "27",
+  "match_reason": "Section B, 19 m from pin 01; same tree as IMG_2919",
+  "condition": "good"
  },
  {
   "file": "IMG_3103.jpg",
@@ -715,15 +715,15 @@
     "m": 102
    }
   ],
-  "frame": "",
-  "species_common": "",
-  "species_sci": "",
-  "confidence": "",
-  "feature": "",
+  "frame": "whole tree",
+  "species_common": "Weeping Norway spruce",
+  "species_sci": "Picea abies",
+  "confidence": "medium",
+  "feature": "pendulous branchlets, dark spruce",
   "text_seen": "",
-  "match_number": "",
-  "match_reason": "",
-  "condition": ""
+  "match_number": "06",
+  "match_reason": "06 Weeping Norway spruce (Section A) is the only spruce on record; GPS 57 m from pin 39",
+  "condition": "good"
  },
  {
   "file": "IMG_3164.jpg",
@@ -748,15 +748,15 @@
     "m": 35
    }
   ],
-  "frame": "",
-  "species_common": "",
-  "species_sci": "",
-  "confidence": "",
-  "feature": "",
-  "text_seen": "",
-  "match_number": "",
-  "match_reason": "",
-  "condition": ""
+  "frame": "whole tree",
+  "species_common": "Turkey oak",
+  "species_sci": "Quercus cerris",
+  "confidence": "medium",
+  "feature": "massive oak, deeply fissured bark, green lobed leaves, a tag on the trunk",
+  "text_seen": "tag on trunk, unreadable",
+  "match_number": "02",
+  "match_reason": "Section A, 25 m from pin 02 Turkey oak",
+  "condition": "good, mature"
  },
  {
   "file": "IMG_3220.jpg",
@@ -765,15 +765,15 @@
   "lon": null,
   "section": "",
   "near": [],
-  "frame": "",
-  "species_common": "",
-  "species_sci": "",
-  "confidence": "",
-  "feature": "",
+  "frame": "whole tree",
+  "species_common": "Bloodgood Japanese maple",
+  "species_sci": "Acer palmatum 'Bloodgood'",
+  "confidence": "medium",
+  "feature": "deep purple-red leaves, by the chapel",
   "text_seen": "",
-  "match_number": "",
-  "match_reason": "",
-  "condition": ""
+  "match_number": "01",
+  "match_reason": "Section A/B edge, 23 m from pin 01; the deep purple color is the Bloodgood cultivar",
+  "condition": "good"
  },
  {
   "file": "IMG_3236.jpg",
@@ -798,15 +798,15 @@
     "m": 86
    }
   ],
-  "frame": "",
-  "species_common": "",
-  "species_sci": "",
-  "confidence": "",
-  "feature": "",
+  "frame": "leaves",
+  "species_common": "Ginkgo",
+  "species_sci": "Ginkgo biloba",
+  "confidence": "high",
+  "feature": "fan-shaped yellow leaves",
   "text_seen": "",
-  "match_number": "",
-  "match_reason": "",
-  "condition": ""
+  "match_number": "20",
+  "match_reason": "Section E; 20 Ginkgo is in the Section E roster",
+  "condition": "good"
  },
  {
   "file": "IMG_3536.jpg",
@@ -831,15 +831,15 @@
     "m": 87
    }
   ],
-  "frame": "",
-  "species_common": "",
-  "species_sci": "",
-  "confidence": "",
-  "feature": "",
+  "frame": "bark",
+  "species_common": "Pine",
+  "species_sci": "Pinus sp.",
+  "confidence": "low",
+  "feature": "plated pine bark, long needles",
   "text_seen": "",
-  "match_number": "",
-  "match_reason": "",
-  "condition": ""
+  "match_number": "22",
+  "match_reason": "57 m from pin 25; same tree as IMG_1918",
+  "condition": "cannot tell"
  },
  {
   "file": "IMG_3553.jpg",
@@ -864,15 +864,15 @@
     "m": 127
    }
   ],
-  "frame": "",
-  "species_common": "",
-  "species_sci": "",
-  "confidence": "",
-  "feature": "",
+  "frame": "whole tree",
+  "species_common": "European beech",
+  "species_sci": "Fagus sylvatica",
+  "confidence": "low",
+  "feature": "smooth gray multi-stem, ovate leaves turning orange",
   "text_seen": "",
   "match_number": "",
-  "match_reason": "",
-  "condition": ""
+  "match_reason": "98 m from pin 24, no section; candidates 16 European beech (V), 35 European beech (pinned), or a fernleaf beech if the leaves are cut. Needs a field check",
+  "condition": "good"
  },
  {
   "file": "IMG_3626.jpg",
@@ -897,15 +897,15 @@
     "m": 40
    }
   ],
-  "frame": "",
-  "species_common": "",
+  "frame": "whole tree",
+  "species_common": "Maple or linden (bare)",
   "species_sci": "",
-  "confidence": "",
-  "feature": "",
+  "confidence": "low",
+  "feature": "large bare crown, a few yellow rounded leaves, lichen on bark",
   "text_seen": "",
   "match_number": "",
-  "match_reason": "",
-  "condition": ""
+  "match_reason": "14 m from pin 11, 27 m from pin 28 (Section D); candidates 28 Linden or 07 Sugar maple. Needs a field check",
+  "condition": "cannot tell"
  },
  {
   "file": "IMG_3684.jpg",
@@ -930,15 +930,15 @@
     "m": 28
    }
   ],
-  "frame": "",
-  "species_common": "",
-  "species_sci": "",
-  "confidence": "",
-  "feature": "",
+  "frame": "foliage",
+  "species_common": "Five-needle pine",
+  "species_sci": "Pinus sp. (five-needle)",
+  "confidence": "medium",
+  "feature": "soft blue-green needles in fives",
   "text_seen": "",
-  "match_number": "",
-  "match_reason": "",
-  "condition": ""
+  "match_number": "39",
+  "match_reason": "Section A; 39 Swiss stone pine is the only five-needle pine on record; an eastern white pine would look the same. Needs a field check",
+  "condition": "good"
  },
  {
   "file": "IMG_3731.jpg",
@@ -963,15 +963,15 @@
     "m": 95
    }
   ],
-  "frame": "",
-  "species_common": "",
-  "species_sci": "",
-  "confidence": "",
-  "feature": "",
+  "frame": "bark",
+  "species_common": "Beech (smooth bark)",
+  "species_sci": "Fagus sp.",
+  "confidence": "low",
+  "feature": "smooth gray bark with lichen",
   "text_seen": "",
   "match_number": "",
-  "match_reason": "",
-  "condition": ""
+  "match_reason": "71 m from pin 24; candidates 33 American beech, 16 or 35 European beech. Needs a field check",
+  "condition": "cannot tell"
  },
  {
   "file": "IMG_3795.jpg",
@@ -996,15 +996,15 @@
     "m": 38
    }
   ],
-  "frame": "",
-  "species_common": "",
-  "species_sci": "",
-  "confidence": "",
-  "feature": "",
+  "frame": "whole tree",
+  "species_common": "Sugar maple (bare)",
+  "species_sci": "Acer saccharum",
+  "confidence": "low",
+  "feature": "large bare maple-like crown, obelisk and spruce behind",
   "text_seen": "",
-  "match_number": "",
-  "match_reason": "",
-  "condition": ""
+  "match_number": "07",
+  "match_reason": "17 m from pin 11, in the Section D area; 07 Sugar maple is pinned nearby. Needs a field check",
+  "condition": "good, mature"
  },
  {
   "file": "IMG_4065.jpg",
@@ -1029,15 +1029,15 @@
     "m": 53
    }
   ],
-  "frame": "",
-  "species_common": "",
-  "species_sci": "",
-  "confidence": "",
-  "feature": "",
+  "frame": "leaf",
+  "species_common": "Northern red oak",
+  "species_sci": "Quercus rubra",
+  "confidence": "medium",
+  "feature": "brown leaf with pointed bristle-tipped lobes",
   "text_seen": "",
   "match_number": "",
-  "match_reason": "",
-  "condition": ""
+  "match_reason": "Section C, 20 m from pin 25; the only red oak on record is 05 (Section A). Possible new specimen or a mis-sectioned 05",
+  "condition": "cannot tell"
  },
  {
   "file": "IMG_4106.jpg",
@@ -1062,15 +1062,15 @@
     "m": 125
    }
   ],
-  "frame": "",
-  "species_common": "",
-  "species_sci": "",
-  "confidence": "",
-  "feature": "",
-  "text_seen": "",
-  "match_number": "",
-  "match_reason": "",
-  "condition": ""
+  "frame": "whole tree",
+  "species_common": "Balsam fir",
+  "species_sci": "Abies balsamea",
+  "confidence": "high",
+  "feature": "dense flat soft needles, conical young tree",
+  "text_seen": "YU (headstone)",
+  "match_number": "21",
+  "match_reason": "21 Balsam fir (Section E) is the only fir on record",
+  "condition": "good"
  },
  {
   "file": "IMG_4382.jpg",
@@ -1095,15 +1095,15 @@
     "m": 41
    }
   ],
-  "frame": "",
-  "species_common": "",
-  "species_sci": "",
-  "confidence": "",
-  "feature": "",
+  "frame": "leaves and bark",
+  "species_common": "Linden",
+  "species_sci": "Tilia sp.",
+  "confidence": "high",
+  "feature": "heart-shaped yellow leaves, large furrowed trunk",
   "text_seen": "",
-  "match_number": "",
-  "match_reason": "",
-  "condition": ""
+  "match_number": "28",
+  "match_reason": "12 m from pin 11, 25 m from pin 28 Linden (Section D)",
+  "condition": "good, mature"
  },
  {
   "file": "IMG_4435.jpg",
