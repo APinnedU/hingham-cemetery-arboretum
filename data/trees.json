@@ -43,7 +43,7 @@
    "flags": [
     "Cultivar dropped on later list",
     "Distinct from row 27",
-    "Photo GPS check: the GPS of 2 photos from the Nov 2 2025 walk (IMG_7600, IMG_9841); phone GPS, about 10 m lands 22 m from this pin"
+    "Photo GPS check: the GPS of 32 photos from the Nov 2 2025 walk (IMG_7600, IMG_9841, IMG_9232, IMG_9233, IMG_9234, IMG_9235, IMG_0013, IMG_9141, IMG_0014, IMG_9142, IMG_0016, IMG_9143, IMG_9144, IMG_0017, IMG_9145, IMG_0300 2, IMG_9146, IMG_0299, IMG_9147, IMG_9148, IMG_0297, IMG_9149, IMG_0293, IMG_9153, IMG_9154, IMG_0291, IMG_9155, IMG_0296, IMG_9150, IMG_0295, IMG_9151, IMG_9152); phone GPS, about 10 m lands 10 m from this pin"
    ],
    "rename_from": "",
    "individuals": 1,
@@ -64,11 +64,11 @@
     "On official map"
    ],
    "taxon_key": "Acer palmatum 'Bloodgood'",
-   "maintenance": "",
+   "maintenance": "Oct 24 2026 read: good; fair to good; good: foliage full and healthy, heavy samara set; one large stem removed flush at the base (IMG_9148), cut face still open; a big pruned stub on the trunk; otherwise full canopy and no visible dieback; large pruned stub on the trunk at tape height; none seen",
    "photo_gps": {
-    "lat": 42.242525,
-    "lon": -70.8870958,
-    "distance_m": 22
+    "lat": 42.2424875,
+    "lon": -70.8872746,
+    "distance_m": 10
    }
   },
   {
@@ -94,7 +94,7 @@
     "Rename from Q. laevis to Q. cerris pending field check",
     "Same taxon as row 11 and map icon A",
     "Spelling: Quercia > Quercus",
-    "Photo GPS check: the GPS of 1 photo from the Nov 2 2025 walk (IMG_3164); phone GPS, about 10 m lands 25 m from this pin"
+    "Photo GPS check: the GPS of 45 photos from the Nov 2 2025 walk (IMG_3164, IMG_0272, IMG_9174, IMG_0271, IMG_9175, IMG_0270, IMG_9176, IMG_0269, IMG_9177, IMG_0268, IMG_9178, IMG_0267, IMG_9179, IMG_0290, IMG_9156, IMG_9157, IMG_9158, IMG_0324, IMG_9159, IMG_9160, IMG_9161, IMG_0284, IMG_9162, IMG_0283, IMG_9163, IMG_0329, IMG_9164, IMG_0281, IMG_9165, IMG_0280, IMG_9166, IMG_9167, IMG_0333, IMG_9168, IMG_0277, IMG_9169, IMG_0276, IMG_9170, IMG_9171, IMG_0274, IMG_9172, IMG_0273, IMG_9173, IMG_0356, IMG_0254); phone GPS, about 10 m lands 18 m from this pin"
    ],
    "rename_from": "Quercus laevis",
    "individuals": 1,
@@ -115,11 +115,11 @@
     "On official map"
    ],
    "taxon_key": "Quercus cerris",
-   "maintenance": "",
+   "maintenance": "Oct 24 2026 read: good to fair; good; good: full foliage, heavy acorn and catkin set; good: large mature trunk, no cavities seen in the one trunk view; Large burl at the base on the uphill side and a second burl higher on the road side; old pruning stub on the road side; otherwise full crown. Worth an arborist look at the base burls.; epicormic sprout clusters on the trunk (IMG_9165), worth noting but not urgent; none seen",
    "photo_gps": {
-    "lat": 42.242355,
-    "lon": -70.8872833,
-    "distance_m": 25
+    "lat": 42.2423812,
+    "lon": -70.8874602,
+    "distance_m": 18
    }
   },
   {
@@ -186,7 +186,7 @@
    "flags": [
     "Species unresolved: inventory vs official map",
     "Same taxon as map icon I",
-    "Photo GPS check: the GPS of 1 photo from the Nov 2 2025 walk (IMG_5749); phone GPS, about 10 m lands 53 m from this pin; drag the pin to the photo spot if the photo is right"
+    "Photo GPS check: the GPS of 46 photos from the Nov 2 2025 walk (IMG_5749, IMG_9283, IMG_9290, IMG_9291, IMG_2525, IMG_2526, IMG_2527, IMG_9368, IMG_9369, IMG_9370, IMG_9371, IMG_9375, IMG_9376, IMG_9377, IMG_9378, IMG_9381, IMG_9382, IMG_9383, IMG_9384, IMG_9385, IMG_9386, IMG_9387, IMG_9388, IMG_9277, IMG_9278, IMG_9279, IMG_9280, IMG_9281, IMG_9282, IMG_2468, IMG_9284, IMG_2469, IMG_9285, IMG_9286, IMG_9287, IMG_2470, IMG_2471, IMG_9288, IMG_9289, IMG_9223, IMG_9270, IMG_9271, IMG_9272, IMG_9273, IMG_9276, IMG_2466); phone GPS, about 10 m lands 30 m from this pin"
    ],
    "rename_from": "",
    "individuals": 11,
@@ -207,11 +207,11 @@
     "Group of 11"
    ],
    "taxon_key": "Larix (one taxon, species pending)",
-   "maintenance": "",
+   "maintenance": "Oct 24 2026 read: cannot tell; good; fair to good; fair: crown thin and high, long bare trunk; fair: pronounced lean, crown confined to the top third; Plaque has come off its stake and lies on the ground; worth re-setting.; Heavy lichen on the trunks; the big trunk has deep scaly grey plates. Crowns full. The cone count on the pendulous twigs is very high this year.; very heavy cone crop; trunk base sits between a paved path and gravel, watch for compaction; Check crown density next summer; thin crown may be normal fall drop.; Arborist should assess the lean and root plate.",
    "photo_gps": {
-    "lat": 42.24203,
-    "lon": -70.8873217,
-    "distance_m": 53
+    "lat": 42.2421171,
+    "lon": -70.8869999,
+    "distance_m": 30
    }
   },
   {
@@ -1182,10 +1182,10 @@
    "individuals": 1,
    "memorial": "",
    "source": "Hingham Cemetery Tree Inventory, incomplete working copy Oct/Nov 2025 (B. Nicosia); two source sheets",
-   "lat": 42.2425294,
-   "lon": -70.8871228,
+   "lat": 42.2425525,
+   "lon": -70.8871173,
    "location_status": "photo_gps",
-   "location_method": "Placed from the GPS of 3 photos from the Nov 2 2025 walk (IMG_2019, IMG_2919, IMG_3077); phone GPS, about 10 m",
+   "location_method": "Placed from the GPS of 12 photos from the Nov 2 2025 walk (IMG_2019, IMG_2919, IMG_3077, IMG_9236, IMG_9237, IMG_9238, IMG_9239, IMG_9240, IMG_9241, IMG_9242, IMG_9243, IMG_9244); phone GPS, about 10 m",
    "location_accuracy_m": 10,
    "suggested_icon": "",
    "tags": [
@@ -1194,7 +1194,7 @@
     "Fall color"
    ],
    "taxon_key": "Acer palmatum (unnamed cultivar)",
-   "maintenance": ""
+   "maintenance": "Oct 24 2026 read: good; Small bark wound low on the trunk (IMG_9240); two old pruning cuts healed (IMG_9243). Nothing urgent."
   },
   {
    "id": "28",
@@ -1273,10 +1273,10 @@
    "individuals": 2,
    "memorial": "",
    "source": "Hingham Cemetery Tree Inventory, incomplete working copy Oct/Nov 2025 (B. Nicosia); two source sheets",
-   "lat": 42.2419375,
-   "lon": -70.8875042,
+   "lat": 42.2420052,
+   "lon": -70.8875519,
    "location_status": "photo_gps",
-   "location_method": "Placed from the GPS of 2 photos from the Nov 2 2025 walk (IMG_4435, IMG_5263); phone GPS, about 10 m",
+   "location_method": "Placed from the GPS of 64 photos from the Nov 2 2025 walk (IMG_4435, IMG_5263, IMG_2492, 629368C7-A046-4A82-ADA3-74E9F6841D6B, IMG_2493, 89458C51-148B-4690-9B90-C0139DB3AA1B, IMG_2494, IMG_0487, IMG_9325, 8F138E97-B6ED-4BCC-B06D-00AD3E8908B8, IMG_2495, IMG_0116, IMG_0633, IMG_9333, IMG_0496, IMG_9334, IMG_0114, IMG_9335, IMG_0113, IMG_9336, IMG_0499, IMG_9337, IMG_0111, IMG_9338, 8833B6A4-AF57-475D-9D6B-4AB7CD374FA8, IMG_2504, E6B95BFC-A130-489A-9520-F95440553607, IMG_2505, 844F4F3D-B234-4DF7-9F1E-F3EDC296C2F6, IMG_2506, 1F252F89-0992-4BD4-A262-5D4B1E64065A, IMG_2507, IMG_9339, IMG_9274, IMG_9275, IMG_0485, IMG_9323, IMG_0169, IMG_9326, IMG_0125, IMG_9327, IMG_0126, IMG_9328, IMG_0120, IMG_2496, IMG_9329, A30975D9-4D32-4F7F-83B2-C6015277B000, IMG_2497 2, IMG_0119, IMG_9330, IMG_2498, IMG_2499, IMG_0118, IMG_9331, 9CD7614F-7EE8-4C9F-88C4-D7D59C5209A3, IMG_2500, IMG_0117, IMG_9332, 7B04DD58-5348-4D41-9585-FEE6C7D7B01A, IMG_2501, 8338C7C4-AC55-471A-8F69-9315E86702B7, IMG_2502, B8E03196-B05E-4525-A37F-D7F61233238A, IMG_2503); phone GPS, about 10 m",
    "location_accuracy_m": 10,
    "suggested_icon": "",
    "tags": [
@@ -1287,7 +1287,7 @@
     "Group of 2"
    ],
    "taxon_key": "Acer platanoides",
-   "maintenance": ""
+   "maintenance": "Oct 24 2026 read: good; fair; good: full crown; good: full crown, co-dominant fork at about 4 m, moss on the buttresses, long exposed surface roots radiating across the lawn, slight lean; Full crown, single trunk, no dieback visible from this distance.; Some brown leaf edges, normal for the season.; Extensive exposed surface roots on the downhill side, some scuffed; keep foot traffic and mowers off them.; Full broad crown, no dieback seen. IMG_9339 (last frame, 16:44) shows flaky plated bark with heavy lichen that does not look like this maple; it may be the larch (roster 04, Nov 2 photo 17 m "
   },
   {
    "id": "30",
@@ -1360,10 +1360,10 @@
    "individuals": 1,
    "memorial": "Planted in memory of Sue Bush",
    "source": "Hingham Cemetery Tree Inventory, incomplete working copy Oct/Nov 2025 (B. Nicosia); two source sheets",
-   "lat": 42.2422925,
-   "lon": -70.8868508,
+   "lat": 42.2423049,
+   "lon": -70.8868872,
    "location_status": "photo_gps",
-   "location_method": "Placed from the GPS of 2 photos from the Nov 2 2025 walk (IMG_0300, IMG_2131); phone GPS, about 10 m",
+   "location_method": "Placed from the GPS of 14 photos from the Nov 2 2025 walk (IMG_0300, IMG_2131, IMG_9245, IMG_9246, IMG_9247, IMG_9248, IMG_9249, IMG_9250, IMG_9251, IMG_9252, IMG_9256, IMG_9259, IMG_9260, IMG_9261); phone GPS, about 10 m",
    "location_accuracy_m": 10,
    "suggested_icon": "",
    "tags": [
@@ -1374,7 +1374,7 @@
     "Memorial or gift tree"
    ],
    "taxon_key": "Cercis canadensis",
-   "maintenance": ""
+   "maintenance": "Oct 24 2026 read: good; fair; Young tree, single leader, no damage seen. Small bark wound at the base of the trunk in IMG_9249 (old, callused).; open wound and small cavity at the root flare (IMG_9259), check for decay and girdling; the bare tree in IMG_9256 (same tree as U032 IMG_2482) had dropped its leaves by Oct 24 while the labeled redbud was in full leaf, so check it in spring for dieback"
   },
   {
    "id": "32",
@@ -1402,10 +1402,10 @@
    "individuals": 1,
    "memorial": "Gift of Derby Academy",
    "source": "Hingham Cemetery Tree Inventory, incomplete working copy Oct/Nov 2025 (B. Nicosia); two source sheets",
-   "lat": 42.242275,
-   "lon": -70.8868292,
+   "lat": 42.2423647,
+   "lon": -70.8868748,
    "location_status": "photo_gps",
-   "location_method": "Placed from the GPS of 2 photos from the Nov 2 2025 walk (IMG_6115, IMG_9856); phone GPS, about 10 m",
+   "location_method": "Placed from the GPS of 13 photos from the Nov 2 2025 walk (IMG_6115, IMG_9856, IMG_2446, IMG_9254, IMG_9255, IMG_2447, IMG_9257, IMG_9258, IMG_2453 2, IMG_2453, IMG_2454, IMG_2455, IMG_2456); phone GPS, about 10 m",
    "location_accuracy_m": 10,
    "suggested_icon": "",
    "tags": [
@@ -1416,7 +1416,7 @@
     "Memorial or gift tree"
    ],
    "taxon_key": "Cercis canadensis 'Appalachian Red'",
-   "maintenance": ""
+   "maintenance": "Oct 24 2026 read: good; young tree with three co-dominant leaders from low on the trunk; consider selecting a leader"
   },
   {
    "id": "map-B",
@@ -1743,8 +1743,8 @@
    "individuals": 1,
    "memorial": "",
    "location_status": "photo_gps",
-   "lat": 42.2424383,
-   "lon": -70.8870467,
+   "lat": 42.2423885,
+   "lon": -70.8871426,
    "taxon_confidence": "C",
    "taxon_confidence_reason": "Read from the Nov 2 2025 photos only; not in the inventory or on the official map. Confirm on the walk, then keep or drop the number.",
    "as_written": "",
@@ -1765,9 +1765,9 @@
    "suggested_icon": "",
    "suggestion_strength": "",
    "taxon_key": "Pinus strobus",
-   "maintenance": "",
+   "maintenance": "Oct 24 2026 read: fair; good; cannot tell (needle sample only); Crown thin with many dead twigs and brown needle clusters (IMG_9218); heavy cone crop. Check for white pine weevil or needle cast; some of the browning is normal autumn drop of inner needles.; dense whorls of dead lower limbs still on the trunk with retained orange dead needles; prune the dead lower limbs and check the shaded side of the crown",
    "location_accuracy_m": 10,
-   "location_method": "Placed from the GPS of 1 photo from the Nov 2 2025 walk (IMG_6240); phone GPS, about 10 m"
+   "location_method": "Placed from the GPS of 29 photos from the Nov 2 2025 walk (IMG_6240, IMG_2412, IMG_2413, IMG_2414, IMG_2415, IMG_2416, IMG_2417, IMG_2418, IMG_2419, IMG_2420, IMG_2421, IMG_2422, IMG_9218, IMG_9219, IMG_9220, IMG_9221, IMG_2465, IMG_2467, IMG_9224, IMG_9225, IMG_9226, IMG_9227, IMG_9228, IMG_9229, IMG_9230, IMG_9231, IMG_2440, IMG_2441, IMG_9222); phone GPS, about 10 m"
   },
   {
    "id": "p41",
@@ -1888,7 +1888,334 @@
    "maintenance": "",
    "location_accuracy_m": 10,
    "location_method": "Placed from the GPS of 1 photo from the Nov 2 2025 walk (IMG_2547); phone GPS, about 10 m"
+  },
+  {
+   "id": "p44",
+   "number": "44",
+   "kind": "photo_proposed",
+   "section": "",
+   "section_note": "placed from the Oct 24 2026 photo GPS",
+   "scientific_name": "Pinus sylvestris",
+   "common_name": "Scots pine (two-needle pine)",
+   "family": "Pinaceae",
+   "origin_tag": "Not specified",
+   "growth_type": "",
+   "individuals": 1,
+   "memorial": "Tape readings on limbs: 38 to 41 and 50 to 57 (IMG_9193, IMG_9194); 9 to 12 and 29 to 32 (IMG_9207); hook near 20, 17 to 22 visible (IMG_9210, IMG_9212); 17 to 20 and 25 to 29 (IMG_9211). No single trunk circumference can be read with certainty.",
+   "location_status": "photo_gps",
+   "lat": 42.2423954,
+   "lon": -70.8872703,
+   "location_accuracy_m": 10,
+   "location_method": "Placed from the GPS of 54 photos taken Oct 24 2026 (units U008, U010)",
+   "taxon_confidence": "B",
+   "taxon_confidence_reason": "needles in fascicles of 2, short (about 2 in), twisted and blue-green, with orange-red flaking bark on the upper trunk and limbs and small 2 in cones with raised umbos. No roster tree near this spot is a 2-needle pine. 40 Eastern white pine (20 m) is 5-needle and is the other pine in this unit. 39 Swiss stone pine is listed from the official map 90 m away but a Nov 2 photo (IMG_3684) matched to 39 was taken 17 m from here; Pinus cembra is 5-needle with short egg-shaped cones, which this tree is not. 42 and 22 are far to the north and east. Proposed as new.",
+   "as_written": "",
+   "notes_as_written": "",
+   "tags": [
+    "Proposed from photo",
+    "Needs field check"
+   ],
+   "flags": [
+    "Proposed new specimen from the Oct 24 2026 photo walk; not in the inventory. Confirm, name and number it on the walk.",
+    "Alternatives named by the readers: 39",
+    "Photo GPS check: the GPS of 54 photos from the Nov 2 2025 walk (IMG_9193, IMG_9194, IMG_2392, IMG_2393, IMG_2394, IMG_9195, IMG_2395, IMG_2396, IMG_9196, IMG_9197, IMG_2397, IMG_9198, IMG_9199, IMG_2398, IMG_2399, IMG_9200, IMG_9201, IMG_9202, IMG_9203, IMG_9204, IMG_2400, IMG_9205, IMG_2401, IMG_2402, IMG_2403, IMG_2404, IMG_2405, IMG_2406, IMG_2407, IMG_2408, IMG_9207, IMG_2409, IMG_9208, IMG_2410, IMG_2411, IMG_9210, IMG_9211, IMG_9212, IMG_9214, IMG_9215, IMG_9216, IMG_9217, IMG_2423, IMG_9180, IMG_9181, IMG_9182, IMG_9183, IMG_9184, IMG_9185, IMG_9186, IMG_9187, IMG_9188, IMG_9189, IMG_9190); phone GPS, about 10 m lands 2 m from this pin"
+   ],
+   "source": "Proposed Nov 18 2026 from the Oct 24 2026 photo walk",
+   "story": "",
+   "id_tip": "",
+   "season": "",
+   "origin": "",
+   "rename_from": "",
+   "suggested_icon": "",
+   "suggestion_strength": "",
+   "taxon_key": "Pinus sylvestris",
+   "maintenance": "Many dead lower branches and dead twigs against the trunk (IMG_9198, IMG_9199); lean on the main trunk (IMG_9195); crown thin on one side. Deadwood removal worth a look.; Check the lower trunk for sapsucker damage and any resin bleeding; otherwise no action.; Oct 24 2026 read: fair; fair: heavy cone load, rows of woodpecker or sapsucker holes on the trunk, needle litter at the base; Many dead lower branches and dead twigs against the trunk (IMG_9198, IMG_9199); lean on the main trunk (IMG_9195); crown thin on one side. Deadwood removal worth a look.; Check the lower trunk for sapsucker damage ",
+   "photo_gps": {
+    "lat": 42.242383,
+    "lon": -70.8872565,
+    "distance_m": 2
+   }
+  },
+  {
+   "id": "p45",
+   "number": "45",
+   "kind": "photo_proposed",
+   "section": "",
+   "section_note": "placed from the Oct 24 2026 photo GPS",
+   "scientific_name": "Larix decidua",
+   "common_name": "European larch (second tree)",
+   "family": "Pinaceae",
+   "origin_tag": "Not specified",
+   "growth_type": "",
+   "individuals": 1,
+   "memorial": "Headstone: 'GIBBS / DEREK ROBERT / JAN 6 1979 / APR 29 2020 / AGED 41 YEARS'. Headstone 'SHAW' with pumpkins. Tape: IMG_9347 hook sits at about 61 in (5 ft 1 in) circumference; IMG_9359 reads 64 in (5 ft 4 in). Circumference 61 to 64 in, about 19 to 20 in DBH.; Plaque (IMG_2518): 'Larix decidua / Eu",
+   "location_status": "photo_gps",
+   "lat": 42.241924,
+   "lon": -70.8871019,
+   "location_accuracy_m": 10,
+   "location_method": "Placed from the GPS of 50 photos taken Oct 24 2026 (units U044, U045, U046, U047)",
+   "taxon_confidence": "B",
+   "taxon_confidence_reason": "cones 2.5 to 3 cm with many thin scales lying flat (not rolled back); needles in tufts on spur shoots, yellowing; grey-pink flaky plated bark. This is the tree the Nov 2 photo IMG_5749 was assigned to 04 (5 m away, 'only larch in the inventory'), but the roster pin for 04 is 52 m north-east at the receiving tomb larch (U022, 7 m from the pin). With three larches now photographed (tomb larch U022/U026, this one, and the plaque larch U045 17 m away) and one roster number, this tree is proposed as new; the Nov 2 match of IMG_5749 should be moved if 04 stays at the tomb.",
+   "as_written": "",
+   "notes_as_written": "",
+   "tags": [
+    "Proposed from photo",
+    "Needs field check"
+   ],
+   "flags": [
+    "Proposed new specimen from the Oct 24 2026 photo walk; not in the inventory. Confirm, name and number it on the walk.",
+    "Alternatives named by the readers: 04",
+    "Photo GPS check: the GPS of 50 photos from the Nov 2 2025 walk (IMG_9365, IMG_9366, IMG_9367, IMG_9372, IMG_9373, IMG_9374, IMG_9379, IMG_9380, IMG_2508, IMG_2509, IMG_9340, IMG_9341, IMG_2510, IMG_2511, IMG_2512, IMG_2513, IMG_9342, IMG_2514, IMG_9343, IMG_9344, IMG_9345, IMG_9346, IMG_9347, IMG_9348, IMG_9349, IMG_9350, IMG_9351, IMG_2515, IMG_9352, IMG_2516, IMG_9353, IMG_9354, IMG_9355, IMG_9356, IMG_9357, IMG_9359, IMG_9360, IMG_9361, IMG_2517, IMG_2518, IMG_9358, IMG_2519, IMG_2520, IMG_2521, IMG_2522, IMG_2523, IMG_2524, IMG_9362, IMG_9363, IMG_9364); phone GPS, about 10 m lands 8 m from this pin"
+   ],
+   "source": "Proposed Nov 18 2026 from the Oct 24 2026 photo walk",
+   "story": "",
+   "id_tip": "",
+   "season": "",
+   "origin": "",
+   "rename_from": "",
+   "suggested_icon": "",
+   "suggestion_strength": "",
+   "taxon_key": "Larix decidua",
+   "maintenance": "Arborist to check crown dieback and the root toward the path; mulch over the exposed root.; Check the bark hole for frass or sap; otherwise none.; Slim trunk with a large knot and epicormic needle sprouts low on the stem; heavy lichen. Small for a 1999 planting (about 6.5 in DBH after 27 years), so growth is slow; check for root or soil problems.; Trunk heavily lichen covered, which is not itself ; Oct 24 2026 read: fair; fair: crown thin and one-sided with some bare upper branches, very heavy cone crop (can signal stress), lichen on the trunk, surface root running to the path; fair to good: f",
+   "photo_gps": {
+    "lat": 42.2419652,
+    "lon": -70.8871791,
+    "distance_m": 8
+   }
+  },
+  {
+   "id": "p46",
+   "number": "46",
+   "kind": "photo_proposed",
+   "section": "",
+   "section_note": "placed from the Oct 24 2026 photo GPS",
+   "scientific_name": "Tilia sp.",
+   "common_name": "Linden (photographed Oct 24 2026)",
+   "family": "Malvaceae",
+   "origin_tag": "Not specified",
+   "growth_type": "",
+   "individuals": 1,
+   "memorial": "IMG_9268: hook end sits at 9 ft 4 in (112 in), so circumference about 112 in. IMG_9269: hook near 9 ft 6 to 9 ft 8 in on the overlapping run, same tree.",
+   "location_status": "photo_gps",
+   "lat": 42.2423678,
+   "lon": -70.8871195,
+   "location_accuracy_m": 10,
+   "location_method": "Placed from the GPS of 43 photos taken Oct 24 2026 (units U009, U010, U011, U013, U015, U017, U018, U019, U020, U021)",
+   "taxon_confidence": "B",
+   "taxon_confidence_reason": "tan strap-like bract carrying 2 to 4 round nutlets, with heart-shaped finely serrate leaves. nearest roster trees are 40 white pine 17 m, 27 Japanese maple 23 m, 04 larch 26 m; none is a linden, and 28 Linden sits 150 m away in section D",
+   "as_written": "",
+   "notes_as_written": "",
+   "tags": [
+    "Proposed from photo",
+    "Needs field check"
+   ],
+   "flags": [
+    "Proposed new specimen from the Oct 24 2026 photo walk; not in the inventory. Confirm, name and number it on the walk.",
+    "Alternatives named by the readers: 04; 28; 35",
+    "Photo GPS check: the GPS of 43 photos from the Nov 2 2025 walk (IMG_2424, IMG_2425, IMG_2426, IMG_9262, IMG_2442, IMG_2443, IMG_2444, IMG_9263, IMG_9264, IMG_9265, IMG_9266, IMG_9267, IMG_2427, IMG_2428, IMG_2429, IMG_2430, IMG_2431, IMG_2432, IMG_2433, IMG_2434, IMG_2435, IMG_2436, IMG_2437, IMG_2438, IMG_2439, IMG_2448, IMG_2449, IMG_2450, IMG_2451, IMG_2452, IMG_2457 2, IMG_2457, IMG_2458, IMG_2459, IMG_2460, IMG_2461, IMG_2462, IMG_2463, IMG_2464, IMG_9268, IMG_9269, IMG_9191, IMG_9192); phone GPS, about 10 m lands 5 m from this pin"
+   ],
+   "source": "Proposed Nov 18 2026 from the Oct 24 2026 photo walk",
+   "story": "",
+   "id_tip": "",
+   "season": "",
+   "origin": "",
+   "rename_from": "",
+   "suggested_icon": "",
+   "suggestion_strength": "",
+   "taxon_key": "Tilia sp.",
+   "maintenance": "heavy burls over the lower trunk, a hollow at the root flare (IMG_2461), and dead branches in the upper crown (IMG_2462); arborist should assess decay and the dead top; heavy black leaf spotting on most leaves (fungal leaf spot, cosmetic this late in the season); bark shows wavy horizontal ripples and lichen; Burls at the base and up the trunk; leaf spot (dark blotches) on the leaves. Species with; Oct 24 2026 read: see U011; fair; poor to fair; cannot tell; Burl on the lower trunk (IMG_2426) and bare twigs in the upper crown (IMG_2425, IMG_9262); basal suckers. An arborist should look at the ",
+   "photo_gps": {
+    "lat": 42.2423658,
+    "lon": -70.8870531,
+    "distance_m": 5
+   }
+  },
+  {
+   "id": "p47",
+   "number": "47",
+   "kind": "photo_proposed",
+   "section": "",
+   "section_note": "placed from the Oct 24 2026 photo GPS",
+   "scientific_name": "Picea abies",
+   "common_name": "Norway spruce, upright",
+   "family": "Pinaceae",
+   "origin_tag": "Not specified",
+   "growth_type": "",
+   "individuals": 1,
+   "memorial": "Tape on cone: about 4.75 in. Tape around trunk at chest height: about 80 in circumference (DBH about 25 in). Tape on twig: needles about 0.5 to 0.8 in. Headstones in frame: KIMBALL, WALLACE, McCARTER.",
+   "location_status": "photo_gps",
+   "lat": 42.2420864,
+   "lon": -70.8868489,
+   "location_accuracy_m": 10,
+   "location_method": "Placed from the GPS of 29 photos taken Oct 24 2026 (units U031)",
+   "taxon_confidence": "B",
+   "taxon_confidence_reason": "cone 4.75 in long with wavy, toothed scale tips; pendulous branchlets; short four sided needles on orange brown twigs. No upright Norway spruce on the roster. Nearest pins 32 and 31 redbuds (22 to 24 m) and 05 red oak (29 m) do not agree. Roster 06 is a weeping Norway spruce 70 m south and is not this tree. Propose as new.",
+   "as_written": "",
+   "notes_as_written": "",
+   "tags": [
+    "Proposed from photo",
+    "Needs field check"
+   ],
+   "flags": [
+    "Proposed new specimen from the Oct 24 2026 photo walk; not in the inventory. Confirm, name and number it on the walk.",
+    "Photo GPS check: the GPS of 29 photos from the Nov 2 2025 walk (IMG_9292, IMG_9293, IMG_2472, IMG_9294, IMG_2473, IMG_9295, IMG_2474, IMG_2475, IMG_9296, IMG_2476, IMG_9297, IMG_2477, IMG_9298, IMG_2478, IMG_2479, IMG_9299, IMG_2480, IMG_2481, IMG_9300, IMG_9301, IMG_9302, IMG_9303, IMG_9304, IMG_9305, IMG_9306, IMG_9307, IMG_9308, IMG_9309, IMG_9310); phone GPS, about 10 m lands 0 m from this pin"
+   ],
+   "source": "Proposed Nov 18 2026 from the Oct 24 2026 photo walk",
+   "story": "",
+   "id_tip": "",
+   "season": "",
+   "origin": "",
+   "rename_from": "",
+   "suggested_icon": "",
+   "suggestion_strength": "",
+   "taxon_key": "Picea abies",
+   "maintenance": "Tall straight stem, full crown, heavy cone crop, lichen on the lower trunk. The trunk base frames (IMG_9297, 2477 to 2479) show orange grey plates; if those are a neighboring pine rather than this spruce the measurement still belongs to the spruce (IMG_9303).; Oct 24 2026 read: good; Tall straight stem, full crown, heavy cone crop, lichen on the lower trunk. The trunk base frames (IMG_9297, 2477 to 2479) show orange grey plates; if those are a neighboring pine rather than this spruce the measurement still belongs to the spruce (IMG_9303).",
+   "photo_gps": {
+    "lat": 42.2420864,
+    "lon": -70.8868489,
+    "distance_m": 0
+   }
+  },
+  {
+   "id": "p48",
+   "number": "48",
+   "kind": "photo_proposed",
+   "section": "",
+   "section_note": "placed from the Oct 24 2026 photo GPS",
+   "scientific_name": "Tsuga canadensis",
+   "common_name": "Eastern hemlock",
+   "family": "Pinaceae",
+   "origin_tag": "Not specified",
+   "growth_type": "",
+   "individuals": 1,
+   "memorial": "Tape: trunk circumference about 91 in (7 ft 7 in).",
+   "location_status": "photo_gps",
+   "lat": 42.2420483,
+   "lon": -70.8868032,
+   "location_accuracy_m": 10,
+   "location_method": "Placed from the GPS of 13 photos taken Oct 24 2026 (units U034, U035)",
+   "taxon_confidence": "B",
+   "taxon_confidence_reason": "short flat two ranked needles with pale undersides on fine drooping twigs, tiny cones under 1 in; feathery drooping crown. No hemlock on the roster. Nearest pins 05 red oak and 32 and 31 redbuds (25 to 27 m) do not agree. Propose as new.",
+   "as_written": "",
+   "notes_as_written": "",
+   "tags": [
+    "Proposed from photo",
+    "Needs field check"
+   ],
+   "flags": [
+    "Proposed new specimen from the Oct 24 2026 photo walk; not in the inventory. Confirm, name and number it on the walk.",
+    "Photo GPS check: the GPS of 13 photos from the Nov 2 2025 walk (IMG_9317, IMG_9318, IMG_9319, IMG_9320, IMG_9321, IMG_9322, IMG_9312, IMG_9313, IMG_9314, IMG_9315, IMG_9316, IMG_2485, IMG_2486); phone GPS, about 10 m lands 0 m from this pin"
+   ],
+   "source": "Proposed Nov 18 2026 from the Oct 24 2026 photo walk",
+   "story": "",
+   "id_tip": "",
+   "season": "",
+   "origin": "",
+   "rename_from": "",
+   "suggested_icon": "",
+   "suggestion_strength": "",
+   "taxon_key": "Tsuga canadensis",
+   "maintenance": "Full crown with some dead inner twigs (normal shading). Check the undersides of twigs for hemlock woolly adelgid (white wool) each spring.; Large old hemlock; check for hemlock woolly adelgid (white wool on the needle undersides) and elongate hemlock scale. Bark heavily lichened.; Oct 24 2026 read: fair; good; Large old hemlock; check for hemlock woolly adelgid (white wool on the needle undersides) and elongate hemlock scale. Bark heavily lichened.; Full crown with some dead inner twigs (normal shading). Check the undersides of twigs for hemlock woolly adelgid (white wool) each spring.",
+   "photo_gps": {
+    "lat": 42.24205,
+    "lon": -70.8868028,
+    "distance_m": 0
+   }
+  },
+  {
+   "id": "p49",
+   "number": "49",
+   "kind": "photo_proposed",
+   "section": "",
+   "section_note": "placed from the Oct 24 2026 photo GPS",
+   "scientific_name": "Larix decidua",
+   "common_name": "European larch (second tree)",
+   "family": "Pinaceae",
+   "origin_tag": "Not specified",
+   "growth_type": "",
+   "individuals": 1,
+   "memorial": "Tape: trunk circumference about 78 in (6 ft 6 in). Tomb inscription in IMG_9389 reads 'BENJAMIN LINCOLN' with dates not legible at this size.",
+   "location_status": "photo_gps",
+   "lat": 42.2416366,
+   "lon": -70.8867227,
+   "location_accuracy_m": 10,
+   "location_method": "Placed from the GPS of 11 photos taken Oct 24 2026 (units U048)",
+   "taxon_confidence": "B",
+   "taxon_confidence_reason": "needle tufts on spur shoots with rows of small ovoid cones about 1 in, deciduous conifer crown yellowing in late October. Nearest roster trees are 06 weeping Norway spruce (21 m), 05 red oak (24 m) and 39 Swiss stone pine (44 m); none is a larch. This larch stands right beside the Benjamin Lincoln tomb with a second larch's boughs in frame, which fits the pair of plaqued Derby Academy larches recorded in U046 38 m away (GPS scatter is plausible). Its bark (reddish plates, moderate lichen) looks like the Class 1999 tree in IMG_2525 rather than the heavily lichened 1998 tree. It may be the same tree as the U046 1999 entry or a third larch; cannot tell from the photos, so it is keyed as new for reconciliation on site.",
+   "as_written": "",
+   "notes_as_written": "",
+   "tags": [
+    "Proposed from photo",
+    "Needs field check"
+   ],
+   "flags": [
+    "Proposed new specimen from the Oct 24 2026 photo walk; not in the inventory. Confirm, name and number it on the walk.",
+    "Alternatives named by the readers: 04; new-U046-larch-1998",
+    "Photo GPS check: the GPS of 11 photos from the Nov 2 2025 walk (IMG_9389, IMG_9390, IMG_9391, IMG_9392, IMG_9393, IMG_9394, IMG_9395, IMG_9396, IMG_9397, IMG_9398, IMG_9399); phone GPS, about 10 m lands 0 m from this pin"
+   ],
+   "source": "Proposed Nov 18 2026 from the Oct 24 2026 photo walk",
+   "story": "",
+   "id_tip": "",
+   "season": "",
+   "origin": "",
+   "rename_from": "",
+   "suggested_icon": "",
+   "suggestion_strength": "",
+   "taxon_key": "Larix decidua",
+   "maintenance": "Clean flare, full crown. A fallen cone-bearing branch on the ground (IMG_9396).; Oct 24 2026 read: good; Clean flare, full crown. A fallen cone-bearing branch on the ground (IMG_9396).",
+   "photo_gps": {
+    "lat": 42.2416366,
+    "lon": -70.8867227,
+    "distance_m": 0
+   }
+  },
+  {
+   "id": "p50",
+   "number": "50",
+   "kind": "photo_proposed",
+   "section": "",
+   "section_note": "placed from the Oct 24 2026 photo GPS",
+   "scientific_name": "Quercus palustris or Quercus coccinea",
+   "common_name": "Oak, deeply cut leaves (pin or scarlet)",
+   "family": "Fagaceae",
+   "origin_tag": "Not specified",
+   "growth_type": "",
+   "individuals": 1,
+   "memorial": "",
+   "location_status": "photo_gps",
+   "lat": 42.2420417,
+   "lon": -70.8867767,
+   "location_accuracy_m": 10,
+   "location_method": "Placed from the GPS of 5 photos taken Oct 24 2026 (units U035)",
+   "taxon_confidence": "C",
+   "taxon_confidence_reason": "leaves cut almost to the midrib with wide rounded sinuses and bristle tips, which rules out the shallow-lobed northern red oak; acorns needed to separate pin oak from scarlet oak. Roster 05 Northern red oak (photo_gps) is 23 m from the unit center and is the only oak nearby, but its species disagrees with these deeply cut leaves. Either 05 is misidentified or this is a second oak. Listed as new with 05 as the alternative; a visit to 05's pin with these leaves in hand would settle it.",
+   "as_written": "",
+   "notes_as_written": "",
+   "tags": [
+    "Proposed from photo",
+    "Needs field check"
+   ],
+   "flags": [
+    "Proposed new specimen from the Oct 24 2026 photo walk; not in the inventory. Confirm, name and number it on the walk.",
+    "Alternatives named by the readers: 05",
+    "Photo GPS check: the GPS of 5 photos from the Nov 2 2025 walk (IMG_2487, IMG_2488, IMG_2489, IMG_2490, IMG_2491); phone GPS, about 10 m lands 0 m from this pin"
+   ],
+   "source": "Proposed Nov 18 2026 from the Oct 24 2026 photo walk",
+   "story": "",
+   "id_tip": "",
+   "season": "",
+   "origin": "",
+   "rename_from": "",
+   "suggested_icon": "",
+   "suggestion_strength": "",
+   "taxon_key": "Quercus palustris or Quercus coccinea",
+   "maintenance": "Clean flare, no cavities seen. Younger tree than the hemlock.; Oct 24 2026 read: good; Clean flare, no cavities seen. Younger tree than the hemlock.",
+   "photo_gps": {
+    "lat": 42.2420417,
+    "lon": -70.8867767,
+    "distance_m": 0
+   }
   }
  ],
- "records": 43
+ "records": 50
 }

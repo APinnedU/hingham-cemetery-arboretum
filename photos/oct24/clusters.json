@@ -1,0 +1,1799 @@
+[
+ {
+  "id": "C001",
+  "n": 2,
+  "lat": 42.241556,
+  "lon": -70.885628,
+  "start": "15:13:28",
+  "end": "15:13:31",
+  "files": [
+   "IMG_2390.HEIC",
+   "IMG_2391.HEIC"
+  ],
+  "near": [
+   {
+    "number": "07",
+    "name": "Sugar maple",
+    "m": 16,
+    "status": "suggested"
+   },
+   {
+    "number": "28",
+    "name": "Linden (not yet identified)",
+    "m": 49,
+    "status": "suggested"
+   },
+   {
+    "number": "11",
+    "name": "Turkey oak",
+    "m": 51,
+    "status": "suggested"
+   }
+  ]
+ },
+ {
+  "id": "C002",
+  "n": 53,
+  "lat": 42.242471,
+  "lon": -70.887307,
+  "start": "15:38:23",
+  "end": "15:44:09",
+  "files": [
+   "IMG_0013.HEIC",
+   "IMG_9141 2.HEIC",
+   "IMG_9141.HEIC",
+   "IMG_0014.HEIC",
+   "IMG_9142 2.HEIC",
+   "IMG_9142.HEIC",
+   "IMG_0016.HEIC",
+   "IMG_9143 2.HEIC",
+   "IMG_9143.HEIC",
+   "IMG_9144 2.HEIC",
+   "IMG_9144.HEIC",
+   "IMG_0017.HEIC",
+   "IMG_9145 2.HEIC",
+   "IMG_9145.HEIC",
+   "IMG_0300 2.HEIC",
+   "IMG_9146 2.HEIC",
+   "IMG_9146.HEIC",
+   "IMG_0299.HEIC",
+   "IMG_9147 2.HEIC",
+   "IMG_9147.HEIC",
+   "IMG_9148 2.HEIC",
+   "IMG_9148.HEIC",
+   "IMG_0297.HEIC",
+   "IMG_9149 2.HEIC",
+   "IMG_9149.HEIC",
+   "IMG_0296.HEIC",
+   "IMG_9150 2.HEIC",
+   "IMG_9150.HEIC",
+   "IMG_0295.HEIC",
+   "IMG_9151 2.HEIC",
+   "IMG_9151.HEIC",
+   "IMG_9152 2.HEIC",
+   "IMG_9152.HEIC",
+   "IMG_0293.HEIC",
+   "IMG_9153 2.HEIC",
+   "IMG_9153.HEIC",
+   "IMG_9154 2.HEIC",
+   "IMG_9154.HEIC",
+   "IMG_0291.HEIC",
+   "IMG_9155 2.HEIC",
+   "IMG_9155.HEIC",
+   "IMG_0290.HEIC",
+   "IMG_9156 2.HEIC",
+   "IMG_9156.HEIC",
+   "IMG_9157 2.HEIC",
+   "IMG_9157.HEIC",
+   "IMG_9158 2.HEIC",
+   "IMG_9158.HEIC",
+   "IMG_0324.HEIC",
+   "IMG_9159 2.HEIC",
+   "IMG_9159.HEIC",
+   "IMG_9160 2.HEIC",
+   "IMG_9160.HEIC"
+  ],
+  "near": [
+   {
+    "number": "01",
+    "name": "Bloodgood Japanese maple",
+    "m": 10,
+    "status": "suggested"
+   },
+   {
+    "number": "02",
+    "name": "Turkey oak",
+    "m": 14,
+    "status": "suggested"
+   },
+   {
+    "number": "27",
+    "name": "Japanese maple",
+    "m": 17,
+    "status": "photo_gps"
+   }
+  ]
+ },
+ {
+  "id": "C003",
+  "n": 36,
+  "lat": 42.242341,
+  "lon": -70.887551,
+  "start": "15:44:45",
+  "end": "15:47:44",
+  "files": [
+   "IMG_9161 2.HEIC",
+   "IMG_9161.HEIC",
+   "IMG_0284.HEIC",
+   "IMG_9162 2.HEIC",
+   "IMG_9162.HEIC",
+   "IMG_0283.HEIC",
+   "IMG_9163 2.HEIC",
+   "IMG_9163.HEIC",
+   "IMG_0329.HEIC",
+   "IMG_9164 2.HEIC",
+   "IMG_9164.HEIC",
+   "IMG_0281.HEIC",
+   "IMG_9165 2.HEIC",
+   "IMG_9165.HEIC",
+   "IMG_0280.HEIC",
+   "IMG_9166 2.HEIC",
+   "IMG_9166.HEIC",
+   "IMG_9167 2.HEIC",
+   "IMG_9167.HEIC",
+   "IMG_0333.HEIC",
+   "IMG_9168 2.HEIC",
+   "IMG_9168.HEIC",
+   "IMG_0277.HEIC",
+   "IMG_9169 2.HEIC",
+   "IMG_9169.HEIC",
+   "IMG_0276.HEIC",
+   "IMG_9170 2.HEIC",
+   "IMG_9170.HEIC",
+   "IMG_9171 2.HEIC",
+   "IMG_9171.HEIC",
+   "IMG_0274.HEIC",
+   "IMG_9172 2.HEIC",
+   "IMG_9172.HEIC",
+   "IMG_0273.HEIC",
+   "IMG_9173 2.HEIC",
+   "IMG_9173.HEIC"
+  ],
+  "near": [
+   {
+    "number": "02",
+    "name": "Turkey oak",
+    "m": 24,
+    "status": "suggested"
+   },
+   {
+    "number": "01",
+    "name": "Bloodgood Japanese maple",
+    "m": 29,
+    "status": "suggested"
+   },
+   {
+    "number": "27",
+    "name": "Japanese maple",
+    "m": 41,
+    "status": "photo_gps"
+   }
+  ]
+ },
+ {
+  "id": "C004",
+  "n": 131,
+  "lat": 42.242383,
+  "lon": -70.887271,
+  "start": "15:49:20",
+  "end": "16:02:26",
+  "files": [
+   "IMG_0272.HEIC",
+   "IMG_9174 2.HEIC",
+   "IMG_9174.HEIC",
+   "IMG_0271.HEIC",
+   "IMG_9175 2.HEIC",
+   "IMG_9175.HEIC",
+   "IMG_0270.HEIC",
+   "IMG_9176 2.HEIC",
+   "IMG_9176.HEIC",
+   "IMG_0269.HEIC",
+   "IMG_9177 2.HEIC",
+   "IMG_9177.HEIC",
+   "IMG_0268.HEIC",
+   "IMG_9178 2.HEIC",
+   "IMG_9178.HEIC",
+   "IMG_0267.HEIC",
+   "IMG_9179 2.HEIC",
+   "IMG_9179.HEIC",
+   "IMG_9180 2.HEIC",
+   "IMG_9180.HEIC",
+   "IMG_9181 2.HEIC",
+   "IMG_9181.HEIC",
+   "IMG_9182 2.HEIC",
+   "IMG_9182.HEIC",
+   "IMG_9183 2.HEIC",
+   "IMG_9183.HEIC",
+   "IMG_9184 2.HEIC",
+   "IMG_9184.HEIC",
+   "IMG_9185 2.HEIC",
+   "IMG_9185.HEIC",
+   "IMG_9186 2.HEIC",
+   "IMG_9186.HEIC",
+   "IMG_9187 2.HEIC",
+   "IMG_9187.HEIC",
+   "IMG_9188 2.HEIC",
+   "IMG_9188.HEIC",
+   "IMG_9189 2.HEIC",
+   "IMG_9189.HEIC",
+   "IMG_9190 2.HEIC",
+   "IMG_9190.HEIC",
+   "IMG_0356.HEIC",
+   "IMG_9191 2.HEIC",
+   "IMG_9191.HEIC",
+   "IMG_0254.HEIC",
+   "IMG_9192 2.HEIC",
+   "IMG_9192.HEIC",
+   "IMG_9193 2.HEIC",
+   "IMG_9193.HEIC",
+   "IMG_9194 2.HEIC",
+   "IMG_9194.HEIC",
+   "IMG_2392.HEIC",
+   "IMG_2393.HEIC",
+   "IMG_2394.HEIC",
+   "IMG_9195 2.HEIC",
+   "IMG_9195.HEIC",
+   "IMG_2395.HEIC",
+   "IMG_2396.HEIC",
+   "IMG_9196 2.HEIC",
+   "IMG_9196.HEIC",
+   "IMG_9197 2.HEIC",
+   "IMG_9197.HEIC",
+   "IMG_2397.HEIC",
+   "IMG_9198 2.HEIC",
+   "IMG_9198.HEIC",
+   "IMG_9199 2.HEIC",
+   "IMG_9199.HEIC",
+   "IMG_2398.HEIC",
+   "IMG_2399.HEIC",
+   "IMG_9200 2.HEIC",
+   "IMG_9200.HEIC",
+   "IMG_9201 2.HEIC",
+   "IMG_9201.HEIC",
+   "IMG_9202 2.HEIC",
+   "IMG_9202.HEIC",
+   "IMG_9203 2.HEIC",
+   "IMG_9203.HEIC",
+   "IMG_9204 2.HEIC",
+   "IMG_9204.HEIC",
+   "IMG_2400.HEIC",
+   "IMG_9205 2.HEIC",
+   "IMG_9205.HEIC",
+   "IMG_2401.HEIC",
+   "IMG_2402.HEIC",
+   "IMG_2403.HEIC",
+   "IMG_2404.HEIC",
+   "IMG_2405.HEIC",
+   "IMG_2406.HEIC",
+   "IMG_2407.HEIC",
+   "IMG_2408.HEIC",
+   "IMG_9207 2.HEIC",
+   "IMG_9207.HEIC",
+   "IMG_2409.HEIC",
+   "IMG_9208 2.HEIC",
+   "IMG_9208.HEIC",
+   "IMG_2410.HEIC",
+   "IMG_2411.HEIC",
+   "IMG_9210 2.HEIC",
+   "IMG_9210.HEIC",
+   "IMG_2412.HEIC",
+   "IMG_2413.HEIC",
+   "IMG_2414.HEIC",
+   "IMG_9211 2.HEIC",
+   "IMG_9211.HEIC",
+   "IMG_9212 2.HEIC",
+   "IMG_9212.HEIC",
+   "IMG_2415.HEIC",
+   "IMG_2416.HEIC",
+   "IMG_2417.HEIC",
+   "IMG_2418.HEIC",
+   "IMG_2419.HEIC",
+   "IMG_2420.HEIC",
+   "IMG_9214 2.HEIC",
+   "IMG_9214.HEIC",
+   "IMG_2421.HEIC",
+   "IMG_9215 2.HEIC",
+   "IMG_9215.HEIC",
+   "IMG_2422.HEIC",
+   "IMG_9216 2.HEIC",
+   "IMG_9216.HEIC",
+   "IMG_2423.HEIC",
+   "IMG_9217 2.HEIC",
+   "IMG_9217.HEIC",
+   "IMG_9218 2.HEIC",
+   "IMG_9218.HEIC",
+   "IMG_9219 2.HEIC",
+   "IMG_9219.HEIC",
+   "IMG_9220 2.HEIC",
+   "IMG_9220.HEIC",
+   "IMG_2424.HEIC",
+   "IMG_9221 2.HEIC",
+   "IMG_9221.HEIC"
+  ],
+  "near": [
+   {
+    "number": "40",
+    "name": "Eastern white pine",
+    "m": 20,
+    "status": "photo_gps"
+   },
+   {
+    "number": "01",
+    "name": "Bloodgood Japanese maple",
+    "m": 20,
+    "status": "suggested"
+   },
+   {
+    "number": "27",
+    "name": "Japanese maple",
+    "m": 20,
+    "status": "photo_gps"
+   }
+  ]
+ },
+ {
+  "id": "C005",
+  "n": 2,
+  "lat": 42.24226,
+  "lon": -70.887321,
+  "start": "16:02:31",
+  "end": "16:02:39",
+  "files": [
+   "IMG_2425.HEIC",
+   "IMG_2426.HEIC"
+  ],
+  "near": [
+   {
+    "number": "40",
+    "name": "Eastern white pine",
+    "m": 30,
+    "status": "photo_gps"
+   },
+   {
+    "number": "01",
+    "name": "Bloodgood Japanese maple",
+    "m": 33,
+    "status": "suggested"
+   },
+   {
+    "number": "02",
+    "name": "Turkey oak",
+    "m": 33,
+    "status": "suggested"
+   }
+  ]
+ },
+ {
+  "id": "C006",
+  "n": 2,
+  "lat": 42.242344,
+  "lon": -70.887131,
+  "start": "16:02:39",
+  "end": "16:02:39",
+  "files": [
+   "IMG_9222 2.HEIC",
+   "IMG_9222.HEIC"
+  ],
+  "near": [
+   {
+    "number": "40",
+    "name": "Eastern white pine",
+    "m": 13,
+    "status": "photo_gps"
+   },
+   {
+    "number": "27",
+    "name": "Japanese maple",
+    "m": 21,
+    "status": "photo_gps"
+   },
+   {
+    "number": "04",
+    "name": "Larch (tamarack or European larch)",
+    "m": 23,
+    "status": "suggested"
+   }
+  ]
+ },
+ {
+  "id": "C007",
+  "n": 1,
+  "lat": 42.242261,
+  "lon": -70.887261,
+  "start": "16:02:51",
+  "end": "16:02:51",
+  "files": [
+   "IMG_2427.HEIC"
+  ],
+  "near": [
+   {
+    "number": "40",
+    "name": "Eastern white pine",
+    "m": 26,
+    "status": "photo_gps"
+   },
+   {
+    "number": "27",
+    "name": "Japanese maple",
+    "m": 32,
+    "status": "photo_gps"
+   },
+   {
+    "number": "01",
+    "name": "Bloodgood Japanese maple",
+    "m": 33,
+    "status": "suggested"
+   }
+  ]
+ },
+ {
+  "id": "C008",
+  "n": 2,
+  "lat": 42.242344,
+  "lon": -70.887131,
+  "start": "16:02:51",
+  "end": "16:02:51",
+  "files": [
+   "IMG_9223 2.HEIC",
+   "IMG_9223.HEIC"
+  ],
+  "near": [
+   {
+    "number": "40",
+    "name": "Eastern white pine",
+    "m": 13,
+    "status": "photo_gps"
+   },
+   {
+    "number": "27",
+    "name": "Japanese maple",
+    "m": 21,
+    "status": "photo_gps"
+   },
+   {
+    "number": "04",
+    "name": "Larch (tamarack or European larch)",
+    "m": 23,
+    "status": "suggested"
+   }
+  ]
+ },
+ {
+  "id": "C009",
+  "n": 30,
+  "lat": 42.242323,
+  "lon": -70.887172,
+  "start": "16:02:53",
+  "end": "16:05:12",
+  "files": [
+   "IMG_2428.HEIC",
+   "IMG_2429.HEIC",
+   "IMG_2430.HEIC",
+   "IMG_2431.HEIC",
+   "IMG_9224 2.HEIC",
+   "IMG_9224.HEIC",
+   "IMG_2432.HEIC",
+   "IMG_2433.HEIC",
+   "IMG_2434.HEIC",
+   "IMG_2435.HEIC",
+   "IMG_9225 2.HEIC",
+   "IMG_9225.HEIC",
+   "IMG_9226 2.HEIC",
+   "IMG_9226.HEIC",
+   "IMG_9227 2.HEIC",
+   "IMG_9227.HEIC",
+   "IMG_2436.HEIC",
+   "IMG_2437.HEIC",
+   "IMG_9228 2.HEIC",
+   "IMG_9228.HEIC",
+   "IMG_9229 2.HEIC",
+   "IMG_9229.HEIC",
+   "IMG_2438.HEIC",
+   "IMG_2439.HEIC",
+   "IMG_9230 2.HEIC",
+   "IMG_9230.HEIC",
+   "IMG_2440.HEIC",
+   "IMG_2441.HEIC",
+   "IMG_9231 2.HEIC",
+   "IMG_9231.HEIC"
+  ],
+  "near": [
+   {
+    "number": "40",
+    "name": "Eastern white pine",
+    "m": 17,
+    "status": "photo_gps"
+   },
+   {
+    "number": "27",
+    "name": "Japanese maple",
+    "m": 23,
+    "status": "photo_gps"
+   },
+   {
+    "number": "04",
+    "name": "Larch (tamarack or European larch)",
+    "m": 26,
+    "status": "suggested"
+   }
+  ]
+ },
+ {
+  "id": "C010",
+  "n": 26,
+  "lat": 42.242549,
+  "lon": -70.887127,
+  "start": "16:05:45",
+  "end": "16:08:40",
+  "files": [
+   "IMG_9232 2.HEIC",
+   "IMG_9232.HEIC",
+   "IMG_9233 2.HEIC",
+   "IMG_9233.HEIC",
+   "IMG_9234 2.HEIC",
+   "IMG_9234.HEIC",
+   "IMG_9235 2.HEIC",
+   "IMG_9235.HEIC",
+   "IMG_9236 2.HEIC",
+   "IMG_9236.HEIC",
+   "IMG_9237 2.HEIC",
+   "IMG_9237.HEIC",
+   "IMG_9238 2.HEIC",
+   "IMG_9238.HEIC",
+   "IMG_9239 2.HEIC",
+   "IMG_9239.HEIC",
+   "IMG_9240 2.HEIC",
+   "IMG_9240.HEIC",
+   "IMG_9241 2.HEIC",
+   "IMG_9241.HEIC",
+   "IMG_9242 2.HEIC",
+   "IMG_9242.HEIC",
+   "IMG_9243 2.HEIC",
+   "IMG_9243.HEIC",
+   "IMG_9244 2.HEIC",
+   "IMG_9244.HEIC"
+  ],
+  "near": [
+   {
+    "number": "27",
+    "name": "Japanese maple",
+    "m": 2,
+    "status": "photo_gps"
+   },
+   {
+    "number": "40",
+    "name": "Eastern white pine",
+    "m": 14,
+    "status": "photo_gps"
+   },
+   {
+    "number": "01",
+    "name": "Bloodgood Japanese maple",
+    "m": 19,
+    "status": "suggested"
+   }
+  ]
+ },
+ {
+  "id": "C011",
+  "n": 57,
+  "lat": 42.242362,
+  "lon": -70.886895,
+  "start": "16:08:52",
+  "end": "16:14:14",
+  "files": [
+   "IMG_9245 2.HEIC",
+   "IMG_9245.HEIC",
+   "IMG_9246 2.HEIC",
+   "IMG_9246.HEIC",
+   "IMG_9247 2.HEIC",
+   "IMG_9247.HEIC",
+   "IMG_9248 2.HEIC",
+   "IMG_9248.HEIC",
+   "IMG_9249 2.HEIC",
+   "IMG_9249.HEIC",
+   "IMG_9250 2.HEIC",
+   "IMG_9250.HEIC",
+   "IMG_9251 2.HEIC",
+   "IMG_9251.HEIC",
+   "IMG_2442.JPG",
+   "IMG_9252 2.HEIC",
+   "IMG_9252.HEIC",
+   "IMG_2443.HEIC",
+   "IMG_2444.HEIC",
+   "IMG_2446.HEIC",
+   "IMG_9254 2.HEIC",
+   "IMG_9254.HEIC",
+   "IMG_9255 2.HEIC",
+   "IMG_9255.HEIC",
+   "IMG_2447.HEIC",
+   "IMG_9256 2.HEIC",
+   "IMG_9256.HEIC",
+   "IMG_2448.HEIC",
+   "IMG_9257 2.HEIC",
+   "IMG_9257.HEIC",
+   "IMG_2449.HEIC",
+   "IMG_2450.HEIC",
+   "IMG_2451.HEIC",
+   "IMG_9258 2.HEIC",
+   "IMG_9258.HEIC",
+   "IMG_9259 2.HEIC",
+   "IMG_9259.HEIC",
+   "IMG_2452.HEIC",
+   "IMG_9260 2.HEIC",
+   "IMG_9260.HEIC",
+   "IMG_2453 2.HEIC",
+   "IMG_2453.HEIC",
+   "IMG_2454.HEIC",
+   "IMG_9261 2.HEIC",
+   "IMG_9261.HEIC",
+   "IMG_2455.HEIC",
+   "IMG_2456.HEIC",
+   "IMG_2457 2.HEIC",
+   "IMG_2457 3.HEIC",
+   "IMG_2457.HEIC",
+   "IMG_2458.HEIC",
+   "IMG_2459.HEIC",
+   "IMG_2460.HEIC",
+   "IMG_2461.HEIC",
+   "IMG_2462.HEIC",
+   "IMG_2463.HEIC",
+   "IMG_2464.HEIC"
+  ],
+  "near": [
+   {
+    "number": "04",
+    "name": "Larch (tamarack or European larch)",
+    "m": 3,
+    "status": "suggested"
+   },
+   {
+    "number": "31",
+    "name": "Eastern redbud",
+    "m": 9,
+    "status": "photo_gps"
+   },
+   {
+    "number": "32",
+    "name": "Appalachian Red redbud",
+    "m": 11,
+    "status": "photo_gps"
+   }
+  ]
+ },
+ {
+  "id": "C012",
+  "n": 2,
+  "lat": 42.242472,
+  "lon": -70.887139,
+  "start": "16:15:02",
+  "end": "16:15:02",
+  "files": [
+   "IMG_9262 2.HEIC",
+   "IMG_9262.HEIC"
+  ],
+  "near": [
+   {
+    "number": "27",
+    "name": "Japanese maple",
+    "m": 7,
+    "status": "photo_gps"
+   },
+   {
+    "number": "40",
+    "name": "Eastern white pine",
+    "m": 8,
+    "status": "photo_gps"
+   },
+   {
+    "number": "01",
+    "name": "Bloodgood Japanese maple",
+    "m": 20,
+    "status": "suggested"
+   }
+  ]
+ },
+ {
+  "id": "C013",
+  "n": 28,
+  "lat": 42.242407,
+  "lon": -70.886914,
+  "start": "16:15:48",
+  "end": "16:19:35",
+  "files": [
+   "IMG_9263 2.HEIC",
+   "IMG_9263.HEIC",
+   "IMG_9264 2.HEIC",
+   "IMG_9264.HEIC",
+   "IMG_9265 2.HEIC",
+   "IMG_9265.HEIC",
+   "IMG_9266 2.HEIC",
+   "IMG_9266.HEIC",
+   "IMG_9267 2.HEIC",
+   "IMG_9267.HEIC",
+   "IMG_9268 2.HEIC",
+   "IMG_9268.HEIC",
+   "IMG_9269 2.HEIC",
+   "IMG_9269.HEIC",
+   "IMG_9270 2.HEIC",
+   "IMG_9270.HEIC",
+   "IMG_9271 2.HEIC",
+   "IMG_9271.HEIC",
+   "IMG_9272 2.HEIC",
+   "IMG_9272.HEIC",
+   "IMG_9273 2.HEIC",
+   "IMG_9273.HEIC",
+   "IMG_9274 2.HEIC",
+   "IMG_9274.HEIC",
+   "IMG_9275 2.HEIC",
+   "IMG_9275.HEIC",
+   "IMG_9276 2.HEIC",
+   "IMG_9276.HEIC"
+  ],
+  "near": [
+   {
+    "number": "04",
+    "name": "Larch (tamarack or European larch)",
+    "m": 7,
+    "status": "suggested"
+   },
+   {
+    "number": "40",
+    "name": "Eastern white pine",
+    "m": 11,
+    "status": "photo_gps"
+   },
+   {
+    "number": "31",
+    "name": "Eastern redbud",
+    "m": 14,
+    "status": "photo_gps"
+   }
+  ]
+ },
+ {
+  "id": "C014",
+  "n": 10,
+  "lat": 42.242266,
+  "lon": -70.887026,
+  "start": "16:20:02",
+  "end": "16:20:34",
+  "files": [
+   "IMG_9277 2.HEIC",
+   "IMG_9277.HEIC",
+   "IMG_9278 2.HEIC",
+   "IMG_9278.HEIC",
+   "IMG_9279 2.HEIC",
+   "IMG_9279.HEIC",
+   "IMG_9280 2.HEIC",
+   "IMG_9280.HEIC",
+   "IMG_9281 2.HEIC",
+   "IMG_9281.HEIC"
+  ],
+  "near": [
+   {
+    "number": "31",
+    "name": "Eastern redbud",
+    "m": 15,
+    "status": "photo_gps"
+   },
+   {
+    "number": "32",
+    "name": "Appalachian Red redbud",
+    "m": 16,
+    "status": "photo_gps"
+   },
+   {
+    "number": "04",
+    "name": "Larch (tamarack or European larch)",
+    "m": 18,
+    "status": "suggested"
+   }
+  ]
+ },
+ {
+  "id": "C015",
+  "n": 1,
+  "lat": 42.243,
+  "lon": -70.886908,
+  "start": "16:20:44",
+  "end": "16:20:44",
+  "files": [
+   "IMG_2465.HEIC"
+  ],
+  "near": [
+   {
+    "number": "27",
+    "name": "Japanese maple",
+    "m": 55,
+    "status": "photo_gps"
+   },
+   {
+    "number": "26",
+    "name": "Japanese zelkova",
+    "m": 61,
+    "status": "photo_gps"
+   },
+   {
+    "number": "01",
+    "name": "Bloodgood Japanese maple",
+    "m": 62,
+    "status": "suggested"
+   }
+  ]
+ },
+ {
+  "id": "C016",
+  "n": 2,
+  "lat": 42.242278,
+  "lon": -70.887017,
+  "start": "16:20:44",
+  "end": "16:20:44",
+  "files": [
+   "IMG_9282 2.HEIC",
+   "IMG_9282.HEIC"
+  ],
+  "near": [
+   {
+    "number": "31",
+    "name": "Eastern redbud",
+    "m": 14,
+    "status": "photo_gps"
+   },
+   {
+    "number": "32",
+    "name": "Appalachian Red redbud",
+    "m": 15,
+    "status": "photo_gps"
+   },
+   {
+    "number": "04",
+    "name": "Larch (tamarack or European larch)",
+    "m": 16,
+    "status": "suggested"
+   }
+  ]
+ },
+ {
+  "id": "C017",
+  "n": 1,
+  "lat": 42.242633,
+  "lon": -70.886894,
+  "start": "16:20:50",
+  "end": "16:20:50",
+  "files": [
+   "IMG_2466.HEIC"
+  ],
+  "near": [
+   {
+    "number": "27",
+    "name": "Japanese maple",
+    "m": 22,
+    "status": "photo_gps"
+   },
+   {
+    "number": "40",
+    "name": "Eastern white pine",
+    "m": 25,
+    "status": "photo_gps"
+   },
+   {
+    "number": "04",
+    "name": "Larch (tamarack or European larch)",
+    "m": 30,
+    "status": "suggested"
+   }
+  ]
+ },
+ {
+  "id": "C018",
+  "n": 2,
+  "lat": 42.242272,
+  "lon": -70.887017,
+  "start": "16:20:51",
+  "end": "16:20:51",
+  "files": [
+   "IMG_9283 2.HEIC",
+   "IMG_9283.HEIC"
+  ],
+  "near": [
+   {
+    "number": "31",
+    "name": "Eastern redbud",
+    "m": 14,
+    "status": "photo_gps"
+   },
+   {
+    "number": "32",
+    "name": "Appalachian Red redbud",
+    "m": 15,
+    "status": "photo_gps"
+   },
+   {
+    "number": "04",
+    "name": "Larch (tamarack or European larch)",
+    "m": 17,
+    "status": "suggested"
+   }
+  ]
+ },
+ {
+  "id": "C019",
+  "n": 1,
+  "lat": 42.242469,
+  "lon": -70.886917,
+  "start": "16:20:59",
+  "end": "16:20:59",
+  "files": [
+   "IMG_2467.HEIC"
+  ],
+  "near": [
+   {
+    "number": "40",
+    "name": "Eastern white pine",
+    "m": 11,
+    "status": "photo_gps"
+   },
+   {
+    "number": "04",
+    "name": "Larch (tamarack or European larch)",
+    "m": 13,
+    "status": "suggested"
+   },
+   {
+    "number": "35",
+    "name": "European beech",
+    "m": 18,
+    "status": "official_map"
+   }
+  ]
+ },
+ {
+  "id": "C020",
+  "n": 20,
+  "lat": 42.242282,
+  "lon": -70.887014,
+  "start": "16:21:12",
+  "end": "16:23:07",
+  "files": [
+   "IMG_2468.HEIC",
+   "IMG_9284 2.HEIC",
+   "IMG_9284.HEIC",
+   "IMG_2469.HEIC",
+   "IMG_9285 2.HEIC",
+   "IMG_9285.HEIC",
+   "IMG_9286 2.HEIC",
+   "IMG_9286.HEIC",
+   "IMG_9287 2.HEIC",
+   "IMG_9287.HEIC",
+   "IMG_2470.HEIC",
+   "IMG_2471.HEIC",
+   "IMG_9288 2.HEIC",
+   "IMG_9288.HEIC",
+   "IMG_9289 2.HEIC",
+   "IMG_9289.HEIC",
+   "IMG_9290 2.HEIC",
+   "IMG_9290.HEIC",
+   "IMG_9291 2.HEIC",
+   "IMG_9291.HEIC"
+  ],
+  "near": [
+   {
+    "number": "31",
+    "name": "Eastern redbud",
+    "m": 13,
+    "status": "photo_gps"
+   },
+   {
+    "number": "32",
+    "name": "Appalachian Red redbud",
+    "m": 15,
+    "status": "photo_gps"
+   },
+   {
+    "number": "04",
+    "name": "Larch (tamarack or European larch)",
+    "m": 16,
+    "status": "suggested"
+   }
+  ]
+ },
+ {
+  "id": "C021",
+  "n": 50,
+  "lat": 42.242076,
+  "lon": -70.886853,
+  "start": "16:24:26",
+  "end": "16:28:07",
+  "files": [
+   "IMG_9292 2.HEIC",
+   "IMG_9292.HEIC",
+   "IMG_9293 2.HEIC",
+   "IMG_9293.HEIC",
+   "IMG_2472.HEIC",
+   "IMG_9294 2.HEIC",
+   "IMG_9294.HEIC",
+   "IMG_2473.HEIC",
+   "IMG_9295 2.HEIC",
+   "IMG_9295.HEIC",
+   "IMG_2474.HEIC",
+   "IMG_2475.HEIC",
+   "IMG_9296 2.HEIC",
+   "IMG_9296.HEIC",
+   "IMG_2476.HEIC",
+   "IMG_9297 2.HEIC",
+   "IMG_9297.HEIC",
+   "IMG_2477.HEIC",
+   "IMG_9298 2.HEIC",
+   "IMG_9298.HEIC",
+   "IMG_2478.HEIC",
+   "IMG_2479.HEIC",
+   "IMG_9299 2.HEIC",
+   "IMG_9299.HEIC",
+   "IMG_2480.HEIC",
+   "IMG_2481.HEIC",
+   "IMG_9300 2.HEIC",
+   "IMG_9300.HEIC",
+   "IMG_9301 2.HEIC",
+   "IMG_9301.HEIC",
+   "IMG_9302 2.HEIC",
+   "IMG_9302.HEIC",
+   "IMG_9303 2.HEIC",
+   "IMG_9303.HEIC",
+   "IMG_9304 2.HEIC",
+   "IMG_9304.HEIC",
+   "IMG_9305 2.HEIC",
+   "IMG_9305.HEIC",
+   "IMG_9306 2.HEIC",
+   "IMG_9306.HEIC",
+   "IMG_9307 2.HEIC",
+   "IMG_9307.HEIC",
+   "IMG_9308 2.HEIC",
+   "IMG_9308.HEIC",
+   "IMG_9309 2.HEIC",
+   "IMG_9309.HEIC",
+   "IMG_9310 2.HEIC",
+   "IMG_9310.HEIC",
+   "IMG_9311 2.HEIC",
+   "IMG_9311.HEIC"
+  ],
+  "near": [
+   {
+    "number": "32",
+    "name": "Appalachian Red redbud",
+    "m": 22,
+    "status": "photo_gps"
+   },
+   {
+    "number": "31",
+    "name": "Eastern redbud",
+    "m": 24,
+    "status": "photo_gps"
+   },
+   {
+    "number": "05",
+    "name": "Northern red oak",
+    "m": 29,
+    "status": "photo_gps"
+   }
+  ]
+ },
+ {
+  "id": "C022",
+  "n": 1,
+  "lat": 42.242858,
+  "lon": -70.887183,
+  "start": "16:28:08",
+  "end": "16:28:08",
+  "files": [
+   "IMG_2482.HEIC"
+  ],
+  "near": [
+   {
+    "number": "01",
+    "name": "Bloodgood Japanese maple",
+    "m": 37,
+    "status": "suggested"
+   },
+   {
+    "number": "27",
+    "name": "Japanese maple",
+    "m": 37,
+    "status": "photo_gps"
+   },
+   {
+    "number": "02",
+    "name": "Turkey oak",
+    "m": 42,
+    "status": "suggested"
+   }
+  ]
+ },
+ {
+  "id": "C023",
+  "n": 2,
+  "lat": 42.242706,
+  "lon": -70.887046,
+  "start": "16:28:15",
+  "end": "16:28:18",
+  "files": [
+   "IMG_2483.HEIC",
+   "IMG_2484.HEIC"
+  ],
+  "near": [
+   {
+    "number": "27",
+    "name": "Japanese maple",
+    "m": 21,
+    "status": "photo_gps"
+   },
+   {
+    "number": "40",
+    "name": "Eastern white pine",
+    "m": 30,
+    "status": "photo_gps"
+   },
+   {
+    "number": "01",
+    "name": "Bloodgood Japanese maple",
+    "m": 31,
+    "status": "suggested"
+   }
+  ]
+ },
+ {
+  "id": "C024",
+  "n": 29,
+  "lat": 42.242049,
+  "lon": -70.886798,
+  "start": "16:28:35",
+  "end": "16:31:19",
+  "files": [
+   "IMG_9312 2.HEIC",
+   "IMG_9312.HEIC",
+   "IMG_9313 2.HEIC",
+   "IMG_9313.HEIC",
+   "IMG_9314 2.HEIC",
+   "IMG_9314.HEIC",
+   "IMG_9315 2.HEIC",
+   "IMG_9315.HEIC",
+   "IMG_9316 2.HEIC",
+   "IMG_9316.HEIC",
+   "IMG_2485.HEIC",
+   "IMG_2486.HEIC",
+   "IMG_9317 2.HEIC",
+   "IMG_9317.HEIC",
+   "IMG_9318 2.HEIC",
+   "IMG_9318.HEIC",
+   "IMG_2487.HEIC",
+   "IMG_9319 2.HEIC",
+   "IMG_9319.HEIC",
+   "IMG_2488.HEIC",
+   "IMG_9320 2.HEIC",
+   "IMG_9320.HEIC",
+   "IMG_2489.HEIC",
+   "IMG_2490.HEIC",
+   "IMG_2491.HEIC",
+   "IMG_9321 2.HEIC",
+   "IMG_9321.HEIC",
+   "IMG_9322 2.HEIC",
+   "IMG_9322.HEIC"
+  ],
+  "near": [
+   {
+    "number": "05",
+    "name": "Northern red oak",
+    "m": 25,
+    "status": "photo_gps"
+   },
+   {
+    "number": "32",
+    "name": "Appalachian Red redbud",
+    "m": 25,
+    "status": "photo_gps"
+   },
+   {
+    "number": "31",
+    "name": "Eastern redbud",
+    "m": 27,
+    "status": "photo_gps"
+   }
+  ]
+ },
+ {
+  "id": "C025",
+  "n": 4,
+  "lat": 42.241897,
+  "lon": -70.887672,
+  "start": "16:39:18",
+  "end": "16:39:18",
+  "files": [
+   "IMG_0485 2.HEIC",
+   "IMG_0485.HEIC",
+   "IMG_9323 2.HEIC",
+   "IMG_9323.HEIC"
+  ],
+  "near": [
+   {
+    "number": "29",
+    "name": "Norway maple",
+    "m": 15,
+    "status": "photo_gps"
+   },
+   {
+    "number": "02",
+    "name": "Turkey oak",
+    "m": 74,
+    "status": "suggested"
+   },
+   {
+    "number": "01",
+    "name": "Bloodgood Japanese maple",
+    "m": 78,
+    "status": "suggested"
+   }
+  ]
+ },
+ {
+  "id": "C026",
+  "n": 4,
+  "lat": 42.242031,
+  "lon": -70.887781,
+  "start": "16:39:36",
+  "end": "16:39:36",
+  "files": [
+   "IMG_0127 2.HEIC",
+   "IMG_0127.HEIC",
+   "IMG_9324 2.HEIC",
+   "IMG_9324.HEIC"
+  ],
+  "near": [
+   {
+    "number": "29",
+    "name": "Norway maple",
+    "m": 25,
+    "status": "photo_gps"
+   },
+   {
+    "number": "02",
+    "name": "Turkey oak",
+    "m": 63,
+    "status": "suggested"
+   },
+   {
+    "number": "30",
+    "name": "Weeping European beech",
+    "m": 67,
+    "status": "photo_gps"
+   }
+  ]
+ },
+ {
+  "id": "C027",
+  "n": 5,
+  "lat": 42.242079,
+  "lon": -70.887429,
+  "start": "16:39:47",
+  "end": "16:39:56",
+  "files": [
+   "IMG_2492.HEIC",
+   "629368C7-A046-4A82-ADA3-74E9F6841D6B.HEIC",
+   "IMG_2493.HEIC",
+   "89458C51-148B-4690-9B90-C0139DB3AA1B.HEIC",
+   "IMG_2494.HEIC"
+  ],
+  "near": [
+   {
+    "number": "29",
+    "name": "Norway maple",
+    "m": 17,
+    "status": "photo_gps"
+   },
+   {
+    "number": "40",
+    "name": "Eastern white pine",
+    "m": 51,
+    "status": "photo_gps"
+   },
+   {
+    "number": "02",
+    "name": "Turkey oak",
+    "m": 51,
+    "status": "suggested"
+   }
+  ]
+ },
+ {
+  "id": "C028",
+  "n": 4,
+  "lat": 42.242022,
+  "lon": -70.887664,
+  "start": "16:39:59",
+  "end": "16:39:59",
+  "files": [
+   "IMG_0487 2.HEIC",
+   "IMG_0487.HEIC",
+   "IMG_9325 2.HEIC",
+   "IMG_9325.HEIC"
+  ],
+  "near": [
+   {
+    "number": "29",
+    "name": "Norway maple",
+    "m": 16,
+    "status": "photo_gps"
+   },
+   {
+    "number": "02",
+    "name": "Turkey oak",
+    "m": 60,
+    "status": "suggested"
+   },
+   {
+    "number": "01",
+    "name": "Bloodgood Japanese maple",
+    "m": 64,
+    "status": "suggested"
+   }
+  ]
+ },
+ {
+  "id": "C029",
+  "n": 2,
+  "lat": 42.242053,
+  "lon": -70.887428,
+  "start": "16:40:05",
+  "end": "16:40:05",
+  "files": [
+   "8F138E97-B6ED-4BCC-B06D-00AD3E8908B8.HEIC",
+   "IMG_2495.HEIC"
+  ],
+  "near": [
+   {
+    "number": "29",
+    "name": "Norway maple",
+    "m": 14,
+    "status": "photo_gps"
+   },
+   {
+    "number": "40",
+    "name": "Eastern white pine",
+    "m": 53,
+    "status": "photo_gps"
+   },
+   {
+    "number": "02",
+    "name": "Turkey oak",
+    "m": 54,
+    "status": "suggested"
+   }
+  ]
+ },
+ {
+  "id": "C030",
+  "n": 34,
+  "lat": 42.241967,
+  "lon": -70.887578,
+  "start": "16:40:16",
+  "end": "16:42:09",
+  "files": [
+   "IMG_0169.HEIC",
+   "IMG_9326 2.HEIC",
+   "IMG_9326.HEIC",
+   "IMG_0125.HEIC",
+   "IMG_9327 2.HEIC",
+   "IMG_9327.HEIC",
+   "IMG_0126.HEIC",
+   "IMG_9328 2.HEIC",
+   "IMG_9328.HEIC",
+   "IMG_0120.HEIC",
+   "IMG_2496.HEIC",
+   "IMG_9329 2.HEIC",
+   "IMG_9329.HEIC",
+   "A30975D9-4D32-4F7F-83B2-C6015277B000.HEIC",
+   "IMG_2497 2.HEIC",
+   "IMG_0119.HEIC",
+   "IMG_9330 2.HEIC",
+   "IMG_9330.HEIC",
+   "IMG_2498.JPG",
+   "IMG_2499.HEIC",
+   "IMG_0118.HEIC",
+   "IMG_9331 2.HEIC",
+   "IMG_9331.HEIC",
+   "9CD7614F-7EE8-4C9F-88C4-D7D59C5209A3.HEIC",
+   "IMG_2500.HEIC",
+   "IMG_0117.HEIC",
+   "IMG_9332 2.HEIC",
+   "IMG_9332.HEIC",
+   "7B04DD58-5348-4D41-9585-FEE6C7D7B01A.HEIC",
+   "IMG_2501.HEIC",
+   "8338C7C4-AC55-471A-8F69-9315E86702B7.HEIC",
+   "IMG_2502.HEIC",
+   "B8E03196-B05E-4525-A37F-D7F61233238A.HEIC",
+   "IMG_2503.HEIC"
+  ],
+  "near": [
+   {
+    "number": "29",
+    "name": "Norway maple",
+    "m": 7,
+    "status": "photo_gps"
+   },
+   {
+    "number": "02",
+    "name": "Turkey oak",
+    "m": 65,
+    "status": "suggested"
+   },
+   {
+    "number": "01",
+    "name": "Bloodgood Japanese maple",
+    "m": 68,
+    "status": "suggested"
+   }
+  ]
+ },
+ {
+  "id": "C031",
+  "n": 4,
+  "lat": 42.242131,
+  "lon": -70.888047,
+  "start": "16:42:38",
+  "end": "16:42:38",
+  "files": [
+   "IMG_0116.HEIC",
+   "IMG_0633.HEIC",
+   "IMG_9333 2.HEIC",
+   "IMG_9333.HEIC"
+  ],
+  "near": [
+   {
+    "number": "30",
+    "name": "Weeping European beech",
+    "m": 48,
+    "status": "photo_gps"
+   },
+   {
+    "number": "29",
+    "name": "Norway maple",
+    "m": 50,
+    "status": "photo_gps"
+   },
+   {
+    "number": "02",
+    "name": "Turkey oak",
+    "m": 67,
+    "status": "suggested"
+   }
+  ]
+ },
+ {
+  "id": "C032",
+  "n": 27,
+  "lat": 42.241994,
+  "lon": -70.887532,
+  "start": "16:42:53",
+  "end": "16:44:26",
+  "files": [
+   "IMG_0496 2.HEIC",
+   "IMG_0496.HEIC",
+   "IMG_9334 2.HEIC",
+   "IMG_9334.HEIC",
+   "IMG_0114.HEIC",
+   "IMG_9335 2.HEIC",
+   "IMG_9335.HEIC",
+   "IMG_0113.HEIC",
+   "IMG_9336 2.HEIC",
+   "IMG_9336.HEIC",
+   "IMG_0499 2.HEIC",
+   "IMG_0499.HEIC",
+   "IMG_9337 2.HEIC",
+   "IMG_9337.HEIC",
+   "IMG_0111.HEIC",
+   "IMG_9338 2.HEIC",
+   "IMG_9338.HEIC",
+   "8833B6A4-AF57-475D-9D6B-4AB7CD374FA8.HEIC",
+   "IMG_2504.HEIC",
+   "E6B95BFC-A130-489A-9520-F95440553607.HEIC",
+   "IMG_2505.HEIC",
+   "844F4F3D-B234-4DF7-9F1E-F3EDC296C2F6.HEIC",
+   "IMG_2506.HEIC",
+   "1F252F89-0992-4BD4-A262-5D4B1E64065A.HEIC",
+   "IMG_2507.HEIC",
+   "IMG_9339 2.HEIC",
+   "IMG_9339.HEIC"
+  ],
+  "near": [
+   {
+    "number": "29",
+    "name": "Norway maple",
+    "m": 7,
+    "status": "photo_gps"
+   },
+   {
+    "number": "02",
+    "name": "Turkey oak",
+    "m": 61,
+    "status": "suggested"
+   },
+   {
+    "number": "40",
+    "name": "Eastern white pine",
+    "m": 64,
+    "status": "photo_gps"
+   }
+  ]
+ },
+ {
+  "id": "C033",
+  "n": 45,
+  "lat": 42.242009,
+  "lon": -70.887273,
+  "start": "16:44:28",
+  "end": "16:48:01",
+  "files": [
+   "IMG_2508.HEIC",
+   "IMG_2509.HEIC",
+   "IMG_9340 2.HEIC",
+   "IMG_9340.HEIC",
+   "IMG_9341 2.HEIC",
+   "IMG_9341.HEIC",
+   "IMG_2510.HEIC",
+   "IMG_2511.HEIC",
+   "IMG_2512.HEIC",
+   "IMG_2513.HEIC",
+   "IMG_9342 2.HEIC",
+   "IMG_9342.HEIC",
+   "IMG_2514.HEIC",
+   "IMG_9343 2.HEIC",
+   "IMG_9343.HEIC",
+   "IMG_9344 2.HEIC",
+   "IMG_9344.HEIC",
+   "IMG_9345 2.HEIC",
+   "IMG_9345.HEIC",
+   "IMG_9346 2.HEIC",
+   "IMG_9346.HEIC",
+   "IMG_9347 2.HEIC",
+   "IMG_9347.HEIC",
+   "IMG_9348 2.HEIC",
+   "IMG_9348.HEIC",
+   "IMG_9349 2.HEIC",
+   "IMG_9349.HEIC",
+   "IMG_9350 2.HEIC",
+   "IMG_9350.HEIC",
+   "IMG_9351 2.HEIC",
+   "IMG_9351.HEIC",
+   "IMG_2515.HEIC",
+   "IMG_9352 2.HEIC",
+   "IMG_9352.HEIC",
+   "IMG_2516.HEIC",
+   "IMG_9353 2.HEIC",
+   "IMG_9353.HEIC",
+   "IMG_9354 2.HEIC",
+   "IMG_9354.HEIC",
+   "IMG_9355 2.HEIC",
+   "IMG_9355.HEIC",
+   "IMG_9356 2.HEIC",
+   "IMG_9356.HEIC",
+   "IMG_9357 2.HEIC",
+   "IMG_9357.HEIC"
+  ],
+  "near": [
+   {
+    "number": "29",
+    "name": "Norway maple",
+    "m": 21,
+    "status": "photo_gps"
+   },
+   {
+    "number": "31",
+    "name": "Eastern redbud",
+    "m": 47,
+    "status": "photo_gps"
+   },
+   {
+    "number": "32",
+    "name": "Appalachian Red redbud",
+    "m": 47,
+    "status": "photo_gps"
+   }
+  ]
+ },
+ {
+  "id": "C034",
+  "n": 22,
+  "lat": 42.241936,
+  "lon": -70.887105,
+  "start": "16:48:05",
+  "end": "16:49:31",
+  "files": [
+   "IMG_2517.HEIC",
+   "IMG_2518.HEIC",
+   "IMG_9358 2.HEIC",
+   "IMG_9358.HEIC",
+   "IMG_2519.HEIC",
+   "IMG_2520.HEIC",
+   "IMG_2521.HEIC",
+   "IMG_2522.HEIC",
+   "IMG_2523.HEIC",
+   "IMG_9359 2.HEIC",
+   "IMG_9359.HEIC",
+   "IMG_9360 2.HEIC",
+   "IMG_9360.HEIC",
+   "IMG_9361 2.HEIC",
+   "IMG_9361.HEIC",
+   "IMG_2524.HEIC",
+   "IMG_9362 2.HEIC",
+   "IMG_9362.HEIC",
+   "IMG_9363 2.HEIC",
+   "IMG_9363.HEIC",
+   "IMG_9364 2.HEIC",
+   "IMG_9364.HEIC"
+  ],
+  "near": [
+   {
+    "number": "29",
+    "name": "Norway maple",
+    "m": 33,
+    "status": "photo_gps"
+   },
+   {
+    "number": "05",
+    "name": "Northern red oak",
+    "m": 36,
+    "status": "photo_gps"
+   },
+   {
+    "number": "32",
+    "name": "Appalachian Red redbud",
+    "m": 44,
+    "status": "photo_gps"
+   }
+  ]
+ },
+ {
+  "id": "C035",
+  "n": 51,
+  "lat": 42.241854,
+  "lon": -70.886995,
+  "start": "16:49:37",
+  "end": "16:54:01",
+  "files": [
+   "IMG_2525.HEIC",
+   "IMG_9365 2.HEIC",
+   "IMG_9365.HEIC",
+   "IMG_9366 2.HEIC",
+   "IMG_9366.HEIC",
+   "IMG_2526.HEIC",
+   "IMG_2527.HEIC",
+   "IMG_9367 2.HEIC",
+   "IMG_9367.HEIC",
+   "IMG_9368 2.HEIC",
+   "IMG_9368.HEIC",
+   "IMG_9369 2.HEIC",
+   "IMG_9369.HEIC",
+   "IMG_9370 2.HEIC",
+   "IMG_9370.HEIC",
+   "IMG_9371 2.HEIC",
+   "IMG_9371.HEIC",
+   "IMG_9372 2.HEIC",
+   "IMG_9372.HEIC",
+   "IMG_9373 2.HEIC",
+   "IMG_9373.HEIC",
+   "IMG_9374 2.HEIC",
+   "IMG_9374.HEIC",
+   "IMG_9375 2.HEIC",
+   "IMG_9375.HEIC",
+   "IMG_9376 2.HEIC",
+   "IMG_9376.HEIC",
+   "IMG_9377 2.HEIC",
+   "IMG_9377.HEIC",
+   "IMG_9378 2.HEIC",
+   "IMG_9378.HEIC",
+   "IMG_9379 2.HEIC",
+   "IMG_9379.HEIC",
+   "IMG_9380 2.HEIC",
+   "IMG_9380.HEIC",
+   "IMG_9381 2.HEIC",
+   "IMG_9381.HEIC",
+   "IMG_9382 2.HEIC",
+   "IMG_9382.HEIC",
+   "IMG_9383 2.HEIC",
+   "IMG_9383.HEIC",
+   "IMG_9384 2.HEIC",
+   "IMG_9384.HEIC",
+   "IMG_9385 2.HEIC",
+   "IMG_9385.HEIC",
+   "IMG_9386 2.HEIC",
+   "IMG_9386.HEIC",
+   "IMG_9387 2.HEIC",
+   "IMG_9387.HEIC",
+   "IMG_9388 2.HEIC",
+   "IMG_9388.HEIC"
+  ],
+  "near": [
+   {
+    "number": "05",
+    "name": "Northern red oak",
+    "m": 26,
+    "status": "photo_gps"
+   },
+   {
+    "number": "29",
+    "name": "Norway maple",
+    "m": 43,
+    "status": "photo_gps"
+   },
+   {
+    "number": "32",
+    "name": "Appalachian Red redbud",
+    "m": 49,
+    "status": "photo_gps"
+   }
+  ]
+ },
+ {
+  "id": "C036",
+  "n": 24,
+  "lat": 42.241632,
+  "lon": -70.886721,
+  "start": "16:54:22",
+  "end": "16:56:25",
+  "files": [
+   "IMG_9389 2.HEIC",
+   "IMG_9389.HEIC",
+   "IMG_9390 2.HEIC",
+   "IMG_9390.HEIC",
+   "IMG_9391 2.HEIC",
+   "IMG_9391.HEIC",
+   "IMG_9392 2.HEIC",
+   "IMG_9392.HEIC",
+   "IMG_9393 2.HEIC",
+   "IMG_9393.HEIC",
+   "IMG_9394 2.HEIC",
+   "IMG_9394.HEIC",
+   "IMG_9395 2.HEIC",
+   "IMG_9395.HEIC",
+   "IMG_9396 2.HEIC",
+   "IMG_9396.HEIC",
+   "IMG_9397 2.HEIC",
+   "IMG_9397.HEIC",
+   "IMG_9398 2.HEIC",
+   "IMG_9398.HEIC",
+   "IMG_9399 2.HEIC",
+   "IMG_9399.HEIC",
+   "IMG_9400 2.HEIC",
+   "IMG_9400.HEIC"
+  ],
+  "near": [
+   {
+    "number": "06",
+    "name": "Weeping Norway spruce",
+    "m": 21,
+    "status": "photo_gps"
+   },
+   {
+    "number": "05",
+    "name": "Northern red oak",
+    "m": 24,
+    "status": "photo_gps"
+   },
+   {
+    "number": "39",
+    "name": "Swiss stone pine",
+    "m": 44,
+    "status": "official_map"
+   }
+  ]
+ }
+]

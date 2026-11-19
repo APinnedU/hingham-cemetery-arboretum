@@ -1,0 +1,585 @@
+[
+ {
+  "unit": "U001",
+  "tree_key": "new-U001",
+  "files": [
+   "IMG_2390.jpg",
+   "IMG_2391.jpg"
+  ],
+  "views": {
+   "IMG_2390.jpg": "not a tree",
+   "IMG_2391.jpg": "duplicate"
+  },
+  "species_common": "not a tree",
+  "species_sci": null,
+  "confidence": "high",
+  "feature": "both frames are the cemetery brochure held open on the grass",
+  "text_seen": "Hingham Cemetery, established circa 1672, listed on the National Register of Historic Places; 12 South Street, P.O. Box 305, Hingham, MA 02043-0305; info@hinghamcemetery.org; www.hinghamcemetery.org. Headstone photo: HERE LYES INTERR'D THE BODY OF DANIEL STODDER WHO DEC'D MARCH YE 8 1736 IN YE HUNDRED & FOURTH YEAR. Panels: About Us, Ames Chapel (1886, restored 2015), Veterans Area, Memorial Garden (opened 2001). 'Burial space is currently available for purchase throughout the grounds.'",
+  "match_number": null,
+  "match_alternatives": [],
+  "match_reason": "no tree in the unit; GPS 16 m from 07 Sugar maple is incidental",
+  "is_new": false,
+  "condition": null,
+  "maintenance_note": null,
+  "notes": "Reference material only. The brochure says the Ames Chapel dates from 1886, which fixes the chapel seen behind U002, U004 and U005."
+ },
+ {
+  "unit": "U002",
+  "tree_key": "01",
+  "files": [
+   "IMG_0013.jpg",
+   "IMG_9141.jpg",
+   "IMG_0014.jpg",
+   "IMG_9142.jpg",
+   "IMG_0016.jpg",
+   "IMG_9143.jpg",
+   "IMG_9144.jpg",
+   "IMG_0017.jpg",
+   "IMG_9145.jpg",
+   "IMG_0300 2.jpg",
+   "IMG_9146.jpg",
+   "IMG_0299.jpg",
+   "IMG_9147.jpg",
+   "IMG_9148.jpg",
+   "IMG_0297.jpg",
+   "IMG_9149.jpg"
+  ],
+  "views": {
+   "IMG_0013.jpg": "canopy",
+   "IMG_9141.jpg": "duplicate",
+   "IMG_0014.jpg": "canopy (with chapel)",
+   "IMG_9142.jpg": "duplicate",
+   "IMG_0016.jpg": "bark",
+   "IMG_9143.jpg": "duplicate",
+   "IMG_9144.jpg": "bark",
+   "IMG_0017.jpg": "duplicate",
+   "IMG_9145.jpg": "duplicate",
+   "IMG_0300 2.jpg": "leaf",
+   "IMG_9146.jpg": "duplicate",
+   "IMG_0299.jpg": "fruit or nut (samaras) and leaf",
+   "IMG_9147.jpg": "duplicate",
+   "IMG_9148.jpg": "root flare",
+   "IMG_0297.jpg": "duplicate",
+   "IMG_9149.jpg": "duplicate"
+  },
+  "species_common": "Japanese maple, red-leaved upright cultivar (Bloodgood type)",
+  "species_sci": "Acer palmatum (red cultivar, probably 'Bloodgood')",
+  "confidence": "high",
+  "feature": "deep red 7-lobed palmate leaves with red winged samaras in pairs; upright multi-stem red canopy beside the Ames Chapel",
+  "text_seen": null,
+  "match_number": "01",
+  "match_alternatives": [
+   "27"
+  ],
+  "match_reason": "01 Bloodgood Japanese maple is 10 m away in section B and the red-leaved cultivar fits its name; 27 Japanese maple (unnamed cultivar) is 17 m away and Nov 2 photos of 27 sit 16 m off, so 27 stays a candidate if 01 proves to be a different tree",
+  "is_new": false,
+  "condition": "fair to good",
+  "maintenance_note": "one large stem removed flush at the base (IMG_9148), cut face still open; a big pruned stub on the trunk; otherwise full canopy and no visible dieback",
+  "notes": "Stands at the chapel corner (green chapel with orange trim). IMG_0016 and IMG_9143 are a rougher, paler bark close-up than IMG_9144; probably the lower trunk of the same tree but not certain."
+ },
+ {
+  "unit": "U004",
+  "tree_key": "01",
+  "files": [
+   "IMG_0293.jpg",
+   "IMG_9153.jpg",
+   "IMG_9154.jpg",
+   "IMG_0291.jpg",
+   "IMG_9155.jpg"
+  ],
+  "views": {
+   "IMG_0293.jpg": "tape measure",
+   "IMG_9153.jpg": "duplicate",
+   "IMG_9154.jpg": "tape measure",
+   "IMG_0291.jpg": "tape measure (trunk with pruned stub)",
+   "IMG_9155.jpg": "duplicate"
+  },
+  "species_common": "Japanese maple, red-leaved upright cultivar",
+  "species_sci": "Acer palmatum",
+  "confidence": "high",
+  "feature": "same smooth gray lichen-spotted trunk as U002, taken 3 minutes later at the same spot",
+  "text_seen": "tape hook sits at about the 50 inch mark: circumference about 50 in (4 ft 2 in)",
+  "match_number": "01",
+  "match_alternatives": [
+   "27"
+  ],
+  "match_reason": "continuation of U002 (same GPS center, 10 m from 01)",
+  "is_new": false,
+  "condition": "fair to good",
+  "maintenance_note": "large pruned stub on the trunk at tape height",
+  "notes": "Unit split: these five frames are the maple, the other seven are the oak next to it."
+ },
+ {
+  "unit": "U004",
+  "tree_key": "02",
+  "files": [
+   "IMG_0290.jpg",
+   "IMG_9156.jpg",
+   "IMG_9157.jpg",
+   "IMG_9158.jpg",
+   "IMG_0324.jpg",
+   "IMG_9159.jpg",
+   "IMG_9160.jpg"
+  ],
+  "views": {
+   "IMG_0290.jpg": "canopy",
+   "IMG_9156.jpg": "duplicate",
+   "IMG_9157.jpg": "canopy (pine at left)",
+   "IMG_9158.jpg": "duplicate",
+   "IMG_0324.jpg": "canopy",
+   "IMG_9159.jpg": "duplicate",
+   "IMG_9160.jpg": "canopy (beside chapel)"
+  },
+  "species_common": "oak, large, Turkey oak by the roster",
+  "species_sci": "Quercus cerris (per roster; leaves in U005)",
+  "confidence": "medium",
+  "feature": "large spreading oak on the knoll by the gravel path next to the chapel; canopy only here, leaves are in U005",
+  "text_seen": null,
+  "match_number": "02",
+  "match_alternatives": [],
+  "match_reason": "02 Turkey oak is 14 m away (Nov 2 photo of 02 at 12 m) and is the only oak near the chapel",
+  "is_new": false,
+  "condition": "good",
+  "maintenance_note": null,
+  "notes": "Second tree in the unit. U005 one minute later gives the leaf."
+ },
+ {
+  "unit": "U005",
+  "tree_key": "02",
+  "files": [
+   "IMG_9161.jpg",
+   "IMG_0284.jpg",
+   "IMG_9162.jpg",
+   "IMG_0283.jpg",
+   "IMG_9163.jpg",
+   "IMG_0329.jpg",
+   "IMG_9164.jpg",
+   "IMG_0281.jpg",
+   "IMG_9165.jpg",
+   "IMG_0280.jpg",
+   "IMG_9166.jpg"
+  ],
+  "views": {
+   "IMG_9161.jpg": "canopy",
+   "IMG_0284.jpg": "duplicate",
+   "IMG_9162.jpg": "duplicate",
+   "IMG_0283.jpg": "leaf",
+   "IMG_9163.jpg": "duplicate",
+   "IMG_0329.jpg": "leaf",
+   "IMG_9164.jpg": "duplicate",
+   "IMG_0281.jpg": "leaf",
+   "IMG_9165.jpg": "leaf (sprout cluster on the trunk)",
+   "IMG_0280.jpg": "leaf",
+   "IMG_9166.jpg": "duplicate"
+  },
+  "species_common": "Turkey oak",
+  "species_sci": "Quercus cerris",
+  "confidence": "medium",
+  "feature": "deeply and irregularly cut leaves with narrow pointed lobes and a rough surface, matching Turkey oak; no acorn seen, so a mossy-cupped acorn would make it certain",
+  "text_seen": null,
+  "match_number": "02",
+  "match_alternatives": [],
+  "match_reason": "24 m from 02 Turkey oak (suggested pin) and 11 m from the Nov 2 photo of 02; species agrees",
+  "is_new": false,
+  "condition": "good",
+  "maintenance_note": "epicormic sprout clusters on the trunk (IMG_9165), worth noting but not urgent",
+  "notes": "Same oak as the U004 canopy frames."
+ },
+ {
+  "unit": "U013",
+  "tree_key": "new-U015",
+  "files": [
+   "IMG_2427.jpg"
+  ],
+  "views": {
+   "IMG_2427.jpg": "trunk (fork of a large trunk, ridged gray bark)"
+  },
+  "species_common": "linden (lime)",
+  "species_sci": "Tilia sp.",
+  "confidence": "medium",
+  "feature": "taken 2 seconds before the U015 linden bark close-ups at the same spot; this is the fork of that trunk",
+  "text_seen": null,
+  "match_number": null,
+  "match_alternatives": [],
+  "match_reason": "no linden in the roster within 150 m (28 Linden is in section D); treated as the same new tree as U015",
+  "is_new": true,
+  "condition": "fair",
+  "maintenance_note": null,
+  "notes": "Folded into new-U015. Single frame."
+ },
+ {
+  "unit": "U015",
+  "tree_key": "new-U015",
+  "files": [
+   "IMG_2428.jpg",
+   "IMG_2429.jpg",
+   "IMG_2430.jpg",
+   "IMG_2431.jpg",
+   "IMG_2432.jpg",
+   "IMG_2433.jpg",
+   "IMG_2434.jpg",
+   "IMG_2435.jpg",
+   "IMG_2436.jpg",
+   "IMG_2437.jpg",
+   "IMG_2438.jpg",
+   "IMG_2439.jpg"
+  ],
+  "views": {
+   "IMG_2428.jpg": "bark",
+   "IMG_2429.jpg": "bark",
+   "IMG_2430.jpg": "bark",
+   "IMG_2431.jpg": "leaf",
+   "IMG_2432.jpg": "fruit or nut (bract with nutlets) and leaf",
+   "IMG_2433.jpg": "fruit or nut and leaf",
+   "IMG_2434.jpg": "duplicate",
+   "IMG_2435.jpg": "leaf",
+   "IMG_2436.jpg": "leaf",
+   "IMG_2437.jpg": "duplicate",
+   "IMG_2438.jpg": "fruit or nut and leaf",
+   "IMG_2439.jpg": "duplicate"
+  },
+  "species_common": "linden (lime)",
+  "species_sci": "Tilia sp. (species not determined; leaf size and dark spotting suggest littleleaf or hybrid, needs a leaf underside check)",
+  "confidence": "high",
+  "feature": "tan strap-like bract carrying 2 to 4 round nutlets, with heart-shaped finely serrate leaves",
+  "text_seen": null,
+  "match_number": null,
+  "match_alternatives": [],
+  "match_reason": "nearest roster trees are 40 white pine 17 m, 27 Japanese maple 23 m, 04 larch 26 m; none is a linden, and 28 Linden sits 150 m away in section D",
+  "is_new": true,
+  "condition": "fair",
+  "maintenance_note": "heavy black leaf spotting on most leaves (fungal leaf spot, cosmetic this late in the season); bark shows wavy horizontal ripples and lichen",
+  "notes": "New tree proposal: linden near the chapel-side lawn between the white pine and the larch, section A or B boundary. May be the same tree as the big burled tree in U018 (27 m by GPS, see new-U018); the two units show different trunk faces, so two entries are kept until someone stands there."
+ },
+ {
+  "unit": "U015",
+  "tree_key": "40",
+  "files": [
+   "IMG_9224.jpg",
+   "IMG_9225.jpg",
+   "IMG_9226.jpg",
+   "IMG_9227.jpg",
+   "IMG_9228.jpg",
+   "IMG_9229.jpg",
+   "IMG_9230.jpg",
+   "IMG_9231.jpg",
+   "IMG_2440.jpg",
+   "IMG_2441.jpg"
+  ],
+  "views": {
+   "IMG_9224.jpg": "fruit or nut (cone with tape)",
+   "IMG_9225.jpg": "trunk (base with low limbs)",
+   "IMG_9226.jpg": "bark",
+   "IMG_9227.jpg": "bark",
+   "IMG_9228.jpg": "trunk (looking up through dead lower limbs)",
+   "IMG_9229.jpg": "duplicate",
+   "IMG_9230.jpg": "duplicate",
+   "IMG_9231.jpg": "duplicate",
+   "IMG_2440.jpg": "trunk (base, dead limbs, orange needles)",
+   "IMG_2441.jpg": "duplicate"
+  },
+  "species_common": "Eastern white pine",
+  "species_sci": "Pinus strobus",
+  "confidence": "high",
+  "feature": "slender cone about 5 in long on the tape with soft needles in bundles of five; smooth gray young bark with a resin streak",
+  "text_seen": "cone against the tape reads about 5 in",
+  "match_number": "40",
+  "match_alternatives": [],
+  "match_reason": "40 Eastern white pine is 17 m away and the Nov 2 photo of 40 sits 19 m off; species agrees",
+  "is_new": false,
+  "condition": "fair",
+  "maintenance_note": "dense whorls of dead lower limbs still on the trunk with retained orange dead needles; prune the dead lower limbs and check the shaded side of the crown",
+  "notes": "Second tree in U015. The 39 Swiss stone pine Nov 2 photo is also 19 m off, but the long cylindrical cone and five-needle bundles rule out Pinus cembra."
+ },
+ {
+  "unit": "U018",
+  "tree_key": "32",
+  "files": [
+   "IMG_2446.jpg",
+   "IMG_9254.jpg",
+   "IMG_9255.jpg",
+   "IMG_2447.jpg",
+   "IMG_9257.jpg",
+   "IMG_9258.jpg",
+   "IMG_2453 2.jpg",
+   "IMG_2453.jpg",
+   "IMG_2454.jpg",
+   "IMG_2455.jpg",
+   "IMG_2456.jpg"
+  ],
+  "views": {
+   "IMG_2446.jpg": "leaf",
+   "IMG_9254.jpg": "tape measure (three-leader young trunk)",
+   "IMG_9255.jpg": "tape measure",
+   "IMG_2447.jpg": "leaf",
+   "IMG_9257.jpg": "trunk (with tape and two tags on stakes)",
+   "IMG_9258.jpg": "label",
+   "IMG_2453 2.jpg": "duplicate",
+   "IMG_2453.jpg": "leaf (canopy)",
+   "IMG_2454.jpg": "leaf",
+   "IMG_2455.jpg": "leaf (canopy)",
+   "IMG_2456.jpg": "duplicate"
+  },
+  "species_common": "Appalachian Red redbud",
+  "species_sci": "Cercis canadensis 'Appalachian Red'",
+  "confidence": "high",
+  "feature": "engraved label on a stake beside the taped trunk; heart-shaped entire-margined leaves",
+  "text_seen": "Label: Cercis canadensis 'Appalachian Red' / Redbud / Gift of / Derby Academy / 2004. Tape on the trunk reads about 11 in circumference (IMG_9254, IMG_9255). Headstones behind: CASEY and an obelisk.",
+  "match_number": "32",
+  "match_alternatives": [],
+  "match_reason": "label matches the roster name; 11 m from the 32 pin and 14 m from the Nov 2 photo of 32",
+  "is_new": false,
+  "condition": "good",
+  "maintenance_note": "young tree with three co-dominant leaders from low on the trunk; consider selecting a leader",
+  "notes": "Unit split three ways: this redbud, a second young redbud, and the large burled tree."
+ },
+ {
+  "unit": "U018",
+  "tree_key": "31",
+  "files": [
+   "IMG_9256.jpg",
+   "IMG_9259.jpg",
+   "IMG_9260.jpg",
+   "IMG_9261.jpg"
+  ],
+  "views": {
+   "IMG_9256.jpg": "canopy (leafless small tree with a tag on a stake)",
+   "IMG_9259.jpg": "root flare (wound and cavity at the base)",
+   "IMG_9260.jpg": "bark",
+   "IMG_9261.jpg": "tape measure"
+  },
+  "species_common": "redbud, second young tree (unlabeled frames)",
+  "species_sci": "Cercis canadensis (by roster; no leaf frame of its own)",
+  "confidence": "low",
+  "feature": "second taped young trunk, blocky lichen-covered bark, 13 in circumference, shot right after the labeled tree; no leaf or label of its own",
+  "text_seen": "tape reads about 13 in circumference (IMG_9261)",
+  "match_number": "31",
+  "match_alternatives": [
+   "32"
+  ],
+  "match_reason": "31 Eastern redbud is 9 m away and the only other roster tree that is a young redbud; 32 is the labeled tree already assigned",
+  "is_new": false,
+  "condition": "fair",
+  "maintenance_note": "open wound and small cavity at the root flare (IMG_9259), check for decay and girdling; the bare tree in IMG_9256 (same tree as U032 IMG_2482) had dropped its leaves by Oct 24 while the labeled redbud was in full leaf, so check it in spring for dieback",
+  "notes": "Cannot tell whether IMG_9256 (bare tagged tree) and the taped trunk in IMG_9259 to IMG_9261 are one tree or two; both are candidates for 31. If 31 is confirmed in leaf elsewhere, the bare tree may be a third planting."
+ },
+ {
+  "unit": "U018",
+  "tree_key": "new-U018",
+  "files": [
+   "IMG_2448.jpg",
+   "IMG_2449.jpg",
+   "IMG_2450.jpg",
+   "IMG_2451.jpg",
+   "IMG_2452.jpg",
+   "IMG_2457 2.jpg",
+   "IMG_2457.jpg",
+   "IMG_2458.jpg",
+   "IMG_2459.jpg",
+   "IMG_2460.jpg",
+   "IMG_2461.jpg",
+   "IMG_2462.jpg",
+   "IMG_2463.jpg",
+   "IMG_2464.jpg"
+  ],
+  "views": {
+   "IMG_2448.jpg": "trunk (large burls)",
+   "IMG_2449.jpg": "duplicate",
+   "IMG_2450.jpg": "trunk (burls, road behind)",
+   "IMG_2451.jpg": "bark",
+   "IMG_2452.jpg": "bark",
+   "IMG_2457 2.jpg": "fruit or nut (bracts with nutlets in hand)",
+   "IMG_2457.jpg": "duplicate",
+   "IMG_2458.jpg": "fruit or nut",
+   "IMG_2459.jpg": "fruit or nut",
+   "IMG_2460.jpg": "duplicate",
+   "IMG_2461.jpg": "root flare (burl and hollow at the base)",
+   "IMG_2462.jpg": "canopy",
+   "IMG_2463.jpg": "duplicate",
+   "IMG_2464.jpg": "duplicate"
+  },
+  "species_common": "linden (lime), large old tree",
+  "species_sci": "Tilia sp.",
+  "confidence": "medium",
+  "feature": "linden fruit bracts with nutlets picked up under the tree, heart-shaped leaves in the canopy, and the heavy burling typical of old lindens",
+  "text_seen": null,
+  "match_number": null,
+  "match_alternatives": [
+   "35"
+  ],
+  "match_reason": "no linden in the roster nearby; 35 European beech (official map, 14 m) is the only large roster tree in range but the leaves, fruit and burled bark are not beech, so it is listed only to be ruled out",
+  "is_new": true,
+  "condition": "poor to fair",
+  "maintenance_note": "heavy burls over the lower trunk, a hollow at the root flare (IMG_2461), and dead branches in the upper crown (IMG_2462); arborist should assess decay and the dead top",
+  "notes": "New tree proposal. Possibly the same tree as new-U015 (27 m by GPS, 8 minutes apart); U021's tape frames are most likely this trunk."
+ },
+ {
+  "unit": "U021",
+  "tree_key": "new-U018",
+  "files": [
+   "IMG_9268.jpg",
+   "IMG_9269.jpg"
+  ],
+  "views": {
+   "IMG_9268.jpg": "tape measure (bark close-up)",
+   "IMG_9269.jpg": "tape measure (bulging trunk)"
+  },
+  "species_common": "large old tree, probably the burled linden of U018",
+  "species_sci": "Tilia sp. (probable)",
+  "confidence": "low",
+  "feature": "dark, deeply furrowed, shaggy lichen-flecked bark on a bulging trunk beside the road with orange maples behind; matches the burled trunk of U018 three minutes earlier and 5 m away",
+  "text_seen": "IMG_9268: hook end sits at 9 ft 4 in (112 in), so circumference about 112 in. IMG_9269: hook near 9 ft 6 to 9 ft 8 in on the overlapping run, same tree.",
+  "match_number": null,
+  "match_alternatives": [
+   "04"
+  ],
+  "match_reason": "04 larch is 7 m away by GPS but a 112 in circumference and this shaggy dark bark do not fit the slender larch seen in U029 (plated pinkish bark in IMG_9288); the burled tree of U018 fits",
+  "is_new": true,
+  "condition": "fair",
+  "maintenance_note": null,
+  "notes": "Cannot tell species from these two frames alone; assignment rests on sequence and location."
+ },
+ {
+  "unit": "U023",
+  "tree_key": "04",
+  "files": [
+   "IMG_9277.jpg",
+   "IMG_9278.jpg",
+   "IMG_9279.jpg",
+   "IMG_9280.jpg",
+   "IMG_9281.jpg"
+  ],
+  "views": {
+   "IMG_9277.jpg": "leaf (larch tufts with cones)",
+   "IMG_9278.jpg": "leaf (white pine needles, overhanging branch)",
+   "IMG_9279.jpg": "fruit or nut (cones on a fallen twig)",
+   "IMG_9280.jpg": "fruit or nut (single cone)",
+   "IMG_9281.jpg": "fruit or nut"
+  },
+  "species_common": "European larch",
+  "species_sci": "Larix decidua (probable)",
+  "confidence": "medium",
+  "feature": "ovoid cones about 1 to 1.5 in with 30 or more scales whose edges are straight to slightly wavy; tamarack cones are under 1 in with about 15 scales, so tamarack is ruled out; Japanese larch (strongly recurved scales) is the remaining alternative",
+  "text_seen": null,
+  "match_number": "04",
+  "match_alternatives": [],
+  "match_reason": "04 larch is 18 m away and the roster asks for a cone check; this unit provides it",
+  "is_new": false,
+  "condition": "good",
+  "maintenance_note": null,
+  "notes": "Resolves the roster note 'pending cone check' toward Larix decidua. IMG_9278 is white pine foliage (five-needle bundles) from the neighboring 40, not the larch."
+ },
+ {
+  "unit": "U025",
+  "tree_key": "04",
+  "files": [
+   "IMG_9282.jpg"
+  ],
+  "views": {
+   "IMG_9282.jpg": "fruit or nut (cone close-up)"
+  },
+  "species_common": "European larch",
+  "species_sci": "Larix decidua (probable)",
+  "confidence": "medium",
+  "feature": "cone with many broad scales, margins slightly wavy and only gently turned out, not rosette-like",
+  "text_seen": null,
+  "match_number": "04",
+  "match_alternatives": [],
+  "match_reason": "same spot as U023, 16 m from 04",
+  "is_new": false,
+  "condition": "good",
+  "maintenance_note": null,
+  "notes": "Best single cone frame for the cone check."
+ },
+ {
+  "unit": "U029",
+  "tree_key": "04",
+  "files": [
+   "IMG_2468.jpg",
+   "IMG_9284.jpg",
+   "IMG_2469.jpg",
+   "IMG_9285.jpg",
+   "IMG_9286.jpg",
+   "IMG_9287.jpg",
+   "IMG_2470.jpg",
+   "IMG_2471.jpg",
+   "IMG_9288.jpg",
+   "IMG_9289.jpg"
+  ],
+  "views": {
+   "IMG_2468.jpg": "leaf and fruit (branches with cones)",
+   "IMG_9284.jpg": "canopy",
+   "IMG_2469.jpg": "fruit or nut (branch silhouette with cones)",
+   "IMG_9285.jpg": "canopy",
+   "IMG_9286.jpg": "leaf and fruit",
+   "IMG_9287.jpg": "leaf and fruit",
+   "IMG_2470.jpg": "leaf and fruit",
+   "IMG_2471.jpg": "leaf and fruit",
+   "IMG_9288.jpg": "bark",
+   "IMG_9289.jpg": "trunk (base by the paved path)"
+  },
+  "species_common": "European larch",
+  "species_sci": "Larix decidua (probable)",
+  "confidence": "high",
+  "feature": "deciduous conifer with short needles in tufts on spur shoots, small upright cones all along the branches, tall straight trunk with scaly pinkish-gray plated bark",
+  "text_seen": null,
+  "match_number": "04",
+  "match_alternatives": [],
+  "match_reason": "16 m from 04 and the only larch in the roster",
+  "is_new": false,
+  "condition": "good",
+  "maintenance_note": "very heavy cone crop; trunk base sits between a paved path and gravel, watch for compaction",
+  "notes": "Same tree as U023 and U025."
+ },
+ {
+  "unit": "U032",
+  "tree_key": "new-U032",
+  "files": [
+   "IMG_2482.jpg"
+  ],
+  "views": {
+   "IMG_2482.jpg": "canopy (leafless small tree with a tag on a stake)"
+  },
+  "species_common": "cannot tell",
+  "species_sci": null,
+  "confidence": "low",
+  "feature": "young tree already bare on Oct 24, fine ascending twigs, a few brown leaves left, label stake at the base (text not readable)",
+  "text_seen": "headstones behind: CASEY (left), an obelisk, and a stone ending in ARTER (right)",
+  "match_number": null,
+  "match_alternatives": [
+   "31",
+   "32"
+  ],
+  "match_reason": "GPS for this frame is 50 m north of U018, but the same CASEY stone and obelisk appear in U018, so the tree stands in the redbud group; it is the same bare tree as U018 IMG_9256; could be 31 Eastern redbud if it dropped leaves early",
+  "is_new": false,
+  "condition": "poor or cannot tell",
+  "maintenance_note": "leafless while the labeled redbud 2 m away was in full leaf; check in spring for dieback or death, read the stake tag",
+  "notes": "Do not create a new number from this frame; it is either 31 or a third young planting beside 31 and 32."
+ },
+ {
+  "unit": "U037",
+  "tree_key": "new-U037",
+  "files": [
+   "IMG_0127.jpg",
+   "IMG_9324.jpg"
+  ],
+  "views": {
+   "IMG_0127.jpg": "canopy",
+   "IMG_9324.jpg": "duplicate"
+  },
+  "species_common": "cannot tell (broad deciduous tree)",
+  "species_sci": null,
+  "confidence": "low",
+  "feature": "broad vase-shaped crown, small greenish-yellow leaves, forked trunk, beside the road and a row of headstones; too far for leaf shape",
+  "text_seen": null,
+  "match_number": null,
+  "match_alternatives": [
+   "29"
+  ],
+  "match_reason": "29 Norway maple (photo_gps) is 25 m away and is the only roster tree in range; the crown is plausible for a Norway maple but the leaves cannot be read, and the overhanging foreground leaves (rounded, toothed) belong to a different tree nearer the camera",
+  "is_new": false,
+  "condition": "good",
+  "maintenance_note": null,
+  "notes": "Needs a leaf or bark frame. Not proposed as new; listed as unresolved."
+ }
+]

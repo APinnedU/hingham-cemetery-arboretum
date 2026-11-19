@@ -1,0 +1,36 @@
+{
+ "maintenance": {
+  "44": "Many dead lower branches and dead twigs against the trunk (IMG_9198, IMG_9199); lean on the main trunk (IMG_9195); crown thin on one side. Deadwood removal worth a look.; Check the lower trunk for sapsucker damage and any resin bleeding; otherwise no action.",
+  "40": "Crown thin with many dead twigs and brown needle clusters (IMG_9218); heavy cone crop. Check for white pine weevil or needle cast; some of the browning is normal autumn drop of inner needles.; dense whorls of dead lower limbs still on the trunk with retained orange dead needles; prune the dead lower limbs and check the shaded side of the crown",
+  "46": "Burl on the lower trunk (IMG_2426) and bare twigs in the upper crown (IMG_2425, IMG_9262); basal suckers. An arborist should look at the crown dieback.; Bare upper crown (dieback at the top) and a large burl at the base.; Large burls around the base, basal sprouting, leaf spot on the sprout leaves. Mature tree beside the road; an arborist should check the base.; Burls at the base and up the trunk; leaf spot (dark blotches) on the leaves. Species within Tilia (americana vs cordata vs europaea) needs a flower or fruit check next summer.; heavy black leaf spotting on most leaves (fungal leaf spot, cosmetic this late in the season); bark shows wavy horizontal ripples and lichen; heavy burls over the lower trunk, a hollow at the root flare (IMG_2461), and dead branches in the upper crown (IMG_2462); arborist should assess decay and the dead top",
+  "27": "Small bark wound low on the trunk (IMG_9240); two old pruning cuts healed (IMG_9243). Nothing urgent.",
+  "48": "Large old hemlock; check for hemlock woolly adelgid (white wool on the needle undersides) and elongate hemlock scale. Bark heavily lichened.; Full crown with some dead inner twigs (normal shading). Check the undersides of twigs for hemlock woolly adelgid (white wool) each spring.",
+  "50": "Clean flare, no cavities seen. Younger tree than the hemlock.",
+  "29": "Full crown, single trunk, no dieback visible from this distance.; Some brown leaf edges, normal for the season.; Extensive exposed surface roots on the downhill side, some scuffed; keep foot traffic and mowers off them.; Full broad crown, no dieback seen. IMG_9339 (last frame, 16:44) shows flaky plated bark with heavy lichen that does not look like this maple; it may be the larch (roster 04, Nov 2 photo 17 m away) or another conifer beside it. Cannot tell from one frame.; Protect the exposed surface roots from mower and foot wear (mulch ring); inspect the co-dominant union for included bark.",
+  "04": "Plaque has come off its stake and lies on the ground; worth re-setting.; Heavy lichen on the trunks; the big trunk has deep scaly grey plates. Crowns full. The cone count on the pendulous twigs is very high this year.; very heavy cone crop; trunk base sits between a paved path and gravel, watch for compaction; Check crown density next summer; thin crown may be normal fall drop.; Arborist should assess the lean and root plate.",
+  "45": "Trunk heavily lichen covered, which is not itself harmful but suggests a thin crown; compare crown density with the 1999 tree.; Slim trunk with a large knot and epicormic needle sprouts low on the stem; heavy lichen. Small for a 1999 planting (about 6.5 in DBH after 27 years), so growth is slow; check for root or soil problems.; Arborist to check crown dieback and the root toward the path; mulch over the exposed root.; Check the bark hole for frass or sap; otherwise none.",
+  "49": "Clean flare, full crown. A fallen cone-bearing branch on the ground (IMG_9396).",
+  "02": "Large burl at the base on the uphill side and a second burl higher on the road side; old pruning stub on the road side; otherwise full crown. Worth an arborist look at the base burls.; epicormic sprout clusters on the trunk (IMG_9165), worth noting but not urgent; none seen",
+  "31": "Young tree, single leader, no damage seen. Small bark wound at the base of the trunk in IMG_9249 (old, callused).; open wound and small cavity at the root flare (IMG_9259), check for decay and girdling; the bare tree in IMG_9256 (same tree as U032 IMG_2482) had dropped its leaves by Oct 24 while the labeled redbud was in full leaf, so check it in spring for dieback",
+  "47": "Tall straight stem, full crown, heavy cone crop, lichen on the lower trunk. The trunk base frames (IMG_9297, 2477 to 2479) show orange grey plates; if those are a neighboring pine rather than this spruce the measurement still belongs to the spruce (IMG_9303).",
+  "01": "one large stem removed flush at the base (IMG_9148), cut face still open; a big pruned stub on the trunk; otherwise full canopy and no visible dieback; large pruned stub on the trunk at tape height; none seen",
+  "32": "young tree with three co-dominant leaders from low on the trunk; consider selecting a leader"
+ },
+ "condition": {
+  "44": "fair; fair: heavy cone load, rows of woodpecker or sapsucker holes on the trunk, needle litter at the base",
+  "40": "fair; good; cannot tell (needle sample only)",
+  "46": "see U011; fair; poor to fair; cannot tell",
+  "01": "good; fair to good; good: foliage full and healthy, heavy samara set",
+  "27": "good",
+  "04": "cannot tell; good; fair to good; fair: crown thin and high, long bare trunk; fair: pronounced lean, crown confined to the top third",
+  "48": "fair; good",
+  "50": "good",
+  "29": "good; fair; good: full crown; good: full crown, co-dominant fork at about 4 m, moss on the buttresses, long exposed surface roots radiating across the lawn, slight lean",
+  "45": "fair; fair: crown thin and one-sided with some bare upper branches, very heavy cone crop (can signal stress), lichen on the trunk, surface root running to the path; fair to good: full crown with cones, heavy lichen on the trunk, one small hole in the bark at about chest height (old branch stub or borer exit)",
+  "49": "good",
+  "02": "good to fair; good; good: full foliage, heavy acorn and catkin set; good: large mature trunk, no cavities seen in the one trunk view",
+  "31": "good; fair",
+  "47": "good",
+  "32": "good"
+ }
+}
